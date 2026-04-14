@@ -1,365 +1,461 @@
 {
-  "version": 1776210016449,
+  "version": 1776210664443,
   "data": [
     {
-      "name": "questions.json",
-      "path": "questions.json",
-      "sha": "0967ef424bce6791893e9a57bb952f80fd536e93",
-      "size": 3,
-      "url": "https://api.github.com/repos/Luksanss/autoskola-data/contents/questions.json?ref=main",
-      "html_url": "https://github.com/Luksanss/autoskola-data/blob/main/questions.json",
-      "git_url": "https://api.github.com/repos/Luksanss/autoskola-data/git/blobs/0967ef424bce6791893e9a57bb952f80fd536e93",
-      "download_url": "https://raw.githubusercontent.com/Luksanss/autoskola-data/main/questions.json?token=AVZS4TPDKQSH6M2TNL3DVT3J33IJZAA",
-      "type": "file",
-      "content": "e30K\n",
-      "encoding": "base64",
-      "_links": {
-        "self": "https://api.github.com/repos/Luksanss/autoskola-data/contents/questions.json?ref=main",
-        "git": "https://api.github.com/repos/Luksanss/autoskola-data/git/blobs/0967ef424bce6791893e9a57bb952f80fd536e93",
-        "html": "https://github.com/Luksanss/autoskola-data/blob/main/questions.json"
-      }
+      "id": "q_180",
+      "category": "Pravidla provozu",
+      "points": 2,
+      "question": "Nemotorové vozidlo je: ",
+      "imageUrl": null,
+      "videoUrl": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Přípojné vozidlo a vozidlo pohybující se pomocí lidské nebo zvířecí síly, například jízdní kolo, ruční vozík nebo potahové vozidlo."
+        },
+        {
+          "id": "b",
+          "text": "Každé vozidlo poháněné jiným než spalovacím motorem, například elektromobil."
+        },
+        {
+          "id": "c",
+          "text": "Kolejové vozidlo, které se účastní provozu na pozemních komunikacích."
+        }
+      ],
+      "correctAnswer": "a"
     },
     {
-      "name": "questions.json",
-      "path": "questions.json",
-      "sha": "0967ef424bce6791893e9a57bb952f80fd536e93",
-      "size": 3,
-      "url": "https://api.github.com/repos/Luksanss/autoskola-data/contents/questions.json?ref=main",
-      "html_url": "https://github.com/Luksanss/autoskola-data/blob/main/questions.json",
-      "git_url": "https://api.github.com/repos/Luksanss/autoskola-data/git/blobs/0967ef424bce6791893e9a57bb952f80fd536e93",
-      "download_url": "https://raw.githubusercontent.com/Luksanss/autoskola-data/main/questions.json?token=AVZS4TPDKQSH6M2TNL3DVT3J33IJZAA",
-      "type": "file",
-      "content": "e30K\n",
-      "encoding": "base64",
-      "_links": {
-        "self": "https://api.github.com/repos/Luksanss/autoskola-data/contents/questions.json?ref=main",
-        "git": "https://api.github.com/repos/Luksanss/autoskola-data/git/blobs/0967ef424bce6791893e9a57bb952f80fd536e93",
-        "html": "https://github.com/Luksanss/autoskola-data/blob/main/questions.json"
-      }
+      "id": "q_187",
+      "category": "Pravidla provozu",
+      "points": 2,
+      "question": "Zastavit s vozidlem ve druhé řadě můžete jen tehdy:",
+      "imageUrl": null,
+      "videoUrl": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Zůstane-li volný alespoň jeden jízdní pruh o šířce nejméně 3 m."
+        },
+        {
+          "id": "b",
+          "text": "Nelze-li s vozidlem ve vzdálenosti menší než 100 m zastavit při okraji pozemní komunikace. "
+        },
+        {
+          "id": "c",
+          "text": "Přepravujete-li osobu těžce postiženou nebo těžce pohybově postiženou."
+        }
+      ],
+      "correctAnswer": "a"
     },
     {
-      "name": "questions.json",
-      "path": "questions.json",
-      "sha": "0967ef424bce6791893e9a57bb952f80fd536e93",
-      "size": 3,
-      "url": "https://api.github.com/repos/Luksanss/autoskola-data/contents/questions.json?ref=main",
-      "html_url": "https://github.com/Luksanss/autoskola-data/blob/main/questions.json",
-      "git_url": "https://api.github.com/repos/Luksanss/autoskola-data/git/blobs/0967ef424bce6791893e9a57bb952f80fd536e93",
-      "download_url": "https://raw.githubusercontent.com/Luksanss/autoskola-data/main/questions.json?token=AVZS4TPDKQSH6M2TNL3DVT3J33IJZAA",
-      "type": "file",
-      "content": "e30K\n",
-      "encoding": "base64",
-      "_links": {
-        "self": "https://api.github.com/repos/Luksanss/autoskola-data/contents/questions.json?ref=main",
-        "git": "https://api.github.com/repos/Luksanss/autoskola-data/git/blobs/0967ef424bce6791893e9a57bb952f80fd536e93",
-        "html": "https://github.com/Luksanss/autoskola-data/blob/main/questions.json"
-      }
+      "id": "q_195",
+      "category": "Pravidla provozu",
+      "points": 2,
+      "question": "Připojovací pruh je: ",
+      "imageUrl": null,
+      "videoUrl": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Jízdní pruh vyhrazený jen pro vozidla hromadné dopravy osob."
+        },
+        {
+          "id": "b",
+          "text": "Jízdní pruh určený pro pomalá vozidla, která nemohou v daném úseku dosáhnout okamžité rychlosti nejméně 60 km/h."
+        },
+        {
+          "id": "c",
+          "text": "Jízdní pruh určený pro zařazování vozidel do průběžného pruhu."
+        }
+      ],
+      "correctAnswer": "c"
     },
     {
-      "name": "questions.json",
-      "path": "questions.json",
-      "sha": "0967ef424bce6791893e9a57bb952f80fd536e93",
-      "size": 3,
-      "url": "https://api.github.com/repos/Luksanss/autoskola-data/contents/questions.json?ref=main",
-      "html_url": "https://github.com/Luksanss/autoskola-data/blob/main/questions.json",
-      "git_url": "https://api.github.com/repos/Luksanss/autoskola-data/git/blobs/0967ef424bce6791893e9a57bb952f80fd536e93",
-      "download_url": "https://raw.githubusercontent.com/Luksanss/autoskola-data/main/questions.json?token=AVZS4TPDKQSH6M2TNL3DVT3J33IJZAA",
-      "type": "file",
-      "content": "e30K\n",
-      "encoding": "base64",
-      "_links": {
-        "self": "https://api.github.com/repos/Luksanss/autoskola-data/contents/questions.json?ref=main",
-        "git": "https://api.github.com/repos/Luksanss/autoskola-data/git/blobs/0967ef424bce6791893e9a57bb952f80fd536e93",
-        "html": "https://github.com/Luksanss/autoskola-data/blob/main/questions.json"
-      }
+      "id": "q_223",
+      "category": "Pravidla provozu",
+      "points": 2,
+      "question": "Je-li pro zařazování do průběžného jízdního pruhu zřízen připojovací pruh:",
+      "imageUrl": null,
+      "videoUrl": "https://etesty.md.gov.cz/binary_content_storage/Q_W_223.mp4",
+      "options": [
+        {
+          "id": "a",
+          "text": "Je řidič povinen před zařazením do průběžného pruhu užít připojovacího pruhu."
+        },
+        {
+          "id": "b",
+          "text": "Nemusí ho řidič před zařazením do průběžného pruhu užít, pokud přejetím do průběžného pruhu neomezí ani neohrozí ostatní řidiče."
+        },
+        {
+          "id": "c",
+          "text": "Je řidič povinen před zařazením do průběžného jízdního pruhu dosáhnout rychlosti nejméně 80 km/h. "
+        }
+      ],
+      "correctAnswer": "a"
     },
     {
-      "name": "questions.json",
-      "path": "questions.json",
-      "sha": "0967ef424bce6791893e9a57bb952f80fd536e93",
-      "size": 3,
-      "url": "https://api.github.com/repos/Luksanss/autoskola-data/contents/questions.json?ref=main",
-      "html_url": "https://github.com/Luksanss/autoskola-data/blob/main/questions.json",
-      "git_url": "https://api.github.com/repos/Luksanss/autoskola-data/git/blobs/0967ef424bce6791893e9a57bb952f80fd536e93",
-      "download_url": "https://raw.githubusercontent.com/Luksanss/autoskola-data/main/questions.json?token=AVZS4TPDKQSH6M2TNL3DVT3J33IJZAA",
-      "type": "file",
-      "content": "e30K\n",
-      "encoding": "base64",
-      "_links": {
-        "self": "https://api.github.com/repos/Luksanss/autoskola-data/contents/questions.json?ref=main",
-        "git": "https://api.github.com/repos/Luksanss/autoskola-data/git/blobs/0967ef424bce6791893e9a57bb952f80fd536e93",
-        "html": "https://github.com/Luksanss/autoskola-data/blob/main/questions.json"
-      }
+      "id": "q_237",
+      "category": "Pravidla provozu",
+      "points": 2,
+      "question": " Řidič motorového vozidla o maximální přípustné hmotnosti nepřevyšující 3 500 kg a autobusu smí jet:\r\n\r\n",
+      "imageUrl": null,
+      "videoUrl": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Na silnici pro motorová vozidla a na dálnici rychlostí nejvýše 130 km.h-1."
+        },
+        {
+          "id": "b",
+          "text": "Na silnici pro motorová vozidla rychlostí nejvýše 110 km.h-1 a na dálnici rychlostí nejvýše 130 km.h-1."
+        },
+        {
+          "id": "c",
+          "text": "Na silnici pro motorová vozidla rychlostí nejvýše 110 km.h-1 a na dálnici rychlostí nejvýše 130 km.h-1, s výjimkou řidiče autobusu, který na dálnici smí jet rychlostí nejvýše 110 km.h-1. "
+        }
+      ],
+      "correctAnswer": "b"
     },
     {
-      "name": "questions.json",
-      "path": "questions.json",
-      "sha": "0967ef424bce6791893e9a57bb952f80fd536e93",
-      "size": 3,
-      "url": "https://api.github.com/repos/Luksanss/autoskola-data/contents/questions.json?ref=main",
-      "html_url": "https://github.com/Luksanss/autoskola-data/blob/main/questions.json",
-      "git_url": "https://api.github.com/repos/Luksanss/autoskola-data/git/blobs/0967ef424bce6791893e9a57bb952f80fd536e93",
-      "download_url": "https://raw.githubusercontent.com/Luksanss/autoskola-data/main/questions.json?token=AVZS4TPDKQSH6M2TNL3DVT3J33IJZAA",
-      "type": "file",
-      "content": "e30K\n",
-      "encoding": "base64",
-      "_links": {
-        "self": "https://api.github.com/repos/Luksanss/autoskola-data/contents/questions.json?ref=main",
-        "git": "https://api.github.com/repos/Luksanss/autoskola-data/git/blobs/0967ef424bce6791893e9a57bb952f80fd536e93",
-        "html": "https://github.com/Luksanss/autoskola-data/blob/main/questions.json"
-      }
+      "id": "q_269",
+      "category": "Dopravní značky",
+      "points": 1,
+      "question": "Tato dopravní značka:",
+      "imageUrl": "https://etesty.md.gov.cz/binary_content_storage/Q_W_269.gif",
+      "videoUrl": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Upozorňuje na dvě nebo více po sobě následujících zatáček (směrových oblouků), z nichž první je vlevo, a jejichž bezpečné projetí vyžaduje výrazné snížení rychlosti jízdy."
+        },
+        {
+          "id": "b",
+          "text": "Upozorňuje na místo nebo úsek pozemní komunikace, kde může dojít ke smyku vozidla i za neztížených povětrnostních podmínek."
+        },
+        {
+          "id": "c",
+          "text": "Upozorňuje na dvě nebo více po sobě následujících zatáček (směrových oblouků), z nichž první je vpravo, a jejichž bezpečné projetí vyžaduje výrazné snížení rychlosti jízdy."
+        }
+      ],
+      "correctAnswer": "a"
     },
     {
-      "name": "questions.json",
-      "path": "questions.json",
-      "sha": "0967ef424bce6791893e9a57bb952f80fd536e93",
-      "size": 3,
-      "url": "https://api.github.com/repos/Luksanss/autoskola-data/contents/questions.json?ref=main",
-      "html_url": "https://github.com/Luksanss/autoskola-data/blob/main/questions.json",
-      "git_url": "https://api.github.com/repos/Luksanss/autoskola-data/git/blobs/0967ef424bce6791893e9a57bb952f80fd536e93",
-      "download_url": "https://raw.githubusercontent.com/Luksanss/autoskola-data/main/questions.json?token=AVZS4TPDKQSH6M2TNL3DVT3J33IJZAA",
-      "type": "file",
-      "content": "e30K\n",
-      "encoding": "base64",
-      "_links": {
-        "self": "https://api.github.com/repos/Luksanss/autoskola-data/contents/questions.json?ref=main",
-        "git": "https://api.github.com/repos/Luksanss/autoskola-data/git/blobs/0967ef424bce6791893e9a57bb952f80fd536e93",
-        "html": "https://github.com/Luksanss/autoskola-data/blob/main/questions.json"
-      }
+      "id": "q_427",
+      "category": "Pravidla provozu",
+      "points": 2,
+      "question": "Řidič nesmí připustit, aby počet přepravovaných osob starších 12 let překročil:",
+      "imageUrl": null,
+      "videoUrl": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Počet povolených míst určených k přepravě osob."
+        },
+        {
+          "id": "b",
+          "text": "Počet povolených míst určených k přepravě osob, jen pokud jsou vybavena zádržným bezpečnostním systémem."
+        },
+        {
+          "id": "c",
+          "text": "Dvojnásobek počtu povolených míst určených k přepravě osob."
+        }
+      ],
+      "correctAnswer": "a"
     },
     {
-      "name": "questions.json",
-      "path": "questions.json",
-      "sha": "0967ef424bce6791893e9a57bb952f80fd536e93",
-      "size": 3,
-      "url": "https://api.github.com/repos/Luksanss/autoskola-data/contents/questions.json?ref=main",
-      "html_url": "https://github.com/Luksanss/autoskola-data/blob/main/questions.json",
-      "git_url": "https://api.github.com/repos/Luksanss/autoskola-data/git/blobs/0967ef424bce6791893e9a57bb952f80fd536e93",
-      "download_url": "https://raw.githubusercontent.com/Luksanss/autoskola-data/main/questions.json?token=AVZS4TPDKQSH6M2TNL3DVT3J33IJZAA",
-      "type": "file",
-      "content": "e30K\n",
-      "encoding": "base64",
-      "_links": {
-        "self": "https://api.github.com/repos/Luksanss/autoskola-data/contents/questions.json?ref=main",
-        "git": "https://api.github.com/repos/Luksanss/autoskola-data/git/blobs/0967ef424bce6791893e9a57bb952f80fd536e93",
-        "html": "https://github.com/Luksanss/autoskola-data/blob/main/questions.json"
-      }
+      "id": "q_456",
+      "category": "Dopravní značky",
+      "points": 1,
+      "question": "V situaci na obrázku musí řidič při řízení zohlednit, že:",
+      "imageUrl": null,
+      "videoUrl": "https://etesty.md.gov.cz/binary_content_storage/Q_W_456.mp4",
+      "options": [
+        {
+          "id": "a",
+          "text": "Je dopravní značkou předem upozorňován na přechod pro chodce, který bude následovat ve vzdálenosti 150 m."
+        },
+        {
+          "id": "b",
+          "text": "Je dopravní značkou upozorňován na úsek o délce 150 m, kde lze očekávat zvýšený pohyb chodců."
+        },
+        {
+          "id": "c",
+          "text": "Je dopravní značkou předem upozorňován na práci na silnici, která je vykonávána ve vzdálenosti 150 m."
+        }
+      ],
+      "correctAnswer": "a"
     },
     {
-      "name": "questions.json",
-      "path": "questions.json",
-      "sha": "0967ef424bce6791893e9a57bb952f80fd536e93",
-      "size": 3,
-      "url": "https://api.github.com/repos/Luksanss/autoskola-data/contents/questions.json?ref=main",
-      "html_url": "https://github.com/Luksanss/autoskola-data/blob/main/questions.json",
-      "git_url": "https://api.github.com/repos/Luksanss/autoskola-data/git/blobs/0967ef424bce6791893e9a57bb952f80fd536e93",
-      "download_url": "https://raw.githubusercontent.com/Luksanss/autoskola-data/main/questions.json?token=AVZS4TPDKQSH6M2TNL3DVT3J33IJZAA",
-      "type": "file",
-      "content": "e30K\n",
-      "encoding": "base64",
-      "_links": {
-        "self": "https://api.github.com/repos/Luksanss/autoskola-data/contents/questions.json?ref=main",
-        "git": "https://api.github.com/repos/Luksanss/autoskola-data/git/blobs/0967ef424bce6791893e9a57bb952f80fd536e93",
-        "html": "https://github.com/Luksanss/autoskola-data/blob/main/questions.json"
-      }
+      "id": "q_476",
+      "category": "Pravidla provozu",
+      "points": 2,
+      "question": "Řidič vozidla z výhledu:",
+      "imageUrl": null,
+      "videoUrl": "https://etesty.md.gov.cz/binary_content_storage/Q_W_476.mp4",
+      "options": [
+        {
+          "id": "a",
+          "text": "Může pokračovat v jízdě křižovatkou, dává znamení o změně směru včas a v dostatečné míře a je na hlavní pozemní komunikaci."
+        },
+        {
+          "id": "b",
+          "text": "Může pokračovat v jízdě křižovatkou; je v dostatečné vzdálenosti od křižovatky a na světelném signalizačním zařízení již svítí signál \"Připravit k jízdě\"."
+        },
+        {
+          "id": "c",
+          "text": "Nesmí pokračovat v jízdě křižovatkou. Má za povinnost zastavit vozidlo před příčnou čárou souvislou."
+        }
+      ],
+      "correctAnswer": "c"
     },
     {
-      "name": "questions.json",
-      "path": "questions.json",
-      "sha": "0967ef424bce6791893e9a57bb952f80fd536e93",
-      "size": 3,
-      "url": "https://api.github.com/repos/Luksanss/autoskola-data/contents/questions.json?ref=main",
-      "html_url": "https://github.com/Luksanss/autoskola-data/blob/main/questions.json",
-      "git_url": "https://api.github.com/repos/Luksanss/autoskola-data/git/blobs/0967ef424bce6791893e9a57bb952f80fd536e93",
-      "download_url": "https://raw.githubusercontent.com/Luksanss/autoskola-data/main/questions.json?token=AVZS4TPDKQSH6M2TNL3DVT3J33IJZAA",
-      "type": "file",
-      "content": "e30K\n",
-      "encoding": "base64",
-      "_links": {
-        "self": "https://api.github.com/repos/Luksanss/autoskola-data/contents/questions.json?ref=main",
-        "git": "https://api.github.com/repos/Luksanss/autoskola-data/git/blobs/0967ef424bce6791893e9a57bb952f80fd536e93",
-        "html": "https://github.com/Luksanss/autoskola-data/blob/main/questions.json"
-      }
+      "id": "q_479",
+      "category": "Pravidla provozu",
+      "points": 2,
+      "question": "Jízdní pruh, do kterého hodlá přejet řidič vozidla z výhledu, se nazývá:",
+      "imageUrl": null,
+      "videoUrl": "https://etesty.md.gov.cz/binary_content_storage/Q_W_479.mp4",
+      "options": [
+        {
+          "id": "a",
+          "text": "Připojovací pruh."
+        },
+        {
+          "id": "b",
+          "text": "Odbočovací pruh."
+        },
+        {
+          "id": "c",
+          "text": "Průběžný pruh."
+        }
+      ],
+      "correctAnswer": "b"
     },
     {
-      "name": "questions.json",
-      "path": "questions.json",
-      "sha": "0967ef424bce6791893e9a57bb952f80fd536e93",
-      "size": 3,
-      "url": "https://api.github.com/repos/Luksanss/autoskola-data/contents/questions.json?ref=main",
-      "html_url": "https://github.com/Luksanss/autoskola-data/blob/main/questions.json",
-      "git_url": "https://api.github.com/repos/Luksanss/autoskola-data/git/blobs/0967ef424bce6791893e9a57bb952f80fd536e93",
-      "download_url": "https://raw.githubusercontent.com/Luksanss/autoskola-data/main/questions.json?token=AVZS4TPDKQSH6M2TNL3DVT3J33IJZAA",
-      "type": "file",
-      "content": "e30K\n",
-      "encoding": "base64",
-      "_links": {
-        "self": "https://api.github.com/repos/Luksanss/autoskola-data/contents/questions.json?ref=main",
-        "git": "https://api.github.com/repos/Luksanss/autoskola-data/git/blobs/0967ef424bce6791893e9a57bb952f80fd536e93",
-        "html": "https://github.com/Luksanss/autoskola-data/blob/main/questions.json"
-      }
+      "id": "q_498",
+      "category": "Podmínky provozu",
+      "points": 4,
+      "question": "Jako řidič auta z výhledu v dané situaci:",
+      "imageUrl": null,
+      "videoUrl": "https://etesty.md.gov.cz/binary_content_storage/Q_W_498.mp4",
+      "options": [
+        {
+          "id": "a",
+          "text": "Musíte zejména sledovat světelnou signalizaci a chování odbočujících řidičů v protisměru, i když Vám musejí dát přednost v jízdě."
+        },
+        {
+          "id": "b",
+          "text": "Musíte sledovat světelnou signalizaci a chování odbočujících řidičů v protisměru, jimž musíte dát přednost v jízdě."
+        },
+        {
+          "id": "c",
+          "text": "Musíte na příkaz dopravní značky odbočit vpravo."
+        }
+      ],
+      "correctAnswer": "a"
     },
     {
-      "name": "questions.json",
-      "path": "questions.json",
-      "sha": "0967ef424bce6791893e9a57bb952f80fd536e93",
-      "size": 3,
-      "url": "https://api.github.com/repos/Luksanss/autoskola-data/contents/questions.json?ref=main",
-      "html_url": "https://github.com/Luksanss/autoskola-data/blob/main/questions.json",
-      "git_url": "https://api.github.com/repos/Luksanss/autoskola-data/git/blobs/0967ef424bce6791893e9a57bb952f80fd536e93",
-      "download_url": "https://raw.githubusercontent.com/Luksanss/autoskola-data/main/questions.json?token=AVZS4TPDKQSH6M2TNL3DVT3J33IJZAA",
-      "type": "file",
-      "content": "e30K\n",
-      "encoding": "base64",
-      "_links": {
-        "self": "https://api.github.com/repos/Luksanss/autoskola-data/contents/questions.json?ref=main",
-        "git": "https://api.github.com/repos/Luksanss/autoskola-data/git/blobs/0967ef424bce6791893e9a57bb952f80fd536e93",
-        "html": "https://github.com/Luksanss/autoskola-data/blob/main/questions.json"
-      }
+      "id": "q_509",
+      "category": "Podmínky provozu",
+      "points": 4,
+      "question": "Jste řidičem vozidla z výhledu. Ve vyobrazené dopravní situaci:",
+      "imageUrl": null,
+      "videoUrl": "https://etesty.md.gov.cz/binary_content_storage/Q_W_509.mp4",
+      "options": [
+        {
+          "id": "a",
+          "text": "Smíte odbočit vlevo, aniž byste někomu musel(a) dávat přednost."
+        },
+        {
+          "id": "b",
+          "text": "Nesmíte odbočit vlevo, neboť zelený plný kruhový světelný signál \"Volno\" umožňuje projet křižovatku pouze v přímém směru."
+        },
+        {
+          "id": "c",
+          "text": "Smíte odbočit vlevo, ale musíte dát přednost chodcům přecházejícím ve volném směru po přechodu pro chodce."
+        }
+      ],
+      "correctAnswer": "c"
     },
     {
-      "name": "questions.json",
-      "path": "questions.json",
-      "sha": "0967ef424bce6791893e9a57bb952f80fd536e93",
-      "size": 3,
-      "url": "https://api.github.com/repos/Luksanss/autoskola-data/contents/questions.json?ref=main",
-      "html_url": "https://github.com/Luksanss/autoskola-data/blob/main/questions.json",
-      "git_url": "https://api.github.com/repos/Luksanss/autoskola-data/git/blobs/0967ef424bce6791893e9a57bb952f80fd536e93",
-      "download_url": "https://raw.githubusercontent.com/Luksanss/autoskola-data/main/questions.json?token=AVZS4TPDKQSH6M2TNL3DVT3J33IJZAA",
-      "type": "file",
-      "content": "e30K\n",
-      "encoding": "base64",
-      "_links": {
-        "self": "https://api.github.com/repos/Luksanss/autoskola-data/contents/questions.json?ref=main",
-        "git": "https://api.github.com/repos/Luksanss/autoskola-data/git/blobs/0967ef424bce6791893e9a57bb952f80fd536e93",
-        "html": "https://github.com/Luksanss/autoskola-data/blob/main/questions.json"
-      }
+      "id": "q_526",
+      "category": "Dopravní značky",
+      "points": 1,
+      "question": "Tato dopravní značka: ",
+      "imageUrl": null,
+      "videoUrl": "https://etesty.md.gov.cz/binary_content_storage/Q_W_526.mp4",
+      "options": [
+        {
+          "id": "a",
+          "text": "Platí pro všechny následující křižovatky v přímém směru, pokud její platnost není ukončena dopravní značkou \"Hlavní pozemní komunikace\". "
+        },
+        {
+          "id": "b",
+          "text": "Platí jen pro nejbližší křižovatku."
+        },
+        {
+          "id": "c",
+          "text": "Platí pro všechny křižovatky na území obce, které je označeno příslušnou dopravní značkou. "
+        }
+      ],
+      "correctAnswer": "b"
     },
     {
-      "name": "questions.json",
-      "path": "questions.json",
-      "sha": "0967ef424bce6791893e9a57bb952f80fd536e93",
-      "size": 3,
-      "url": "https://api.github.com/repos/Luksanss/autoskola-data/contents/questions.json?ref=main",
-      "html_url": "https://github.com/Luksanss/autoskola-data/blob/main/questions.json",
-      "git_url": "https://api.github.com/repos/Luksanss/autoskola-data/git/blobs/0967ef424bce6791893e9a57bb952f80fd536e93",
-      "download_url": "https://raw.githubusercontent.com/Luksanss/autoskola-data/main/questions.json?token=AVZS4TPDKQSH6M2TNL3DVT3J33IJZAA",
-      "type": "file",
-      "content": "e30K\n",
-      "encoding": "base64",
-      "_links": {
-        "self": "https://api.github.com/repos/Luksanss/autoskola-data/contents/questions.json?ref=main",
-        "git": "https://api.github.com/repos/Luksanss/autoskola-data/git/blobs/0967ef424bce6791893e9a57bb952f80fd536e93",
-        "html": "https://github.com/Luksanss/autoskola-data/blob/main/questions.json"
-      }
+      "id": "q_784",
+      "category": "Pravidla provozu",
+      "points": 2,
+      "question": "Odbočují-li řidiči protijedoucích vozidel vlevo:",
+      "imageUrl": null,
+      "videoUrl": "https://etesty.md.gov.cz/binary_content_storage/Q_W_784.mp4",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vyhýbají se vlevo (jejich vozidla se míjejí pravými boky)."
+        },
+        {
+          "id": "b",
+          "text": "Vyhýbají se vpravo (jejich vozidla se míjejí levými boky)."
+        },
+        {
+          "id": "c",
+          "text": "Vyhýbají se podle okolností a dostatku prostoru v křižovatce vpravo i vlevo."
+        }
+      ],
+      "correctAnswer": "a"
     },
     {
-      "name": "questions.json",
-      "path": "questions.json",
-      "sha": "0967ef424bce6791893e9a57bb952f80fd536e93",
-      "size": 3,
-      "url": "https://api.github.com/repos/Luksanss/autoskola-data/contents/questions.json?ref=main",
-      "html_url": "https://github.com/Luksanss/autoskola-data/blob/main/questions.json",
-      "git_url": "https://api.github.com/repos/Luksanss/autoskola-data/git/blobs/0967ef424bce6791893e9a57bb952f80fd536e93",
-      "download_url": "https://raw.githubusercontent.com/Luksanss/autoskola-data/main/questions.json?token=AVZS4TPDKQSH6M2TNL3DVT3J33IJZAA",
-      "type": "file",
-      "content": "e30K\n",
-      "encoding": "base64",
-      "_links": {
-        "self": "https://api.github.com/repos/Luksanss/autoskola-data/contents/questions.json?ref=main",
-        "git": "https://api.github.com/repos/Luksanss/autoskola-data/git/blobs/0967ef424bce6791893e9a57bb952f80fd536e93",
-        "html": "https://github.com/Luksanss/autoskola-data/blob/main/questions.json"
-      }
+      "id": "q_808",
+      "category": "Pravidla provozu",
+      "points": 2,
+      "question": "Předjíždí se:",
+      "imageUrl": null,
+      "videoUrl": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Vlevo, a to bez výjimky."
+        },
+        {
+          "id": "b",
+          "text": "Vpravo nebo vlevo, podle toho, kde je v dané situaci více prostoru pro bezpečné předjetí. "
+        },
+        {
+          "id": "c",
+          "text": "Vlevo; vpravo se předjíždí vozidlo, které mění směr jízdy vlevo a není-li již pochybnosti o dalším směru jeho jízdy."
+        }
+      ],
+      "correctAnswer": "c"
     },
     {
-      "name": "questions.json",
-      "path": "questions.json",
-      "sha": "0967ef424bce6791893e9a57bb952f80fd536e93",
-      "size": 3,
-      "url": "https://api.github.com/repos/Luksanss/autoskola-data/contents/questions.json?ref=main",
-      "html_url": "https://github.com/Luksanss/autoskola-data/blob/main/questions.json",
-      "git_url": "https://api.github.com/repos/Luksanss/autoskola-data/git/blobs/0967ef424bce6791893e9a57bb952f80fd536e93",
-      "download_url": "https://raw.githubusercontent.com/Luksanss/autoskola-data/main/questions.json?token=AVZS4TPDKQSH6M2TNL3DVT3J33IJZAA",
-      "type": "file",
-      "content": "e30K\n",
-      "encoding": "base64",
-      "_links": {
-        "self": "https://api.github.com/repos/Luksanss/autoskola-data/contents/questions.json?ref=main",
-        "git": "https://api.github.com/repos/Luksanss/autoskola-data/git/blobs/0967ef424bce6791893e9a57bb952f80fd536e93",
-        "html": "https://github.com/Luksanss/autoskola-data/blob/main/questions.json"
-      }
+      "id": "q_1022",
+      "category": "Pravidla provozu",
+      "points": 2,
+      "question": "Řidič vozidla z výhledu: ",
+      "imageUrl": null,
+      "videoUrl": "https://etesty.md.gov.cz/binary_content_storage/Q_W_1022.mp4",
+      "options": [
+        {
+          "id": "a",
+          "text": "Musí dát přednost v jízdě červenému vozidlu, protože toto vozidlo přijíždí zprava. "
+        },
+        {
+          "id": "b",
+          "text": "Nemusí dát přednost v jízdě červenému vozidlu jedoucímu zprava, protože toto vozidlo se pohybuje v přípojovacím pruhu."
+        },
+        {
+          "id": "c",
+          "text": "Musí snížením rychlosti jízdy umožnit plynulou jízdu červenému vozidlu jedoucímu zprava. "
+        }
+      ],
+      "correctAnswer": "b"
     },
     {
-      "name": "questions.json",
-      "path": "questions.json",
-      "sha": "0967ef424bce6791893e9a57bb952f80fd536e93",
-      "size": 3,
-      "url": "https://api.github.com/repos/Luksanss/autoskola-data/contents/questions.json?ref=main",
-      "html_url": "https://github.com/Luksanss/autoskola-data/blob/main/questions.json",
-      "git_url": "https://api.github.com/repos/Luksanss/autoskola-data/git/blobs/0967ef424bce6791893e9a57bb952f80fd536e93",
-      "download_url": "https://raw.githubusercontent.com/Luksanss/autoskola-data/main/questions.json?token=AVZS4TPDKQSH6M2TNL3DVT3J33IJZAA",
-      "type": "file",
-      "content": "e30K\n",
-      "encoding": "base64",
-      "_links": {
-        "self": "https://api.github.com/repos/Luksanss/autoskola-data/contents/questions.json?ref=main",
-        "git": "https://api.github.com/repos/Luksanss/autoskola-data/git/blobs/0967ef424bce6791893e9a57bb952f80fd536e93",
-        "html": "https://github.com/Luksanss/autoskola-data/blob/main/questions.json"
-      }
+      "id": "q_1108",
+      "category": "Pravidla provozu",
+      "points": 2,
+      "question": "Smíte jako řidič vozidla z výhledu v dané situaci vjet na tento železniční přejezd?",
+      "imageUrl": null,
+      "videoUrl": "https://etesty.md.gov.cz/binary_content_storage/Q_W_1108.mp4",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ano."
+        },
+        {
+          "id": "b",
+          "text": "Ne."
+        }
+      ],
+      "correctAnswer": "b"
     },
     {
-      "name": "questions.json",
-      "path": "questions.json",
-      "sha": "0967ef424bce6791893e9a57bb952f80fd536e93",
-      "size": 3,
-      "url": "https://api.github.com/repos/Luksanss/autoskola-data/contents/questions.json?ref=main",
-      "html_url": "https://github.com/Luksanss/autoskola-data/blob/main/questions.json",
-      "git_url": "https://api.github.com/repos/Luksanss/autoskola-data/git/blobs/0967ef424bce6791893e9a57bb952f80fd536e93",
-      "download_url": "https://raw.githubusercontent.com/Luksanss/autoskola-data/main/questions.json?token=AVZS4TPDKQSH6M2TNL3DVT3J33IJZAA",
-      "type": "file",
-      "content": "e30K\n",
-      "encoding": "base64",
-      "_links": {
-        "self": "https://api.github.com/repos/Luksanss/autoskola-data/contents/questions.json?ref=main",
-        "git": "https://api.github.com/repos/Luksanss/autoskola-data/git/blobs/0967ef424bce6791893e9a57bb952f80fd536e93",
-        "html": "https://github.com/Luksanss/autoskola-data/blob/main/questions.json"
-      }
+      "id": "q_1297",
+      "category": "Pravidla provozu",
+      "points": 2,
+      "question": "Chodec smí vstoupit na přechod pro chodce:",
+      "imageUrl": null,
+      "videoUrl": "https://etesty.md.gov.cz/binary_content_storage/Q_W_1297.mp4",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jen pokud se neblíží vozidlo, před které by bezprostředně vstoupil."
+        },
+        {
+          "id": "b",
+          "text": "Jen pokud dá znamení rukou, že bude přecházet; pak může řidiče donutit i k náhlé změně rychlosti a směru jízdy."
+        },
+        {
+          "id": "c",
+          "text": "Vždy, protože má absolutní přednost před vozidly."
+        }
+      ],
+      "correctAnswer": "a"
     },
     {
-      "name": "questions.json",
-      "path": "questions.json",
-      "sha": "0967ef424bce6791893e9a57bb952f80fd536e93",
-      "size": 3,
-      "url": "https://api.github.com/repos/Luksanss/autoskola-data/contents/questions.json?ref=main",
-      "html_url": "https://github.com/Luksanss/autoskola-data/blob/main/questions.json",
-      "git_url": "https://api.github.com/repos/Luksanss/autoskola-data/git/blobs/0967ef424bce6791893e9a57bb952f80fd536e93",
-      "download_url": "https://raw.githubusercontent.com/Luksanss/autoskola-data/main/questions.json?token=AVZS4TPDKQSH6M2TNL3DVT3J33IJZAA",
-      "type": "file",
-      "content": "e30K\n",
-      "encoding": "base64",
-      "_links": {
-        "self": "https://api.github.com/repos/Luksanss/autoskola-data/contents/questions.json?ref=main",
-        "git": "https://api.github.com/repos/Luksanss/autoskola-data/git/blobs/0967ef424bce6791893e9a57bb952f80fd536e93",
-        "html": "https://github.com/Luksanss/autoskola-data/blob/main/questions.json"
-      }
+      "id": "q_1311",
+      "category": "Podmínky provozu",
+      "points": 4,
+      "question": "Jako řidič automobilu z výhledu projedete touto křižovatkou:",
+      "imageUrl": null,
+      "videoUrl": "https://etesty.md.gov.cz/binary_content_storage/Q_W_1311.mp4",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jako první, protože zelené vozidlo, které přijíždí zprava, vám musí dát přednost v jízdě."
+        },
+        {
+          "id": "b",
+          "text": "Jako druhý, protože zelené vozidlo, které přijíždí zprava, má přednost v jízdě."
+        },
+        {
+          "id": "c",
+          "text": "Jako první nebo druhý. Vozidla projíždějí křižovatkou v pořadí, v jakém k ní přijela."
+        }
+      ],
+      "correctAnswer": "b"
     },
     {
-      "name": "questions.json",
-      "path": "questions.json",
-      "sha": "0967ef424bce6791893e9a57bb952f80fd536e93",
-      "size": 3,
-      "url": "https://api.github.com/repos/Luksanss/autoskola-data/contents/questions.json?ref=main",
-      "html_url": "https://github.com/Luksanss/autoskola-data/blob/main/questions.json",
-      "git_url": "https://api.github.com/repos/Luksanss/autoskola-data/git/blobs/0967ef424bce6791893e9a57bb952f80fd536e93",
-      "download_url": "https://raw.githubusercontent.com/Luksanss/autoskola-data/main/questions.json?token=AVZS4TPDKQSH6M2TNL3DVT3J33IJZAA",
-      "type": "file",
-      "content": "e30K\n",
-      "encoding": "base64",
-      "_links": {
-        "self": "https://api.github.com/repos/Luksanss/autoskola-data/contents/questions.json?ref=main",
-        "git": "https://api.github.com/repos/Luksanss/autoskola-data/git/blobs/0967ef424bce6791893e9a57bb952f80fd536e93",
-        "html": "https://github.com/Luksanss/autoskola-data/blob/main/questions.json"
-      }
+      "id": "q_1329",
+      "category": "Podmínky provozu",
+      "points": 4,
+      "question": "Jste řidičem vozidla z výhledu. V jakém pořadí projedou vozidla touto křižovatkou?",
+      "imageUrl": null,
+      "videoUrl": "https://etesty.md.gov.cz/binary_content_storage/Q_W_1329.mp4",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jako první červené vozidlo, jako druhé zelené vozidlo, jako poslední modré vozidlo společně s Vaším vozidlem."
+        },
+        {
+          "id": "b",
+          "text": "Jako první červené vozidlo společně se zeleným vozidlem, následně modré vozidlo společně s Vaším vozidlem."
+        },
+        {
+          "id": "c",
+          "text": "Jako první zelené vozidlo, jako druhé červené vozidlo, jako poslední modré vozidlo společně s Vaším vozidlem."
+        }
+      ],
+      "correctAnswer": "a"
     }
   ]
 }
