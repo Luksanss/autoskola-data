@@ -1,5 +1,5 @@
 {
-  "version": 1776212375061,
+  "version": 1776251342638,
   "data": [
     {
       "id": "q_180",
@@ -11,15 +11,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Přípojné vozidlo a vozidlo pohybující se pomocí lidské nebo zvířecí síly, například jízdní kolo, ruční vozík nebo potahové vozidlo."
+          "text": "Přípojné vozidlo a vozidlo pohybující se pomocí lidské nebo zvířecí síly, například jízdní kolo, ruční vozík nebo potahové vozidlo.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Každé vozidlo poháněné jiným než spalovacím motorem, například elektromobil."
+          "text": "Každé vozidlo poháněné jiným než spalovacím motorem, například elektromobil.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Kolejové vozidlo, které se účastní provozu na pozemních komunikacích."
+          "text": "Kolejové vozidlo, které se účastní provozu na pozemních komunikacích.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "a"
@@ -34,15 +37,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Zůstane-li volný alespoň jeden jízdní pruh o šířce nejméně 3 m."
+          "text": "Zůstane-li volný alespoň jeden jízdní pruh o šířce nejméně 3 m.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Nelze-li s vozidlem ve vzdálenosti menší než 100 m zastavit při okraji pozemní komunikace. "
+          "text": "Nelze-li s vozidlem ve vzdálenosti menší než 100 m zastavit při okraji pozemní komunikace. ",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Přepravujete-li osobu těžce postiženou nebo těžce pohybově postiženou."
+          "text": "Přepravujete-li osobu těžce postiženou nebo těžce pohybově postiženou.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "a"
@@ -57,15 +63,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Jízdní pruh vyhrazený jen pro vozidla hromadné dopravy osob."
+          "text": "Jízdní pruh vyhrazený jen pro vozidla hromadné dopravy osob.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Jízdní pruh určený pro pomalá vozidla, která nemohou v daném úseku dosáhnout okamžité rychlosti nejméně 60 km/h."
+          "text": "Jízdní pruh určený pro pomalá vozidla, která nemohou v daném úseku dosáhnout okamžité rychlosti nejméně 60 km/h.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Jízdní pruh určený pro zařazování vozidel do průběžného pruhu."
+          "text": "Jízdní pruh určený pro zařazování vozidel do průběžného pruhu.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "c"
@@ -80,15 +89,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Je řidič povinen před zařazením do průběžného pruhu užít připojovacího pruhu."
+          "text": "Je řidič povinen před zařazením do průběžného pruhu užít připojovacího pruhu.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Nemusí ho řidič před zařazením do průběžného pruhu užít, pokud přejetím do průběžného pruhu neomezí ani neohrozí ostatní řidiče."
+          "text": "Nemusí ho řidič před zařazením do průběžného pruhu užít, pokud přejetím do průběžného pruhu neomezí ani neohrozí ostatní řidiče.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Je řidič povinen před zařazením do průběžného jízdního pruhu dosáhnout rychlosti nejméně 80 km/h. "
+          "text": "Je řidič povinen před zařazením do průběžného jízdního pruhu dosáhnout rychlosti nejméně 80 km/h. ",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "a"
@@ -103,15 +115,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Na silnici pro motorová vozidla a na dálnici rychlostí nejvýše 130 km.h-1."
+          "text": "Na silnici pro motorová vozidla a na dálnici rychlostí nejvýše 130 km.h-1.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Na silnici pro motorová vozidla rychlostí nejvýše 110 km.h-1 a na dálnici rychlostí nejvýše 130 km.h-1."
+          "text": "Na silnici pro motorová vozidla rychlostí nejvýše 110 km.h-1 a na dálnici rychlostí nejvýše 130 km.h-1.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Na silnici pro motorová vozidla rychlostí nejvýše 110 km.h-1 a na dálnici rychlostí nejvýše 130 km.h-1, s výjimkou řidiče autobusu, který na dálnici smí jet rychlostí nejvýše 110 km.h-1. "
+          "text": "Na silnici pro motorová vozidla rychlostí nejvýše 110 km.h-1 a na dálnici rychlostí nejvýše 130 km.h-1, s výjimkou řidiče autobusu, který na dálnici smí jet rychlostí nejvýše 110 km.h-1. ",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "b"
@@ -126,15 +141,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Upozorňuje na dvě nebo více po sobě následujících zatáček (směrových oblouků), z nichž první je vlevo, a jejichž bezpečné projetí vyžaduje výrazné snížení rychlosti jízdy."
+          "text": "Upozorňuje na dvě nebo více po sobě následujících zatáček (směrových oblouků), z nichž první je vlevo, a jejichž bezpečné projetí vyžaduje výrazné snížení rychlosti jízdy.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Upozorňuje na místo nebo úsek pozemní komunikace, kde může dojít ke smyku vozidla i za neztížených povětrnostních podmínek."
+          "text": "Upozorňuje na místo nebo úsek pozemní komunikace, kde může dojít ke smyku vozidla i za neztížených povětrnostních podmínek.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Upozorňuje na dvě nebo více po sobě následujících zatáček (směrových oblouků), z nichž první je vpravo, a jejichž bezpečné projetí vyžaduje výrazné snížení rychlosti jízdy."
+          "text": "Upozorňuje na dvě nebo více po sobě následujících zatáček (směrových oblouků), z nichž první je vpravo, a jejichž bezpečné projetí vyžaduje výrazné snížení rychlosti jízdy.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "a"
@@ -149,15 +167,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Počet povolených míst určených k přepravě osob."
+          "text": "Počet povolených míst určených k přepravě osob.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Počet povolených míst určených k přepravě osob, jen pokud jsou vybavena zádržným bezpečnostním systémem."
+          "text": "Počet povolených míst určených k přepravě osob, jen pokud jsou vybavena zádržným bezpečnostním systémem.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Dvojnásobek počtu povolených míst určených k přepravě osob."
+          "text": "Dvojnásobek počtu povolených míst určených k přepravě osob.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "a"
@@ -172,15 +193,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Je dopravní značkou předem upozorňován na přechod pro chodce, který bude následovat ve vzdálenosti 150 m."
+          "text": "Je dopravní značkou předem upozorňován na přechod pro chodce, který bude následovat ve vzdálenosti 150 m.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Je dopravní značkou upozorňován na úsek o délce 150 m, kde lze očekávat zvýšený pohyb chodců."
+          "text": "Je dopravní značkou upozorňován na úsek o délce 150 m, kde lze očekávat zvýšený pohyb chodců.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Je dopravní značkou předem upozorňován na práci na silnici, která je vykonávána ve vzdálenosti 150 m."
+          "text": "Je dopravní značkou předem upozorňován na práci na silnici, která je vykonávána ve vzdálenosti 150 m.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "a"
@@ -195,15 +219,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Může pokračovat v jízdě křižovatkou, dává znamení o změně směru včas a v dostatečné míře a je na hlavní pozemní komunikaci."
+          "text": "Může pokračovat v jízdě křižovatkou, dává znamení o změně směru včas a v dostatečné míře a je na hlavní pozemní komunikaci.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Může pokračovat v jízdě křižovatkou; je v dostatečné vzdálenosti od křižovatky a na světelném signalizačním zařízení již svítí signál \"Připravit k jízdě\"."
+          "text": "Může pokračovat v jízdě křižovatkou; je v dostatečné vzdálenosti od křižovatky a na světelném signalizačním zařízení již svítí signál \"Připravit k jízdě\".",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Nesmí pokračovat v jízdě křižovatkou. Má za povinnost zastavit vozidlo před příčnou čárou souvislou."
+          "text": "Nesmí pokračovat v jízdě křižovatkou. Má za povinnost zastavit vozidlo před příčnou čárou souvislou.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "c"
@@ -218,15 +245,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Připojovací pruh."
+          "text": "Připojovací pruh.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Odbočovací pruh."
+          "text": "Odbočovací pruh.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Průběžný pruh."
+          "text": "Průběžný pruh.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "b"
@@ -241,15 +271,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Musíte zejména sledovat světelnou signalizaci a chování odbočujících řidičů v protisměru, i když Vám musejí dát přednost v jízdě."
+          "text": "Musíte zejména sledovat světelnou signalizaci a chování odbočujících řidičů v protisměru, i když Vám musejí dát přednost v jízdě.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Musíte sledovat světelnou signalizaci a chování odbočujících řidičů v protisměru, jimž musíte dát přednost v jízdě."
+          "text": "Musíte sledovat světelnou signalizaci a chování odbočujících řidičů v protisměru, jimž musíte dát přednost v jízdě.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Musíte na příkaz dopravní značky odbočit vpravo."
+          "text": "Musíte na příkaz dopravní značky odbočit vpravo.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "a"
@@ -264,15 +297,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Smíte odbočit vlevo, aniž byste někomu musel(a) dávat přednost."
+          "text": "Smíte odbočit vlevo, aniž byste někomu musel(a) dávat přednost.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Nesmíte odbočit vlevo, neboť zelený plný kruhový světelný signál \"Volno\" umožňuje projet křižovatku pouze v přímém směru."
+          "text": "Nesmíte odbočit vlevo, neboť zelený plný kruhový světelný signál \"Volno\" umožňuje projet křižovatku pouze v přímém směru.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Smíte odbočit vlevo, ale musíte dát přednost chodcům přecházejícím ve volném směru po přechodu pro chodce."
+          "text": "Smíte odbočit vlevo, ale musíte dát přednost chodcům přecházejícím ve volném směru po přechodu pro chodce.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "c"
@@ -287,15 +323,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Platí pro všechny následující křižovatky v přímém směru, pokud její platnost není ukončena dopravní značkou \"Hlavní pozemní komunikace\". "
+          "text": "Platí pro všechny následující křižovatky v přímém směru, pokud její platnost není ukončena dopravní značkou \"Hlavní pozemní komunikace\". ",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Platí jen pro nejbližší křižovatku."
+          "text": "Platí jen pro nejbližší křižovatku.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Platí pro všechny křižovatky na území obce, které je označeno příslušnou dopravní značkou. "
+          "text": "Platí pro všechny křižovatky na území obce, které je označeno příslušnou dopravní značkou. ",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "b"
@@ -310,15 +349,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Vyhýbají se vlevo (jejich vozidla se míjejí pravými boky)."
+          "text": "Vyhýbají se vlevo (jejich vozidla se míjejí pravými boky).",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Vyhýbají se vpravo (jejich vozidla se míjejí levými boky)."
+          "text": "Vyhýbají se vpravo (jejich vozidla se míjejí levými boky).",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Vyhýbají se podle okolností a dostatku prostoru v křižovatce vpravo i vlevo."
+          "text": "Vyhýbají se podle okolností a dostatku prostoru v křižovatce vpravo i vlevo.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "a"
@@ -333,15 +375,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Vlevo, a to bez výjimky."
+          "text": "Vlevo, a to bez výjimky.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Vpravo nebo vlevo, podle toho, kde je v dané situaci více prostoru pro bezpečné předjetí. "
+          "text": "Vpravo nebo vlevo, podle toho, kde je v dané situaci více prostoru pro bezpečné předjetí. ",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Vlevo; vpravo se předjíždí vozidlo, které mění směr jízdy vlevo a není-li již pochybnosti o dalším směru jeho jízdy."
+          "text": "Vlevo; vpravo se předjíždí vozidlo, které mění směr jízdy vlevo a není-li již pochybnosti o dalším směru jeho jízdy.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "c"
@@ -356,15 +401,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Musí dát přednost v jízdě červenému vozidlu, protože toto vozidlo přijíždí zprava. "
+          "text": "Musí dát přednost v jízdě červenému vozidlu, protože toto vozidlo přijíždí zprava. ",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Nemusí dát přednost v jízdě červenému vozidlu jedoucímu zprava, protože toto vozidlo se pohybuje v přípojovacím pruhu."
+          "text": "Nemusí dát přednost v jízdě červenému vozidlu jedoucímu zprava, protože toto vozidlo se pohybuje v přípojovacím pruhu.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Musí snížením rychlosti jízdy umožnit plynulou jízdu červenému vozidlu jedoucímu zprava. "
+          "text": "Musí snížením rychlosti jízdy umožnit plynulou jízdu červenému vozidlu jedoucímu zprava. ",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "b"
@@ -379,11 +427,13 @@
       "options": [
         {
           "id": "a",
-          "text": "Ano."
+          "text": "Ano.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Ne."
+          "text": "Ne.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "b"
@@ -398,15 +448,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Jen pokud se neblíží vozidlo, před které by bezprostředně vstoupil."
+          "text": "Jen pokud se neblíží vozidlo, před které by bezprostředně vstoupil.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Jen pokud dá znamení rukou, že bude přecházet; pak může řidiče donutit i k náhlé změně rychlosti a směru jízdy."
+          "text": "Jen pokud dá znamení rukou, že bude přecházet; pak může řidiče donutit i k náhlé změně rychlosti a směru jízdy.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Vždy, protože má absolutní přednost před vozidly."
+          "text": "Vždy, protože má absolutní přednost před vozidly.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "a"
@@ -421,15 +474,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Jako první, protože zelené vozidlo, které přijíždí zprava, vám musí dát přednost v jízdě."
+          "text": "Jako první, protože zelené vozidlo, které přijíždí zprava, vám musí dát přednost v jízdě.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Jako druhý, protože zelené vozidlo, které přijíždí zprava, má přednost v jízdě."
+          "text": "Jako druhý, protože zelené vozidlo, které přijíždí zprava, má přednost v jízdě.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Jako první nebo druhý. Vozidla projíždějí křižovatkou v pořadí, v jakém k ní přijela."
+          "text": "Jako první nebo druhý. Vozidla projíždějí křižovatkou v pořadí, v jakém k ní přijela.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "b"
@@ -444,15 +500,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Jako první červené vozidlo, jako druhé zelené vozidlo, jako poslední modré vozidlo společně s Vaším vozidlem."
+          "text": "Jako první červené vozidlo, jako druhé zelené vozidlo, jako poslední modré vozidlo společně s Vaším vozidlem.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Jako první červené vozidlo společně se zeleným vozidlem, následně modré vozidlo společně s Vaším vozidlem."
+          "text": "Jako první červené vozidlo společně se zeleným vozidlem, následně modré vozidlo společně s Vaším vozidlem.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Jako první zelené vozidlo, jako druhé červené vozidlo, jako poslední modré vozidlo společně s Vaším vozidlem."
+          "text": "Jako první zelené vozidlo, jako druhé červené vozidlo, jako poslední modré vozidlo společně s Vaším vozidlem.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "a"
@@ -467,15 +526,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Podle okolností zpomalit jízdu a být připraven brzdit."
+          "text": "Podle okolností zpomalit jízdu a být připraven brzdit.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Pokračovat v jízdě stejnou rychlostí, abych neomezil vozidla za sebou."
+          "text": "Pokračovat v jízdě stejnou rychlostí, abych neomezil vozidla za sebou.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Dát výstražné zvukové znamení a pokračovat v jízdě."
+          "text": "Dát výstražné zvukové znamení a pokračovat v jízdě.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "a"
@@ -490,15 +552,18 @@
       "options": [
         {
           "id": "a",
-          "text": "1. Vaše vozidlo současně s protijedoucím červeným vozidlem, 2. zelené vozidlo."
+          "text": "1. Vaše vozidlo současně s protijedoucím červeným vozidlem, 2. zelené vozidlo.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "1. Vaše vozidlo současně se zeleným vozidlem jedoucím zprava, 2. červené vozidlo."
+          "text": "1. Vaše vozidlo současně se zeleným vozidlem jedoucím zprava, 2. červené vozidlo.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "1. červené vozidlo, 2. zelené vozidlo, 3. Vaše vozidlo."
+          "text": "1. červené vozidlo, 2. zelené vozidlo, 3. Vaše vozidlo.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "a"
@@ -513,15 +578,18 @@
       "options": [
         {
           "id": "a",
-          "text": "1. Vaše vozidlo, 2. protijedoucí žluté vozidlo, 3. zelené vozidlo."
+          "text": "1. Vaše vozidlo, 2. protijedoucí žluté vozidlo, 3. zelené vozidlo.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "1. Vaše vozidlo, 2. zelené vozidlo jedoucí zprava, 3. žluté vozidlo."
+          "text": "1. Vaše vozidlo, 2. zelené vozidlo jedoucí zprava, 3. žluté vozidlo.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "1. zelené vozidlo jedoucí zprava, 2. Vaše vozidlo, 3. žluté vozidlo."
+          "text": "1. zelené vozidlo jedoucí zprava, 2. Vaše vozidlo, 3. žluté vozidlo.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "a"
@@ -536,15 +604,18 @@
       "options": [
         {
           "id": "a",
-          "text": "1. zelené vozidlo jedoucí zleva, 2. protijedoucí zelené vozidlo, 3. oranžové nákladní vozidlo, 4. Vaše vozidlo."
+          "text": "1. zelené vozidlo jedoucí zleva, 2. protijedoucí zelené vozidlo, 3. oranžové nákladní vozidlo, 4. Vaše vozidlo.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "1. protijedoucí zelené vozidlo, 2. zelené vozidlo jedoucí zleva, 3. oranžové nákladní vozidlo, 4. Vaše vozidlo."
+          "text": "1. protijedoucí zelené vozidlo, 2. zelené vozidlo jedoucí zleva, 3. oranžové nákladní vozidlo, 4. Vaše vozidlo.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "1. zelené vozidlo jedoucí zleva, 2. protijedoucí zelené vozidlo, 3. Vaše vozidlo, 4. oranžové nákladní vozidlo."
+          "text": "1. zelené vozidlo jedoucí zleva, 2. protijedoucí zelené vozidlo, 3. Vaše vozidlo, 4. oranžové nákladní vozidlo.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "a"
@@ -559,15 +630,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Jako poslední."
+          "text": "Jako poslední.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Jako druhé."
+          "text": "Jako druhé.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Jako třetí."
+          "text": "Jako třetí.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "a"
@@ -582,15 +656,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Projede křižovatkou jako první a nedává přednost v jízdě žádnému vozidlu."
+          "text": "Projede křižovatkou jako první a nedává přednost v jízdě žádnému vozidlu.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Dá přednost v jízdě červenému vozidlu a projede křižovatkou jako druhý. "
+          "text": "Dá přednost v jízdě červenému vozidlu a projede křižovatkou jako druhý. ",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Dá přednost v jízdě vašemu vozidlu, které projede křižovatkou jako první."
+          "text": "Dá přednost v jízdě vašemu vozidlu, které projede křižovatkou jako první.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "b"
@@ -605,15 +682,18 @@
       "options": [
         {
           "id": "a",
-          "text": "1. Vaše vozidlo, 2. modré protijedoucí vozidlo, 3. oranžové nákladní vozidlo."
+          "text": "1. Vaše vozidlo, 2. modré protijedoucí vozidlo, 3. oranžové nákladní vozidlo.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "1. Vaše vozidlo, 2. oranžové nákladní vozidlo, 3. modré protijedoucí vozidlo, "
+          "text": "1. Vaše vozidlo, 2. oranžové nákladní vozidlo, 3. modré protijedoucí vozidlo, ",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "1. modré protijedoucí vozidlo, 2. Vaše vozidlo,  3. oranžové nákladní vozidlo."
+          "text": "1. modré protijedoucí vozidlo, 2. Vaše vozidlo,  3. oranžové nákladní vozidlo.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "a"
@@ -628,15 +708,18 @@
       "options": [
         {
           "id": "a",
-          "text": "1. Vaše vozidlo, 2. protijedoucí modré vozidlo, 3. zelené vozidlo jedoucí zprava."
+          "text": "1. Vaše vozidlo, 2. protijedoucí modré vozidlo, 3. zelené vozidlo jedoucí zprava.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "1. Vaše vozidlo současně se zeleným vozidlem jedoucím zprava, 2. protijedoucí modré vozidlo."
+          "text": "1. Vaše vozidlo současně se zeleným vozidlem jedoucím zprava, 2. protijedoucí modré vozidlo.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "1. Protijedoucí modré vozidlo, 2. Vaše vozidlo současně se zeleným vozidlem jedoucím zprava."
+          "text": "1. Protijedoucí modré vozidlo, 2. Vaše vozidlo současně se zeleným vozidlem jedoucím zprava.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "a"
@@ -651,15 +734,18 @@
       "options": [
         {
           "id": "a",
-          "text": "1. červené nákladní vozidlo, 2. Vaše vozidlo společně s protijedoucím modrým vozidlem."
+          "text": "1. červené nákladní vozidlo, 2. Vaše vozidlo společně s protijedoucím modrým vozidlem.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "1. Vaše vozidlo společně s protijedoucím modrým vozilem, 2. červené nákladní vozidlo."
+          "text": "1. Vaše vozidlo společně s protijedoucím modrým vozilem, 2. červené nákladní vozidlo.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "1. Vaše vozidlo, 2. červené nákladní vozidlo, 3. protijedoucí modré vozidlo."
+          "text": "1. Vaše vozidlo, 2. červené nákladní vozidlo, 3. protijedoucí modré vozidlo.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "a"
@@ -674,15 +760,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Projedete jako první, protože jste na hlavní pozemní komunikaci. Hned po Vás projede červený nákladní automobil."
+          "text": "Projedete jako první, protože jste na hlavní pozemní komunikaci. Hned po Vás projede červený nákladní automobil.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Projedete jako druhý, hned po protijedoucím žlutém vozidle, kterému musíte dát přednost v jízdě."
+          "text": "Projedete jako druhý, hned po protijedoucím žlutém vozidle, kterému musíte dát přednost v jízdě.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Projedete jako druhý, hned po červeném nákladním vozidle, kterému musíte dát přednost v jízdě."
+          "text": "Projedete jako druhý, hned po červeném nákladním vozidle, kterému musíte dát přednost v jízdě.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "c"
@@ -697,15 +786,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Jste povinen dát přednost vozidlu přijíždějícímu zleva."
+          "text": "Jste povinen dát přednost vozidlu přijíždějícímu zleva.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Můžete pokračovat v jízdě křižovatkou. Jste na hlavní pozemní komunikaci."
+          "text": "Můžete pokračovat v jízdě křižovatkou. Jste na hlavní pozemní komunikaci.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Máte přednost v jízdě před řidičem přijíždějícím zleva. "
+          "text": "Máte přednost v jízdě před řidičem přijíždějícím zleva. ",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "a"
@@ -720,15 +812,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Výrazně snížíte rychlost jízdy, nohy necháte na stupačkách a pomalu projedete kaluží."
+          "text": "Výrazně snížíte rychlost jízdy, nohy necháte na stupačkách a pomalu projedete kaluží.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Nebudete brzdit, jen zvednete nohy ze stupaček a projedete kaluží."
+          "text": "Nebudete brzdit, jen zvednete nohy ze stupaček a projedete kaluží.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Objedu kaluž přes chodník nebo krajnici vozovky."
+          "text": "Objedu kaluž přes chodník nebo krajnici vozovky.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "a"
@@ -743,15 +838,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Po 4,5 hodinách."
+          "text": "Po 4,5 hodinách.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Po 5 hodinách."
+          "text": "Po 5 hodinách.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Po 5,5 hodinách.\r\n"
+          "text": "Po 5,5 hodinách.\r\n",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "a"
@@ -766,15 +864,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Ne, zvyšuje se tím riziko dopravní nehody. Řidič se musí věnovat řízení vozidla."
+          "text": "Ne, zvyšuje se tím riziko dopravní nehody. Řidič se musí věnovat řízení vozidla.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Ano, ale pouze při rychlosti nižší než je 50 km/h."
+          "text": "Ano, ale pouze při rychlosti nižší než je 50 km/h.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Ano, s výjimkou jízdy na dálnici."
+          "text": "Ano, s výjimkou jízdy na dálnici.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "a"
@@ -789,15 +890,18 @@
       "options": [
         {
           "id": "a",
-          "text": "."
+          "text": ".",
+          "imageUrl": "https://etesty.md.gov.cz/binary_content_storage/A_W_1408_27623.jpg"
         },
         {
           "id": "b",
-          "text": "."
+          "text": ".",
+          "imageUrl": "https://etesty.md.gov.cz/binary_content_storage/A_W_1408_27624.jpg"
         },
         {
           "id": "c",
-          "text": "."
+          "text": ".",
+          "imageUrl": "https://etesty.md.gov.cz/binary_content_storage/A_W_1408_27625.jpg"
         }
       ],
       "correctAnswer": "c"
@@ -812,15 +916,18 @@
       "options": [
         {
           "id": "a",
-          "text": "."
+          "text": ".",
+          "imageUrl": "https://etesty.md.gov.cz/binary_content_storage/A_W_1427_26390.jpg"
         },
         {
           "id": "b",
-          "text": "."
+          "text": ".",
+          "imageUrl": "https://etesty.md.gov.cz/binary_content_storage/A_W_1427_26391.jpg"
         },
         {
           "id": "c",
-          "text": "."
+          "text": ".",
+          "imageUrl": "https://etesty.md.gov.cz/binary_content_storage/A_W_1427_26392.jpg"
         }
       ],
       "correctAnswer": "c"
@@ -835,15 +942,18 @@
       "options": [
         {
           "id": "a",
-          "text": "."
+          "text": ".",
+          "imageUrl": "https://etesty.md.gov.cz/binary_content_storage/A_W_1441_19915.jpg"
         },
         {
           "id": "b",
-          "text": "."
+          "text": ".",
+          "imageUrl": "https://etesty.md.gov.cz/binary_content_storage/A_W_1441_19916.jpg"
         },
         {
           "id": "c",
-          "text": "."
+          "text": ".",
+          "imageUrl": "https://etesty.md.gov.cz/binary_content_storage/A_W_1441_19917.jpg"
         }
       ],
       "correctAnswer": "b"
@@ -858,15 +968,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Vedlejší pozemní komunikaci."
+          "text": "Vedlejší pozemní komunikaci.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Konec hlavní pozemní komunikace."
+          "text": "Konec hlavní pozemní komunikace.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Hlavní pozemní komunikaci"
+          "text": "Hlavní pozemní komunikaci",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "c"
@@ -881,15 +994,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Nepodáváme mu žádné nápoje. "
+          "text": "Nepodáváme mu žádné nápoje. ",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Podáváme mu studené nápoje."
+          "text": "Podáváme mu studené nápoje.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Podáváme mu dostatek vlažných nápojů."
+          "text": "Podáváme mu dostatek vlažných nápojů.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "a"
@@ -904,15 +1020,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Je povinen zastavit vozidlo za tímto autobusem a pokračovat v jízdě může až po odjezdu autobusu ze zastávky."
+          "text": "Je povinen zastavit vozidlo za tímto autobusem a pokračovat v jízdě může až po odjezdu autobusu ze zastávky.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Smí tento autobus objet, pokud při tom dbá zvýšené opatrnosti a přihlédne k možnosti vběhnutí dětí do vozovky."
+          "text": "Smí tento autobus objet, pokud při tom dbá zvýšené opatrnosti a přihlédne k možnosti vběhnutí dětí do vozovky.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Smí autobus objet, jen pokud mu dopravce dává znamení, že je možné autobus bezpečně objet."
+          "text": "Smí autobus objet, jen pokud mu dopravce dává znamení, že je možné autobus bezpečně objet.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "a"
@@ -927,11 +1046,13 @@
       "options": [
         {
           "id": "a",
-          "text": "Ano."
+          "text": "Ano.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Ne."
+          "text": "Ne.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "a"
@@ -946,11 +1067,13 @@
       "options": [
         {
           "id": "a",
-          "text": "Ano."
+          "text": "Ano.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Ne."
+          "text": "Ne.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "a"
@@ -965,15 +1088,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Kouřit nebo zacházet s otevřeným ohněm."
+          "text": "Kouřit nebo zacházet s otevřeným ohněm.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Opustit vozidlo."
+          "text": "Opustit vozidlo.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Zastavovat jiná vozidla."
+          "text": "Zastavovat jiná vozidla.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "a"
@@ -988,15 +1114,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Je nutné náhle snížit rychlost jízdy nebo zastavit vozidlo."
+          "text": "Je nutné náhle snížit rychlost jízdy nebo zastavit vozidlo.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Řidič před vozidlem jede pomalu a zdržuje provoz na pozemních komunikacích."
+          "text": "Řidič před vozidlem jede pomalu a zdržuje provoz na pozemních komunikacích.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Předjíždí kolonu vozidel, která jej zpomaluje v jízdě. "
+          "text": "Předjíždí kolonu vozidel, která jej zpomaluje v jízdě. ",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "a"
@@ -1011,15 +1140,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Snížit rychlost vozidla s ohledem na bezpečnost nastupujících a vystupujících cestujících."
+          "text": "Snížit rychlost vozidla s ohledem na bezpečnost nastupujících a vystupujících cestujících.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Vozidlo zastavit; je-li v zastávce více vozidel hromadné dopravy osob, musí zastavit za druhým z nich, pokračovat v jízdě smí teprve tehdy, neohrozí-li již cestující, kteří nastupují nebo vystupují."
+          "text": "Vozidlo zastavit; je-li v zastávce více vozidel hromadné dopravy osob, musí zastavit za druhým z nich, pokračovat v jízdě smí teprve tehdy, neohrozí-li již cestující, kteří nastupují nebo vystupují.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Vozidlo zastavit i v případě, zastaví-li vozidlo hromadné dopravy osob u okraje vozovky."
+          "text": "Vozidlo zastavit i v případě, zastaví-li vozidlo hromadné dopravy osob u okraje vozovky.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "b"
@@ -1034,15 +1166,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Nejvyšší povolenou rychlost vozidla, a jde-li o jízdní soupravu, nejvyšší povolenou rychlost žádného z vozidel soupravy."
+          "text": "Nejvyšší povolenou rychlost vozidla, a jde-li o jízdní soupravu, nejvyšší povolenou rychlost žádného z vozidel soupravy.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Nejvyšší povolenou rychlost vozidla, a jde-li o jízdní soupravu, nemusí brát zřetel na nejvyšší povolenou rychlost přípojného vozidla."
+          "text": "Nejvyšší povolenou rychlost vozidla, a jde-li o jízdní soupravu, nemusí brát zřetel na nejvyšší povolenou rychlost přípojného vozidla.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Nejvyšší povolenou rychlost vozidla, a jde-li o jízdní soupravu, musí  brát zřetel jen na nejvyšší povolenou rychlost přípojného vozidla."
+          "text": "Nejvyšší povolenou rychlost vozidla, a jde-li o jízdní soupravu, musí  brát zřetel jen na nejvyšší povolenou rychlost přípojného vozidla.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "a"
@@ -1057,15 +1192,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Musí za ní jet v takové vzdálenosti, aby umožnil projetí podél tramvaje ostatním řidičům."
+          "text": "Musí za ní jet v takové vzdálenosti, aby umožnil projetí podél tramvaje ostatním řidičům.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Musí pokračovat v jízdě za tramvají až na takové místo, kde lze podél tramvaje projet vpravo."
+          "text": "Musí pokračovat v jízdě za tramvají až na takové místo, kde lze podél tramvaje projet vpravo.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Musí zastavit vozidlo a umožnit ostatním řidičům projetí podél tramvaje."
+          "text": "Musí zastavit vozidlo a umožnit ostatním řidičům projetí podél tramvaje.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "a"
@@ -1080,15 +1218,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Musí dávat znamení o změně směru jízdy a nesmí ohrozit ani omezit ostatní účastníky provozu na pozemních komunikacích."
+          "text": "Musí dávat znamení o změně směru jízdy a nesmí ohrozit ani omezit ostatní účastníky provozu na pozemních komunikacích.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Nemusí dávat znamení o změně směru jízdy a může omezit ostatní účastníky provozu na pozemních komunikacích."
+          "text": "Nemusí dávat znamení o změně směru jízdy a může omezit ostatní účastníky provozu na pozemních komunikacích.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Musí dávat znamení o změně směru jízdy a nesmí ohrozit ostatní účastníky provozu na pozemních komunikacích."
+          "text": "Musí dávat znamení o změně směru jízdy a nesmí ohrozit ostatní účastníky provozu na pozemních komunikacích.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "c"
@@ -1103,15 +1244,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Jen mimo obec při předjíždění k upozornění řidiče předjížděného vozidla. "
+          "text": "Jen mimo obec při předjíždění k upozornění řidiče předjížděného vozidla. ",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Pouze k odvrácení hrozícího nebezpečí nebo k upozornění řidiče předjížděného vozidla."
+          "text": "Pouze k odvrácení hrozícího nebezpečí nebo k upozornění řidiče předjížděného vozidla.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Pokud chce upozornit ostatní řidiče na silniční kontrolu. "
+          "text": "Pokud chce upozornit ostatní řidiče na silniční kontrolu. ",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "b"
@@ -1126,15 +1270,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Je povinen dát znamení o změně směru jízdy vpravo."
+          "text": "Je povinen dát znamení o změně směru jízdy vpravo.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Není povinen dát znamení o změně směru jízdy."
+          "text": "Není povinen dát znamení o změně směru jízdy.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Je povinen upozornit ostatní účastníky provozu o svém úmyslu výstražným světelným znamením."
+          "text": "Je povinen upozornit ostatní účastníky provozu o svém úmyslu výstražným světelným znamením.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "a"
@@ -1149,15 +1296,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Nemusí dát přednost v jízdě vozidlům nebo jezdcům na zvířatech nebo organizovanému útvaru chodců nebo průvodcům hnaných zvířat se zvířaty jdoucím po pozemní komunikaci."
+          "text": "Nemusí dát přednost v jízdě vozidlům nebo jezdcům na zvířatech nebo organizovanému útvaru chodců nebo průvodcům hnaných zvířat se zvířaty jdoucím po pozemní komunikaci.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Musí dát přednost v jízdě vozidlům nebo jezdcům na zvířatech nebo organizovanému útvaru chodců nebo průvodcům hnaných zvířat se zvířaty jdoucím po pozemní komunikaci."
+          "text": "Musí dát přednost v jízdě vozidlům nebo jezdcům na zvířatech nebo organizovanému útvaru chodců nebo průvodcům hnaných zvířat se zvířaty jdoucím po pozemní komunikaci.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Nemusí dát přednost jezdcům na zvířatech nebo organizovanému útvaru chodců jdoucím po pozemní komunikaci, musí dát přednost v jízdě pouze vozidlům jedoucím po pozemní komunikaci."
+          "text": "Nemusí dát přednost jezdcům na zvířatech nebo organizovanému útvaru chodců jdoucím po pozemní komunikaci, musí dát přednost v jízdě pouze vozidlům jedoucím po pozemní komunikaci.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "b"
@@ -1172,15 +1322,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Vždy řidič vozidla."
+          "text": "Vždy řidič vozidla.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Zákonný zástupce dítěte nebo jím pověřená osoba. "
+          "text": "Zákonný zástupce dítěte nebo jím pověřená osoba. ",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Osoba, která dítě doprovází, a u dítěte bez doprovodu řidič."
+          "text": "Osoba, která dítě doprovází, a u dítěte bez doprovodu řidič.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "a"
@@ -1195,15 +1348,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Řidič může zastavit na dobu nezbytně nutnou."
+          "text": "Řidič může zastavit na dobu nezbytně nutnou.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Řidič nesmí zastavit a stát."
+          "text": "Řidič nesmí zastavit a stát.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Řidič může zastavit, nikoli však stát."
+          "text": "Řidič může zastavit, nikoli však stát.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "b"
@@ -1218,15 +1374,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Pouze vpravo."
+          "text": "Pouze vpravo.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Pouze vlevo."
+          "text": "Pouze vlevo.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Vpravo i vlevo."
+          "text": "Vpravo i vlevo.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "c"
@@ -1241,15 +1400,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Projedete křižovatkou jako první."
+          "text": "Projedete křižovatkou jako první.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Dáte přednost zelenému automobilu."
+          "text": "Dáte přednost zelenému automobilu.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Dáte přednost červenému automobilu."
+          "text": "Dáte přednost červenému automobilu.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "c"
@@ -1264,15 +1426,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Na takovém místě, odkud má náležitý rozhled na trať."
+          "text": "Na takovém místě, odkud má náležitý rozhled na trať.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Nejdále 5 m za touto dopravní značkou."
+          "text": "Nejdále 5 m za touto dopravní značkou.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Nejméně 5 m před železničním přejezdem."
+          "text": "Nejméně 5 m před železničním přejezdem.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "a"
@@ -1287,15 +1452,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Neprodleně zastavit vozidlo."
+          "text": "Neprodleně zastavit vozidlo.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Neprodleně zastavit vozidlo, jen pokud došlo ke zranění nebo usmrcení osob."
+          "text": "Neprodleně zastavit vozidlo, jen pokud došlo ke zranění nebo usmrcení osob.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Neprodleně zastavit vozidlo, jen pokud došlo při této nehodě ke škodě na majetku převyšující částku 50 000 Kč nebo ke zranění nebo usmrcení osob."
+          "text": "Neprodleně zastavit vozidlo, jen pokud došlo při této nehodě ke škodě na majetku převyšující částku 50 000 Kč nebo ke zranění nebo usmrcení osob.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "a"
@@ -1310,15 +1478,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Nejde o křižovatku s provozem řízeným světelnými signály."
+          "text": "Nejde o křižovatku s provozem řízeným světelnými signály.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Znamená to pro řidiče povinnost neprodleně křižovatku opustit."
+          "text": "Znamená to pro řidiče povinnost neprodleně křižovatku opustit.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Je to signál pro řidiče k volnému průjezdu křižovatkou."
+          "text": "Je to signál pro řidiče k volnému průjezdu křižovatkou.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "a"
@@ -1333,11 +1504,13 @@
       "options": [
         {
           "id": "a",
-          "text": "Ano."
+          "text": "Ano.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Ne.  "
+          "text": "Ne.  ",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "b"
@@ -1352,15 +1525,18 @@
       "options": [
         {
           "id": "a",
-          "text": "První."
+          "text": "První.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Druhý."
+          "text": "Druhý.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Třetí."
+          "text": "Třetí.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "a"
@@ -1375,15 +1551,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Za škodu vyvolanou zvláštní povahou provozu motorového vozidla.\r\n"
+          "text": "Za škodu vyvolanou zvláštní povahou provozu motorového vozidla.\r\n",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Pouze za škodu, která byla vyvolána porušením jeho právních povinností. "
+          "text": "Pouze za škodu, která byla vyvolána porušením jeho právních povinností. ",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Pouze za škodu, která byla vyvolána porušením povinností řidiče tohoto vozidla.  "
+          "text": "Pouze za škodu, která byla vyvolána porušením povinností řidiče tohoto vozidla.  ",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "a"
@@ -1398,15 +1577,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Každou osobu, která odpovídá za škodu způsobenou provozem vozidla uvedeného v pojistné smlouvě."
+          "text": "Každou osobu, která odpovídá za škodu způsobenou provozem vozidla uvedeného v pojistné smlouvě.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Vlastníka vozidla, který odpovídá za škodu způsobenou provozem vozidla. Na ostatní uživatele vozidla se toto pojištění nevztahuje."
+          "text": "Vlastníka vozidla, který odpovídá za škodu způsobenou provozem vozidla. Na ostatní uživatele vozidla se toto pojištění nevztahuje.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Vlastníka vozidla při účasti na organizovaném motoristickém závodu, kde řidič není povinen dodržovat pravidla o provozu na pozemních komunikacích."
+          "text": "Vlastníka vozidla při účasti na organizovaném motoristickém závodu, kde řidič není povinen dodržovat pravidla o provozu na pozemních komunikacích.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "a"
@@ -1421,15 +1603,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Musí být předem očištěno tak, aby neznečišťovalo pozemní komunikaci."
+          "text": "Musí být předem očištěno tak, aby neznečišťovalo pozemní komunikaci.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Musí být v případě, že tak lze učinit bez větších obtíží, předem očištěno."
+          "text": "Musí být v případě, že tak lze učinit bez větších obtíží, předem očištěno.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Musí být očištěno na nejbližším vhodném místě po vjetí na pozemní komunikaci. "
+          "text": "Musí být očištěno na nejbližším vhodném místě po vjetí na pozemní komunikaci. ",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "a"
@@ -1444,11 +1629,13 @@
       "options": [
         {
           "id": "a",
-          "text": "Ano."
+          "text": "Ano.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Ne."
+          "text": "Ne.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "b"
@@ -1463,15 +1650,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Nezměním způsob jízdy ani chování, protože není důvod očekávat změnu dopravní situace."
+          "text": "Nezměním způsob jízdy ani chování, protože není důvod očekávat změnu dopravní situace.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Přizpůsobím jízdu tomu, že se vozovka oproti předcházejícímu úseku výrazně zužuje, a to z obou stran"
+          "text": "Přizpůsobím jízdu tomu, že se vozovka oproti předcházejícímu úseku výrazně zužuje, a to z obou stran",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Zvýším rychlost jízdy, abych byl co nejrychleji z místa zúžení."
+          "text": "Zvýším rychlost jízdy, abych byl co nejrychleji z místa zúžení.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "b"
@@ -1486,15 +1676,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Nemusí dávat znamení o změně směru jízdy."
+          "text": "Nemusí dávat znamení o změně směru jízdy.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Musí dávat znamení o změně směru jízdy."
+          "text": "Musí dávat znamení o změně směru jízdy.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Dává znamení o změně směru jízdy jen tehdy, vyžaduje-li to bezpečnost provozu."
+          "text": "Dává znamení o změně směru jízdy jen tehdy, vyžaduje-li to bezpečnost provozu.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "b"
@@ -1509,15 +1702,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Budete s ohledem na možné vběhnutí dětí do vozovky připraven(-a) brzdit a podle okolností snížíte rychlost jízdy."
+          "text": "Budete s ohledem na možné vběhnutí dětí do vozovky připraven(-a) brzdit a podle okolností snížíte rychlost jízdy.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Protože jsou děti na chodníku, nemáte důvod ke zvýšení opatrnosti ani ke změně způsobu jízdy."
+          "text": "Protože jsou děti na chodníku, nemáte důvod ke zvýšení opatrnosti ani ke změně způsobu jízdy.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Z dostatečné vzdálenosti upozorníte hrající si děti na možné nebezpečí zvukovým výstražným znamením."
+          "text": "Z dostatečné vzdálenosti upozorníte hrající si děti na možné nebezpečí zvukovým výstražným znamením.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "a"
@@ -1532,15 +1728,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Po celou dobu držení tohoto řidičského oprávnění."
+          "text": "Po celou dobu držení tohoto řidičského oprávnění.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Pouze v okamžiku udělení tohoto řidičského oprávnění."
+          "text": "Pouze v okamžiku udělení tohoto řidičského oprávnění.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Pouze v okamžiku udělení tohoto řidičského oprávnění nebo při přezkoušení z odborné způsobilosti."
+          "text": "Pouze v okamžiku udělení tohoto řidičského oprávnění nebo při přezkoušení z odborné způsobilosti.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "a"
@@ -1555,15 +1754,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Řidiči osobního motorového vozidla."
+          "text": "Řidiči osobního motorového vozidla.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Řidiči motocyklu, mopedu nebo jízdním kole."
+          "text": "Řidiči motocyklu, mopedu nebo jízdním kole.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Řidiči vozidla hromadné dopravy osob."
+          "text": "Řidiči vozidla hromadné dopravy osob.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "a"
@@ -1578,15 +1780,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Brzdnou dráhu neovlivňuje."
+          "text": "Brzdnou dráhu neovlivňuje.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Brzdnou dráhu zkracuje."
+          "text": "Brzdnou dráhu zkracuje.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Brzdnou dráhu prodlužuje. "
+          "text": "Brzdnou dráhu prodlužuje. ",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "c"
@@ -1601,15 +1806,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Máte přednost v jízdě před zeleným i žlutým vozidlem. Jako druhé projede křižovatkou žluté vozidlo a jako poslední zelené vozidlo."
+          "text": "Máte přednost v jízdě před zeleným i žlutým vozidlem. Jako druhé projede křižovatkou žluté vozidlo a jako poslední zelené vozidlo.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Musíte dát přednost v jízdě žlutému vozidlu, protože je na hlavní pozemní komunikaci, i zelenému vozidlu, protože odbočujete vlevo."
+          "text": "Musíte dát přednost v jízdě žlutému vozidlu, protože je na hlavní pozemní komunikaci, i zelenému vozidlu, protože odbočujete vlevo.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Musíte dát přednost v jízdě žlutému vozidlu, které přijíždí po hlavní pozemní komunikaci. Řidič zeleného vozidla musí dát přednost v jízdě vám."
+          "text": "Musíte dát přednost v jízdě žlutému vozidlu, které přijíždí po hlavní pozemní komunikaci. Řidič zeleného vozidla musí dát přednost v jízdě vám.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "b"
@@ -1624,15 +1832,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Ano, a to snížením rychlosti jízdy nebo i zastavením vozidla."
+          "text": "Ano, a to snížením rychlosti jízdy nebo i zastavením vozidla.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Ne, protože autobus vyjíždí od okraje pozemní komunikace."
+          "text": "Ne, protože autobus vyjíždí od okraje pozemní komunikace.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Ano, avšak pouze snížením rychlosti nebo změnou směru jízdy, nikoli zastavením vozidla. "
+          "text": "Ano, avšak pouze snížením rychlosti nebo změnou směru jízdy, nikoli zastavením vozidla. ",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "a"
@@ -1647,15 +1858,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Motorové vozidlo určené pro přepravu nákladu, se dvěma místy k sezení, jehož maximální přípustná hmotnost je 12.000 kg. "
+          "text": "Motorové vozidlo určené pro přepravu nákladu, se dvěma místy k sezení, jehož maximální přípustná hmotnost je 12.000 kg. ",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Motorové vozidlo určené pro přepravu nákladu, se třemi místy k sezení, jehož maximální přípustná hmotnost je 7.900 kg."
+          "text": "Motorové vozidlo určené pro přepravu nákladu, se třemi místy k sezení, jehož maximální přípustná hmotnost je 7.900 kg.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Motorové vozidlo určené pro přepravu osob, s deseti místy k sezení, jehož maximální přípustná hmotnost je 7.500 kg."
+          "text": "Motorové vozidlo určené pro přepravu osob, s deseti místy k sezení, jehož maximální přípustná hmotnost je 7.500 kg.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "c"
@@ -1670,15 +1884,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Motorové vozidlo určené pro přepravu nákladu, se dvěma místy k sezení, jehož maximální přípustná hmotnost je 8.000 kg."
+          "text": "Motorové vozidlo určené pro přepravu nákladu, se dvěma místy k sezení, jehož maximální přípustná hmotnost je 8.000 kg.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Motorové vozidlo určené pro přepravu osob, s patnácti místy k sezení, jehož maximální přípustná hmotnost je 7.850 kg, v němž je v danou chvíli přepravováno pět osob."
+          "text": "Motorové vozidlo určené pro přepravu osob, s patnácti místy k sezení, jehož maximální přípustná hmotnost je 7.850 kg, v němž je v danou chvíli přepravováno pět osob.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Motorové vozidlo určené pro přepravu osob, s dvanácti místy k sezení, jehož maximální přípustná hmotnost je 7.550 kg."
+          "text": "Motorové vozidlo určené pro přepravu osob, s dvanácti místy k sezení, jehož maximální přípustná hmotnost je 7.550 kg.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "a"
@@ -1693,15 +1910,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Dáte přednost v jízdě červenému i zelenému vozidlu. Jako první projede křižovatkou červené vozidlo."
+          "text": "Dáte přednost v jízdě červenému i zelenému vozidlu. Jako první projede křižovatkou červené vozidlo.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Máte přednost v jízdě před červeným vozidlem. Zelené vozidlo projede křižovatkou jako první."
+          "text": "Máte přednost v jízdě před červeným vozidlem. Zelené vozidlo projede křižovatkou jako první.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Dáte přednost v jízdě zelenému i červenému vozidlu. Jako první projede křižovatkou zelené vozidlo."
+          "text": "Dáte přednost v jízdě zelenému i červenému vozidlu. Jako první projede křižovatkou zelené vozidlo.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "a"
@@ -1716,15 +1936,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Motorové vozidlo určené pro přepravu osob, s deseti místy k sezení, jehož maximální přípustná hmotnost je 7.500 kg."
+          "text": "Motorové vozidlo určené pro přepravu osob, s deseti místy k sezení, jehož maximální přípustná hmotnost je 7.500 kg.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Motorové vozidlo určené pro přepravu nákladu, se třemi místy k sezení, jehož maximální přípustná hmotnost je 7.900 kg."
+          "text": "Motorové vozidlo určené pro přepravu nákladu, se třemi místy k sezení, jehož maximální přípustná hmotnost je 7.900 kg.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Motorové vozidlo určené pro přepravu nákladu, se dvěma místy k sezení, jehož maximální přípustná hmotnost je 12.000 kg."
+          "text": "Motorové vozidlo určené pro přepravu nákladu, se dvěma místy k sezení, jehož maximální přípustná hmotnost je 12.000 kg.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "a"
@@ -1739,15 +1962,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Motorové vozidlo s padesáti místy k sezení, jehož maximální přípustná hmotnost je 14.800 kg."
+          "text": "Motorové vozidlo s padesáti místy k sezení, jehož maximální přípustná hmotnost je 14.800 kg.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Motorové vozidlo se třemi místy k sezení, jehož maximální přípustná hmotnost je 15.500 kg."
+          "text": "Motorové vozidlo se třemi místy k sezení, jehož maximální přípustná hmotnost je 15.500 kg.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Motocykl s postranním vozíkem o objemu válců 498 cm3 a výkonu 37 kW."
+          "text": "Motocykl s postranním vozíkem o objemu válců 498 cm3 a výkonu 37 kW.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "a"
@@ -1762,15 +1988,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Přípojné vozidlo o maximální přípustné hmotnosti nepřevyšující 750 kg."
+          "text": "Přípojné vozidlo o maximální přípustné hmotnosti nepřevyšující 750 kg.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Přípojné vozidlo o maximální přípustné hmotnosti nepřevyšující 1.000 kg."
+          "text": "Přípojné vozidlo o maximální přípustné hmotnosti nepřevyšující 1.000 kg.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Přípojné vozidlo o maximální přípustné hmotnosti nepřevyšující 1.250 kg."
+          "text": "Přípojné vozidlo o maximální přípustné hmotnosti nepřevyšující 1.250 kg.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "a"
@@ -1785,15 +2014,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Pojedete jako první. Po vás pojede zelené vozidlo a jako poslední červené nákladní vozidlo."
+          "text": "Pojedete jako první. Po vás pojede zelené vozidlo a jako poslední červené nákladní vozidlo.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Pojedete jako druhý, hned po zeleném vozidle, kterému musíte dát přednost v jízdě. "
+          "text": "Pojedete jako druhý, hned po zeleném vozidle, kterému musíte dát přednost v jízdě. ",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Pojedete jako poslední. Jako první pojede zelené vozidlo a po něm červené nákladní vozidlo."
+          "text": "Pojedete jako poslední. Jako první pojede zelené vozidlo a po něm červené nákladní vozidlo.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "a"
@@ -1808,15 +2040,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Nesmíte."
+          "text": "Nesmíte.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Smíte, a to bez omezení."
+          "text": "Smíte, a to bez omezení.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Smíte, pokud počet přepravovaných osob nepřekročí 8 osob."
+          "text": "Smíte, pokud počet přepravovaných osob nepřekročí 8 osob.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "a"
@@ -1831,15 +2066,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Přikazuje řidiči motorového vozidla o třech a více kolech pokračovat v jízdě až po nasazení sněhových řetězů na nejméně dvě hnací kola."
+          "text": "Přikazuje řidiči motorového vozidla o třech a více kolech pokračovat v jízdě až po nasazení sněhových řetězů na nejméně dvě hnací kola.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Doporučuje řidiči motorového vozidla o třech a více kolech pokračovat v jízdě až po nasazení sněhových řetězů."
+          "text": "Doporučuje řidiči motorového vozidla o třech a více kolech pokračovat v jízdě až po nasazení sněhových řetězů.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Zakazuje vjezd vozidlům s nasazenými sněhovými řetězy."
+          "text": "Zakazuje vjezd vozidlům s nasazenými sněhovými řetězy.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "a"
@@ -1854,15 +2092,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Upozorňuje zejména na místo, kde tramvaj křižuje směr jízdy ostatních vozidel."
+          "text": "Upozorňuje zejména na místo, kde tramvaj křižuje směr jízdy ostatních vozidel.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Upozorňuje na železniční přejezd bez závor."
+          "text": "Upozorňuje na železniční přejezd bez závor.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Upozorňuje na místo, kde má řidič povinnost dát přednost v jízdě tramvaji, a to zejména mimo křižovatku"
+          "text": "Upozorňuje na místo, kde má řidič povinnost dát přednost v jízdě tramvaji, a to zejména mimo křižovatku",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "a"
@@ -1877,15 +2118,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Na úsek pozemní komunikace, kde je nebezpečné vjet na krajnici."
+          "text": "Na úsek pozemní komunikace, kde je nebezpečné vjet na krajnici.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Na místo nebo úsek pozemní komunikace, kde je dovolené parkování na krajnici."
+          "text": "Na místo nebo úsek pozemní komunikace, kde je dovolené parkování na krajnici.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Na místo dopravní nehody."
+          "text": "Na místo dopravní nehody.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "a"
@@ -1900,15 +2144,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Upozorňuje řidiče na železniční přejezd nevybavený závorami."
+          "text": "Upozorňuje řidiče na železniční přejezd nevybavený závorami.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Upozorňuje řidiče na železniční přejezd vybavený závorami."
+          "text": "Upozorňuje řidiče na železniční přejezd vybavený závorami.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Upozorňuje řidiče na jednokolejný železniční přejezd."
+          "text": "Upozorňuje řidiče na jednokolejný železniční přejezd.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "a"
@@ -1923,15 +2170,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Se umisťuje ve vzdálenosti 160 m před železničním přejezdem, na nějž upozorňuje."
+          "text": "Se umisťuje ve vzdálenosti 160 m před železničním přejezdem, na nějž upozorňuje.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Se umisťuje ve vzdálenosti 140 m před železničním přejezdem, na nějž upozorňuje."
+          "text": "Se umisťuje ve vzdálenosti 140 m před železničním přejezdem, na nějž upozorňuje.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Se umisťuje ve vzdálenosti 240 m před železničním přejezdem, na nějž upozorňuje."
+          "text": "Se umisťuje ve vzdálenosti 240 m před železničním přejezdem, na nějž upozorňuje.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "a"
@@ -1946,15 +2196,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Upozorňuje na jednokolejný železniční přejezd.\r\nJe-li řidič povinen před železničním přejezdem zastavit vozidlo, zastaví před touto značkou.\r\n"
+          "text": "Upozorňuje na jednokolejný železniční přejezd.\r\nJe-li řidič povinen před železničním přejezdem zastavit vozidlo, zastaví před touto značkou.\r\n",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Upozorňuje na jednokolejný železniční přejezd.\r\nJe-li řidič povinen před železničním přejezdem zastavit vozidlo, zastaví na místě, odkud má na železniční trať náležitý rozhled.\r\n"
+          "text": "Upozorňuje na jednokolejný železniční přejezd.\r\nJe-li řidič povinen před železničním přejezdem zastavit vozidlo, zastaví na místě, odkud má na železniční trať náležitý rozhled.\r\n",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Upozorňuje na vícekolejný železniční přejezd, kde je potřeba dbát zvýšené opatrnosti pro případ současného průjezdu vlaků z obou směrů."
+          "text": "Upozorňuje na vícekolejný železniční přejezd, kde je potřeba dbát zvýšené opatrnosti pro případ současného průjezdu vlaků z obou směrů.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "a"
@@ -1969,15 +2222,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Máte přednost v jízdě před protijedoucími vozidly."
+          "text": "Máte přednost v jízdě před protijedoucími vozidly.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Musíte dát přednost v jízdě protijedoucím vozidlům."
+          "text": "Musíte dát přednost v jízdě protijedoucím vozidlům.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Musíte jet po krajnici, pokud je to nezbytné pro vyhnutí se protijedoucím vozidlům, která nesmíte omezit."
+          "text": "Musíte jet po krajnici, pokud je to nezbytné pro vyhnutí se protijedoucím vozidlům, která nesmíte omezit.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "a"
@@ -1992,15 +2248,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Smí jet řidič rychlostí nejvýše 20 km/h."
+          "text": "Smí jet řidič rychlostí nejvýše 20 km/h.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Smí jet řidič rychlostí nejvýše 30 km/h."
+          "text": "Smí jet řidič rychlostí nejvýše 30 km/h.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Smí jet řidič rychlostí nejvýše 50 km/h."
+          "text": "Smí jet řidič rychlostí nejvýše 50 km/h.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "a"
@@ -2015,15 +2274,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Smí řidič stát jen na místech označených jako parkoviště; zastavit však smí i mimo parkoviště."
+          "text": "Smí řidič stát jen na místech označených jako parkoviště; zastavit však smí i mimo parkoviště.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Není zastavení, stání ani parkování právní úpravou omezeno."
+          "text": "Není zastavení, stání ani parkování právní úpravou omezeno.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Smí řidič zastavit a stát jen na místech označených jako parkoviště."
+          "text": "Smí řidič zastavit a stát jen na místech označených jako parkoviště.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "a"
@@ -2038,15 +2300,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Musí řidič dbát zvýšené ohleduplnosti vůči chodcům, které nesmí ohrozit."
+          "text": "Musí řidič dbát zvýšené ohleduplnosti vůči chodcům, které nesmí ohrozit.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Má vždy řidič motorového i nemotorového vozidla přednost před chodci, kteří ho nesmějí omezit."
+          "text": "Má vždy řidič motorového i nemotorového vozidla přednost před chodci, kteří ho nesmějí omezit.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Musí řidič dbát zvýšené ohleduplnosti vůči chodcům jen na přechodech pro chodce."
+          "text": "Musí řidič dbát zvýšené ohleduplnosti vůči chodcům jen na přechodech pro chodce.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "a"
@@ -2061,15 +2326,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Bude řidič vjíždět na kruhový objezd; vozidlům jedoucím po kruhovém objezdu musí dát přednost v jízdě."
+          "text": "Bude řidič vjíždět na kruhový objezd; vozidlům jedoucím po kruhovém objezdu musí dát přednost v jízdě.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Bude řidič vjíždět na dálnici; je povinen použít připojovací pruh a musí dát přednost v jízdě vozidlům jedoucím v průběžném pruhu."
+          "text": "Bude řidič vjíždět na dálnici; je povinen použít připojovací pruh a musí dát přednost v jízdě vozidlům jedoucím v průběžném pruhu.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Musí řidič odbočit vlevo, přičemž je povinen dát přednost v jízdě vozidlům jedoucím v obou směrech."
+          "text": "Musí řidič odbočit vlevo, přičemž je povinen dát přednost v jízdě vozidlům jedoucím v obou směrech.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "a"
@@ -2084,15 +2352,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Místo,kde se vozovka oproti předcházejícímu úseku výrazně zužuje, a to z obou stran."
+          "text": "Místo,kde se vozovka oproti předcházejícímu úseku výrazně zužuje, a to z obou stran.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Místo, kde se vozovka oproti předcházejícímu úseku výrazně zužuje z jedné strany. "
+          "text": "Místo, kde se vozovka oproti předcházejícímu úseku výrazně zužuje z jedné strany. ",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Místo, kde při souběžné jízdě platí střídavé řazení do jízdního proudu průběžného pruhu. "
+          "text": "Místo, kde při souběžné jízdě platí střídavé řazení do jízdního proudu průběžného pruhu. ",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "a"
@@ -2107,15 +2378,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Je řidiči zakázáno jet rychlostí více než 30 km/h."
+          "text": "Je řidiči zakázáno jet rychlostí více než 30 km/h.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Je řidiči přikázáno jet rychlostí nejméně 30 km/h, pokud s ohledem na provozní podmínky lze této rychlosti dosáhnout."
+          "text": "Je řidiči přikázáno jet rychlostí nejméně 30 km/h, pokud s ohledem na provozní podmínky lze této rychlosti dosáhnout.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Je řidiči doporučeno řidiči jet rychlostí nejvýše 30 km/h."
+          "text": "Je řidiči doporučeno řidiči jet rychlostí nejvýše 30 km/h.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "a"
@@ -2130,15 +2404,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Musí řidič přizpůsobit jízdu s předpokladem, že za horizontem bude snižovat rychlost jízdy nebo zastavovat před přechodem pro chodce."
+          "text": "Musí řidič přizpůsobit jízdu s předpokladem, že za horizontem bude snižovat rychlost jízdy nebo zastavovat před přechodem pro chodce.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Musí řidič snížit rychlost jízdy, neboť je upozorněn dopravní značkou na úsek pozemní komunikace, kde místní podmínky činí klesání nebezpečným."
+          "text": "Musí řidič snížit rychlost jízdy, neboť je upozorněn dopravní značkou na úsek pozemní komunikace, kde místní podmínky činí klesání nebezpečným.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Musí řidič snížit rychlost jízdy z důvodu umělé nerovnosti na vozovce, jejímž účelem je zejména snížení rychlosti jedoucích vozidel."
+          "text": "Musí řidič snížit rychlost jízdy z důvodu umělé nerovnosti na vozovce, jejímž účelem je zejména snížení rychlosti jedoucích vozidel.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "a"
@@ -2153,11 +2430,13 @@
       "options": [
         {
           "id": "a",
-          "text": "Ano."
+          "text": "Ano.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Ne."
+          "text": "Ne.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "a"
@@ -2172,15 +2451,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Může řidič zastavit na dobu nezbytně nutnou k neprodlenému nastoupení nebo vystoupení přepravovaných osob anebo k neprodlenému naložení nebo složení nákladu; stát tam však nesmí."
+          "text": "Může řidič zastavit na dobu nezbytně nutnou k neprodlenému nastoupení nebo vystoupení přepravovaných osob anebo k neprodlenému naložení nebo složení nákladu; stát tam však nesmí.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Nesmí řidič ani zastavit na dobu nezbytně nutnou k neprodlenému nastoupení nebo vystoupení přepravovaných osob anebo k neprodlenému naložení nebo složení nákladu."
+          "text": "Nesmí řidič ani zastavit na dobu nezbytně nutnou k neprodlenému nastoupení nebo vystoupení přepravovaných osob anebo k neprodlenému naložení nebo složení nákladu.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Nesmí řidič zastavit, stát ani zastavit vozidlo."
+          "text": "Nesmí řidič zastavit, stát ani zastavit vozidlo.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "a"
@@ -2195,15 +2477,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Přizpůsobit jízdu tomu, že se blížíte k přechodu pro chodce."
+          "text": "Přizpůsobit jízdu tomu, že se blížíte k přechodu pro chodce.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Snížit rychlost jízdy na 20 km/h, protože vjíždíte do pěší zóny."
+          "text": "Snížit rychlost jízdy na 20 km/h, protože vjíždíte do pěší zóny.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Zastavit vozidlo, protože za ním začíná stezka pro chodce, na kterou nesmíte vjíždět."
+          "text": "Zastavit vozidlo, protože za ním začíná stezka pro chodce, na kterou nesmíte vjíždět.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "a"
@@ -2218,15 +2503,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Dát přednost v jízdě vozidlům přijíždějícím zleva."
+          "text": "Dát přednost v jízdě vozidlům přijíždějícím zleva.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Odbočit vpravo."
+          "text": "Odbočit vpravo.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Dát přednost v jízdě vozidlům v obou směrech."
+          "text": "Dát přednost v jízdě vozidlům v obou směrech.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "b"
@@ -2241,15 +2529,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Nejvýše 50 km/h, protože vjíždíte do obce."
+          "text": "Nejvýše 50 km/h, protože vjíždíte do obce.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Nejvýše 20 km/h, protože vjíždíte do obytné zóny."
+          "text": "Nejvýše 20 km/h, protože vjíždíte do obytné zóny.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Nejvýše 60 km/h, protože vjíždíte do obce."
+          "text": "Nejvýše 60 km/h, protože vjíždíte do obce.",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "a"
@@ -2264,15 +2555,18 @@
       "options": [
         {
           "id": "a",
-          "text": "Musí dbát zvýšené opatrnosti a dát přednost v jízdě protijedoucímu vozidlu, pokud se s ním nemůže bezpečně vyhnout."
+          "text": "Musí dbát zvýšené opatrnosti a dát přednost v jízdě protijedoucímu vozidlu, pokud se s ním nemůže bezpečně vyhnout.",
+          "imageUrl": null
         },
         {
           "id": "b",
-          "text": "Nemusí měnit způsob jízdy, protože má přednost v jízdě před protijedoucími vozidly."
+          "text": "Nemusí měnit způsob jízdy, protože má přednost v jízdě před protijedoucími vozidly.",
+          "imageUrl": null
         },
         {
           "id": "c",
-          "text": "Protijedoucího vozidla smí do následujícího úseku pozemní komunikace vjet pouze v případě, kdy se jeho a protijedoucí vozidlo mohou bezpečně vyhnout. "
+          "text": "Protijedoucího vozidla smí do následujícího úseku pozemní komunikace vjet pouze v případě, kdy se jeho a protijedoucí vozidlo mohou bezpečně vyhnout. ",
+          "imageUrl": null
         }
       ],
       "correctAnswer": "a"
