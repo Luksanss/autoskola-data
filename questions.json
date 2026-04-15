@@ -1,5 +1,5 @@
 {
-  "version": 1776210664443,
+  "version": 1776212375061,
   "data": [
     {
       "id": "q_180",
@@ -453,6 +453,1826 @@
         {
           "id": "c",
           "text": "Jako první zelené vozidlo, jako druhé červené vozidlo, jako poslední modré vozidlo společně s Vaším vozidlem."
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q_1332",
+      "category": "Podmínky provozu",
+      "points": 4,
+      "question": "Blížíte se k místu, kde si děti hrají na chodníku. Jak se musíte zachovat?",
+      "imageUrl": null,
+      "videoUrl": "https://etesty.md.gov.cz/binary_content_storage/Q_W_1332.mp4",
+      "options": [
+        {
+          "id": "a",
+          "text": "Podle okolností zpomalit jízdu a být připraven brzdit."
+        },
+        {
+          "id": "b",
+          "text": "Pokračovat v jízdě stejnou rychlostí, abych neomezil vozidla za sebou."
+        },
+        {
+          "id": "c",
+          "text": "Dát výstražné zvukové znamení a pokračovat v jízdě."
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q_1336",
+      "category": "Podmínky provozu",
+      "points": 4,
+      "question": "Jste řidičem vozidla z výhledu. Určete, v jakém pořadí projedou vozidla touto křižovatkou:",
+      "imageUrl": null,
+      "videoUrl": "https://etesty.md.gov.cz/binary_content_storage/Q_W_1336.mp4",
+      "options": [
+        {
+          "id": "a",
+          "text": "1. Vaše vozidlo současně s protijedoucím červeným vozidlem, 2. zelené vozidlo."
+        },
+        {
+          "id": "b",
+          "text": "1. Vaše vozidlo současně se zeleným vozidlem jedoucím zprava, 2. červené vozidlo."
+        },
+        {
+          "id": "c",
+          "text": "1. červené vozidlo, 2. zelené vozidlo, 3. Vaše vozidlo."
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q_1338",
+      "category": "Podmínky provozu",
+      "points": 4,
+      "question": "Jste řidičem vozidla z výhledu. Určete, v jakém pořadí projedou vozidla vyobrazenou křižovatkou:",
+      "imageUrl": null,
+      "videoUrl": "https://etesty.md.gov.cz/binary_content_storage/Q_W_1338.mp4",
+      "options": [
+        {
+          "id": "a",
+          "text": "1. Vaše vozidlo, 2. protijedoucí žluté vozidlo, 3. zelené vozidlo."
+        },
+        {
+          "id": "b",
+          "text": "1. Vaše vozidlo, 2. zelené vozidlo jedoucí zprava, 3. žluté vozidlo."
+        },
+        {
+          "id": "c",
+          "text": "1. zelené vozidlo jedoucí zprava, 2. Vaše vozidlo, 3. žluté vozidlo."
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q_1339",
+      "category": "Podmínky provozu",
+      "points": 4,
+      "question": "Jste řidičem vozidla z výhledu. Určete, v jakém pořadí projedou vozidla touto křižovatkou:",
+      "imageUrl": null,
+      "videoUrl": "https://etesty.md.gov.cz/binary_content_storage/Q_W_1339.mp4",
+      "options": [
+        {
+          "id": "a",
+          "text": "1. zelené vozidlo jedoucí zleva, 2. protijedoucí zelené vozidlo, 3. oranžové nákladní vozidlo, 4. Vaše vozidlo."
+        },
+        {
+          "id": "b",
+          "text": "1. protijedoucí zelené vozidlo, 2. zelené vozidlo jedoucí zleva, 3. oranžové nákladní vozidlo, 4. Vaše vozidlo."
+        },
+        {
+          "id": "c",
+          "text": "1. zelené vozidlo jedoucí zleva, 2. protijedoucí zelené vozidlo, 3. Vaše vozidlo, 4. oranžové nákladní vozidlo."
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q_1340",
+      "category": "Podmínky provozu",
+      "points": 4,
+      "question": "Jste řidičem vozidla z výhledu. Určete, kolikáté projede Vaše vozidlo touto křižovatkou:",
+      "imageUrl": null,
+      "videoUrl": "https://etesty.md.gov.cz/binary_content_storage/Q_W_1340.mp4",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jako poslední."
+        },
+        {
+          "id": "b",
+          "text": "Jako druhé."
+        },
+        {
+          "id": "c",
+          "text": "Jako třetí."
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q_1341",
+      "category": "Podmínky provozu",
+      "points": 4,
+      "question": "Jste řidičem vozidla z výhledu. Jaké chování očekáváte od řidiče zeleného vozidla?",
+      "imageUrl": null,
+      "videoUrl": "https://etesty.md.gov.cz/binary_content_storage/Q_W_1341.mp4",
+      "options": [
+        {
+          "id": "a",
+          "text": "Projede křižovatkou jako první a nedává přednost v jízdě žádnému vozidlu."
+        },
+        {
+          "id": "b",
+          "text": "Dá přednost v jízdě červenému vozidlu a projede křižovatkou jako druhý. "
+        },
+        {
+          "id": "c",
+          "text": "Dá přednost v jízdě vašemu vozidlu, které projede křižovatkou jako první."
+        }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "q_1345",
+      "category": "Podmínky provozu",
+      "points": 4,
+      "question": "Jste řidičem vozidla z výhledu. V jakém pořadí projedou vozidla vyobrazenou křižovatkou?",
+      "imageUrl": null,
+      "videoUrl": "https://etesty.md.gov.cz/binary_content_storage/Q_W_1345.mp4",
+      "options": [
+        {
+          "id": "a",
+          "text": "1. Vaše vozidlo, 2. modré protijedoucí vozidlo, 3. oranžové nákladní vozidlo."
+        },
+        {
+          "id": "b",
+          "text": "1. Vaše vozidlo, 2. oranžové nákladní vozidlo, 3. modré protijedoucí vozidlo, "
+        },
+        {
+          "id": "c",
+          "text": "1. modré protijedoucí vozidlo, 2. Vaše vozidlo,  3. oranžové nákladní vozidlo."
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q_1347",
+      "category": "Podmínky provozu",
+      "points": 4,
+      "question": "Jste řidičem vozidla z výhledu. Určete, v jakém pořadí projedou vozidla touto křižovatkou:",
+      "imageUrl": null,
+      "videoUrl": "https://etesty.md.gov.cz/binary_content_storage/Q_W_1347.mp4",
+      "options": [
+        {
+          "id": "a",
+          "text": "1. Vaše vozidlo, 2. protijedoucí modré vozidlo, 3. zelené vozidlo jedoucí zprava."
+        },
+        {
+          "id": "b",
+          "text": "1. Vaše vozidlo současně se zeleným vozidlem jedoucím zprava, 2. protijedoucí modré vozidlo."
+        },
+        {
+          "id": "c",
+          "text": "1. Protijedoucí modré vozidlo, 2. Vaše vozidlo současně se zeleným vozidlem jedoucím zprava."
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q_1348",
+      "category": "Podmínky provozu",
+      "points": 4,
+      "question": "Jste řidičem vozidla z výhledu. V jakém pořadí projedou vozidla touto křižovatkou?",
+      "imageUrl": null,
+      "videoUrl": "https://etesty.md.gov.cz/binary_content_storage/Q_W_1348.mp4",
+      "options": [
+        {
+          "id": "a",
+          "text": "1. červené nákladní vozidlo, 2. Vaše vozidlo společně s protijedoucím modrým vozidlem."
+        },
+        {
+          "id": "b",
+          "text": "1. Vaše vozidlo společně s protijedoucím modrým vozilem, 2. červené nákladní vozidlo."
+        },
+        {
+          "id": "c",
+          "text": "1. Vaše vozidlo, 2. červené nákladní vozidlo, 3. protijedoucí modré vozidlo."
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q_1349",
+      "category": "Podmínky provozu",
+      "points": 4,
+      "question": "Jste řidičem vozidla z výhledu. Na vyobrazené křižovatce:",
+      "imageUrl": null,
+      "videoUrl": "https://etesty.md.gov.cz/binary_content_storage/Q_W_1349.mp4",
+      "options": [
+        {
+          "id": "a",
+          "text": "Projedete jako první, protože jste na hlavní pozemní komunikaci. Hned po Vás projede červený nákladní automobil."
+        },
+        {
+          "id": "b",
+          "text": "Projedete jako druhý, hned po protijedoucím žlutém vozidle, kterému musíte dát přednost v jízdě."
+        },
+        {
+          "id": "c",
+          "text": "Projedete jako druhý, hned po červeném nákladním vozidle, kterému musíte dát přednost v jízdě."
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "q_1373",
+      "category": "Podmínky provozu",
+      "points": 4,
+      "question": "Jako řidič vozidla z výhledu:\r\n",
+      "imageUrl": null,
+      "videoUrl": "https://etesty.md.gov.cz/binary_content_storage/Q_W_1373.mp4",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jste povinen dát přednost vozidlu přijíždějícímu zleva."
+        },
+        {
+          "id": "b",
+          "text": "Můžete pokračovat v jízdě křižovatkou. Jste na hlavní pozemní komunikaci."
+        },
+        {
+          "id": "c",
+          "text": "Máte přednost v jízdě před řidičem přijíždějícím zleva. "
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q_1389",
+      "category": "Dopravní situace",
+      "points": 2,
+      "question": "Na vozovce je velká kaluž vody, kterou s motocyklem musíte projet. Jak se zachováte?",
+      "imageUrl": null,
+      "videoUrl": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Výrazně snížíte rychlost jízdy, nohy necháte na stupačkách a pomalu projedete kaluží."
+        },
+        {
+          "id": "b",
+          "text": "Nebudete brzdit, jen zvednete nohy ze stupaček a projedete kaluží."
+        },
+        {
+          "id": "c",
+          "text": "Objedu kaluž přes chodník nebo krajnici vozovky."
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q_1400",
+      "category": "Dopravní situace",
+      "points": 2,
+      "question": "Pokud nepřetržitě řídíte vozidlo o celkové hmotnosti 16 t, musíte zařadit bezpečnostní přestávku nejpozději:",
+      "imageUrl": null,
+      "videoUrl": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Po 4,5 hodinách."
+        },
+        {
+          "id": "b",
+          "text": "Po 5 hodinách."
+        },
+        {
+          "id": "c",
+          "text": "Po 5,5 hodinách.\r\n"
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q_1402",
+      "category": "Dopravní situace",
+      "points": 2,
+      "question": "Může řidič číst za jízdy z mapy?",
+      "imageUrl": null,
+      "videoUrl": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Ne, zvyšuje se tím riziko dopravní nehody. Řidič se musí věnovat řízení vozidla."
+        },
+        {
+          "id": "b",
+          "text": "Ano, ale pouze při rychlosti nižší než je 50 km/h."
+        },
+        {
+          "id": "c",
+          "text": "Ano, s výjimkou jízdy na dálnici."
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q_1408",
+      "category": "Dopravní značky",
+      "points": 1,
+      "question": "Která z vyobrazených dopravních značek neupravuje přednost.",
+      "imageUrl": null,
+      "videoUrl": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "."
+        },
+        {
+          "id": "b",
+          "text": "."
+        },
+        {
+          "id": "c",
+          "text": "."
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "q_1427",
+      "category": "Dopravní značky",
+      "points": 1,
+      "question": "Která z vyobrazených dopravních značek neupravuje přednost.",
+      "imageUrl": null,
+      "videoUrl": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "."
+        },
+        {
+          "id": "b",
+          "text": "."
+        },
+        {
+          "id": "c",
+          "text": "."
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "q_1441",
+      "category": "Dopravní značky",
+      "points": 1,
+      "question": "Která z vyobrazených dopravních značek neupravuje přednost.",
+      "imageUrl": null,
+      "videoUrl": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "."
+        },
+        {
+          "id": "b",
+          "text": "."
+        },
+        {
+          "id": "c",
+          "text": "."
+        }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "q_1446",
+      "category": "Dopravní značky",
+      "points": 1,
+      "question": "Tato dopravní značka označuje:",
+      "imageUrl": "https://etesty.md.gov.cz/binary_content_storage/Q_W_1446.gif",
+      "videoUrl": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Vedlejší pozemní komunikaci."
+        },
+        {
+          "id": "b",
+          "text": "Konec hlavní pozemní komunikace."
+        },
+        {
+          "id": "c",
+          "text": "Hlavní pozemní komunikaci"
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "q_1455",
+      "category": "Pravidla provozu",
+      "points": 1,
+      "question": "Zraněný si po dopravní nehodě stěžuje na bolesti břicha a pocit žízně:",
+      "imageUrl": null,
+      "videoUrl": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Nepodáváme mu žádné nápoje. "
+        },
+        {
+          "id": "b",
+          "text": "Podáváme mu studené nápoje."
+        },
+        {
+          "id": "c",
+          "text": "Podáváme mu dostatek vlažných nápojů."
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q_1468",
+      "category": "Pravidla provozu",
+      "points": 2,
+      "question": "Autobus s označením \"Označení autobusu přepravujícího děti\" zastavil v označené zastávce. Řidič vozidla, které jede za ním:",
+      "imageUrl": null,
+      "videoUrl": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Je povinen zastavit vozidlo za tímto autobusem a pokračovat v jízdě může až po odjezdu autobusu ze zastávky."
+        },
+        {
+          "id": "b",
+          "text": "Smí tento autobus objet, pokud při tom dbá zvýšené opatrnosti a přihlédne k možnosti vběhnutí dětí do vozovky."
+        },
+        {
+          "id": "c",
+          "text": "Smí autobus objet, jen pokud mu dopravce dává znamení, že je možné autobus bezpečně objet."
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q_1469",
+      "category": "Pravidla provozu",
+      "points": 2,
+      "question": "Na pozemní komunikaci objíždí vozidlo překážku. Musí jeho řidič dávat znamení o změně směru své jízdy?",
+      "imageUrl": null,
+      "videoUrl": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Ano."
+        },
+        {
+          "id": "b",
+          "text": "Ne."
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q_1476",
+      "category": "Pravidla provozu",
+      "points": 2,
+      "question": "Po předjetí jiného vozidla máte v úmyslu se zařadit před toto vozidlo. Musíte dávat znamení o změně směru jízdy?",
+      "imageUrl": null,
+      "videoUrl": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Ano."
+        },
+        {
+          "id": "b",
+          "text": "Ne."
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q_1477",
+      "category": "Pravidla provozu",
+      "points": 2,
+      "question": "V tunelu došlo k poruše motorového vozidla, které se stalo nepojízdným. Jako řidič takového vozidla nesmíte:",
+      "imageUrl": null,
+      "videoUrl": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Kouřit nebo zacházet s otevřeným ohněm."
+        },
+        {
+          "id": "b",
+          "text": "Opustit vozidlo."
+        },
+        {
+          "id": "c",
+          "text": "Zastavovat jiná vozidla."
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q_1483",
+      "category": "Pravidla provozu",
+      "points": 2,
+      "question": "Zapnutím výstražného světelného znamení dává řidič upozornění, pokud:",
+      "imageUrl": null,
+      "videoUrl": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Je nutné náhle snížit rychlost jízdy nebo zastavit vozidlo."
+        },
+        {
+          "id": "b",
+          "text": "Řidič před vozidlem jede pomalu a zdržuje provoz na pozemních komunikacích."
+        },
+        {
+          "id": "c",
+          "text": "Předjíždí kolonu vozidel, která jej zpomaluje v jízdě. "
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q_1504",
+      "category": "Pravidla provozu",
+      "points": 2,
+      "question": "Za vozidlem hromadné dopravy osob, které zastavilo v obci v zastávce bez nástupního ostrůvku nebo bez nástupiště na zvýšeném tramvajovém pásu, musí řidič jiného vozidla:",
+      "imageUrl": null,
+      "videoUrl": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Snížit rychlost vozidla s ohledem na bezpečnost nastupujících a vystupujících cestujících."
+        },
+        {
+          "id": "b",
+          "text": "Vozidlo zastavit; je-li v zastávce více vozidel hromadné dopravy osob, musí zastavit za druhým z nich, pokračovat v jízdě smí teprve tehdy, neohrozí-li již cestující, kteří nastupují nebo vystupují."
+        },
+        {
+          "id": "c",
+          "text": "Vozidlo zastavit i v případě, zastaví-li vozidlo hromadné dopravy osob u okraje vozovky."
+        }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "q_1508",
+      "category": "Pravidla provozu",
+      "points": 2,
+      "question": "Řidič nesmí překročit:",
+      "imageUrl": null,
+      "videoUrl": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Nejvyšší povolenou rychlost vozidla, a jde-li o jízdní soupravu, nejvyšší povolenou rychlost žádného z vozidel soupravy."
+        },
+        {
+          "id": "b",
+          "text": "Nejvyšší povolenou rychlost vozidla, a jde-li o jízdní soupravu, nemusí brát zřetel na nejvyšší povolenou rychlost přípojného vozidla."
+        },
+        {
+          "id": "c",
+          "text": "Nejvyšší povolenou rychlost vozidla, a jde-li o jízdní soupravu, musí  brát zřetel jen na nejvyšší povolenou rychlost přípojného vozidla."
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q_1511",
+      "category": "Pravidla provozu",
+      "points": 2,
+      "question": "Řidič vozidla, který nehodlá nebo nemůže projet podél tramvaje vpravo:",
+      "imageUrl": null,
+      "videoUrl": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Musí za ní jet v takové vzdálenosti, aby umožnil projetí podél tramvaje ostatním řidičům."
+        },
+        {
+          "id": "b",
+          "text": "Musí pokračovat v jízdě za tramvají až na takové místo, kde lze podél tramvaje projet vpravo."
+        },
+        {
+          "id": "c",
+          "text": "Musí zastavit vozidlo a umožnit ostatním řidičům projetí podél tramvaje."
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q_1517",
+      "category": "Pravidla provozu",
+      "points": 2,
+      "question": "Řidič vozidla, které zastavilo nebo stálo a opět vyjíždí od okraje pozemní komunikace nebo od chodníku:",
+      "imageUrl": null,
+      "videoUrl": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Musí dávat znamení o změně směru jízdy a nesmí ohrozit ani omezit ostatní účastníky provozu na pozemních komunikacích."
+        },
+        {
+          "id": "b",
+          "text": "Nemusí dávat znamení o změně směru jízdy a může omezit ostatní účastníky provozu na pozemních komunikacích."
+        },
+        {
+          "id": "c",
+          "text": "Musí dávat znamení o změně směru jízdy a nesmí ohrozit ostatní účastníky provozu na pozemních komunikacích."
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "q_1521",
+      "category": "Pravidla provozu",
+      "points": 2,
+      "question": "Řidič motorového vozidla smí dávat světelné výstražné znamení krátkým přerušovaným rozsvícením dálkových světel nebo přepínáním potkávacích a dálkových světel:",
+      "imageUrl": null,
+      "videoUrl": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Jen mimo obec při předjíždění k upozornění řidiče předjížděného vozidla. "
+        },
+        {
+          "id": "b",
+          "text": "Pouze k odvrácení hrozícího nebezpečí nebo k upozornění řidiče předjížděného vozidla."
+        },
+        {
+          "id": "c",
+          "text": "Pokud chce upozornit ostatní řidiče na silniční kontrolu. "
+        }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "q_1525",
+      "category": "Pravidla provozu",
+      "points": 2,
+      "question": "Řidič při vyjíždění z kruhového objezdu:",
+      "imageUrl": null,
+      "videoUrl": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Je povinen dát znamení o změně směru jízdy vpravo."
+        },
+        {
+          "id": "b",
+          "text": "Není povinen dát znamení o změně směru jízdy."
+        },
+        {
+          "id": "c",
+          "text": "Je povinen upozornit ostatní účastníky provozu o svém úmyslu výstražným světelným znamením."
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q_1526",
+      "category": "Pravidla provozu",
+      "points": 2,
+      "question": "Řidič vjíždějící z účelové pozemní komunikace na jinou pozemní komunikaci:",
+      "imageUrl": null,
+      "videoUrl": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Nemusí dát přednost v jízdě vozidlům nebo jezdcům na zvířatech nebo organizovanému útvaru chodců nebo průvodcům hnaných zvířat se zvířaty jdoucím po pozemní komunikaci."
+        },
+        {
+          "id": "b",
+          "text": "Musí dát přednost v jízdě vozidlům nebo jezdcům na zvířatech nebo organizovanému útvaru chodců nebo průvodcům hnaných zvířat se zvířaty jdoucím po pozemní komunikaci."
+        },
+        {
+          "id": "c",
+          "text": "Nemusí dát přednost jezdcům na zvířatech nebo organizovanému útvaru chodců jdoucím po pozemní komunikaci, musí dát přednost v jízdě pouze vozidlům jedoucím po pozemní komunikaci."
+        }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "q_1527",
+      "category": "Pravidla provozu",
+      "points": 2,
+      "question": "Kdo odpovídá za umístění a upevnění dětské autosedačky v souladu s návodem k jejímu použití?  ",
+      "imageUrl": null,
+      "videoUrl": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Vždy řidič vozidla."
+        },
+        {
+          "id": "b",
+          "text": "Zákonný zástupce dítěte nebo jím pověřená osoba. "
+        },
+        {
+          "id": "c",
+          "text": "Osoba, která dítě doprovází, a u dítěte bez doprovodu řidič."
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q_1536",
+      "category": "Pravidla provozu",
+      "points": 2,
+      "question": "Na silniční vegetaci, pokud to není povoleno místní úpravou na pozemní komunikaci:",
+      "imageUrl": null,
+      "videoUrl": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Řidič může zastavit na dobu nezbytně nutnou."
+        },
+        {
+          "id": "b",
+          "text": "Řidič nesmí zastavit a stát."
+        },
+        {
+          "id": "c",
+          "text": "Řidič může zastavit, nikoli však stát."
+        }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "q_1537",
+      "category": "Pravidla provozu",
+      "points": 2,
+      "question": "Na jednosměrné pozemní komunikaci smí řidič zastavit a stát:",
+      "imageUrl": null,
+      "videoUrl": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Pouze vpravo."
+        },
+        {
+          "id": "b",
+          "text": "Pouze vlevo."
+        },
+        {
+          "id": "c",
+          "text": "Vpravo i vlevo."
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "q_1539",
+      "category": "Podmínky provozu",
+      "points": 4,
+      "question": "Jak se zachováte jako řidič vozidla z výhledu?",
+      "imageUrl": null,
+      "videoUrl": "https://etesty.md.gov.cz/binary_content_storage/Q_W_1539.mp4",
+      "options": [
+        {
+          "id": "a",
+          "text": "Projedete křižovatkou jako první."
+        },
+        {
+          "id": "b",
+          "text": "Dáte přednost zelenému automobilu."
+        },
+        {
+          "id": "c",
+          "text": "Dáte přednost červenému automobilu."
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "q_1545",
+      "category": "Pravidla provozu",
+      "points": 2,
+      "question": "Před železničním přejezdem, u kterého je umístěna dopravní značka \"Stůj, dej přednost v jízdě!\", musí řidič zastavit vozidlo:\r\n",
+      "imageUrl": null,
+      "videoUrl": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Na takovém místě, odkud má náležitý rozhled na trať."
+        },
+        {
+          "id": "b",
+          "text": "Nejdále 5 m za touto dopravní značkou."
+        },
+        {
+          "id": "c",
+          "text": "Nejméně 5 m před železničním přejezdem."
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q_1566",
+      "category": "Pravidla provozu",
+      "points": 2,
+      "question": "Řidič, který měl účast na dopravní nehodě, je povinen:",
+      "imageUrl": null,
+      "videoUrl": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Neprodleně zastavit vozidlo."
+        },
+        {
+          "id": "b",
+          "text": "Neprodleně zastavit vozidlo, jen pokud došlo ke zranění nebo usmrcení osob."
+        },
+        {
+          "id": "c",
+          "text": "Neprodleně zastavit vozidlo, jen pokud došlo při této nehodě ke škodě na majetku převyšující částku 50 000 Kč nebo ke zranění nebo usmrcení osob."
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q_1572",
+      "category": "Pravidla provozu",
+      "points": 2,
+      "question": "Svítí-li světlo signálu se žlutým světlem \"Pozor!\" na křižovatce přerušovaně:\r\n",
+      "imageUrl": null,
+      "videoUrl": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Nejde o křižovatku s provozem řízeným světelnými signály."
+        },
+        {
+          "id": "b",
+          "text": "Znamená to pro řidiče povinnost neprodleně křižovatku opustit."
+        },
+        {
+          "id": "c",
+          "text": "Je to signál pro řidiče k volnému průjezdu křižovatkou."
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q_1575",
+      "category": "Podmínky provozu",
+      "points": 4,
+      "question": "Může řidič vozidla z výhledu vjet na železniční přejezd?",
+      "imageUrl": null,
+      "videoUrl": "https://etesty.md.gov.cz/binary_content_storage/Q_W_1575.mp4",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ano."
+        },
+        {
+          "id": "b",
+          "text": "Ne.  "
+        }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "q_1579",
+      "category": "Podmínky provozu",
+      "points": 4,
+      "question": "Řidič vozidla z výhledu projede vyobrazenou křižovatkou jako:",
+      "imageUrl": null,
+      "videoUrl": "https://etesty.md.gov.cz/binary_content_storage/Q_W_1579.mp4",
+      "options": [
+        {
+          "id": "a",
+          "text": "První."
+        },
+        {
+          "id": "b",
+          "text": "Druhý."
+        },
+        {
+          "id": "c",
+          "text": "Třetí."
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q_1584",
+      "category": "Pravidla provozu",
+      "points": 2,
+      "question": "Provozovatel motorového vozidla odpovídá:  ",
+      "imageUrl": null,
+      "videoUrl": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Za škodu vyvolanou zvláštní povahou provozu motorového vozidla.\r\n"
+        },
+        {
+          "id": "b",
+          "text": "Pouze za škodu, která byla vyvolána porušením jeho právních povinností. "
+        },
+        {
+          "id": "c",
+          "text": "Pouze za škodu, která byla vyvolána porušením povinností řidiče tohoto vozidla.  "
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q_1585",
+      "category": "Pravidla provozu",
+      "points": 2,
+      "question": "Pojištění odpovědnosti z provozu vozidla se vztahuje na:",
+      "imageUrl": null,
+      "videoUrl": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Každou osobu, která odpovídá za škodu způsobenou provozem vozidla uvedeného v pojistné smlouvě."
+        },
+        {
+          "id": "b",
+          "text": "Vlastníka vozidla, který odpovídá za škodu způsobenou provozem vozidla. Na ostatní uživatele vozidla se toto pojištění nevztahuje."
+        },
+        {
+          "id": "c",
+          "text": "Vlastníka vozidla při účasti na organizovaném motoristickém závodu, kde řidič není povinen dodržovat pravidla o provozu na pozemních komunikacích."
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q_1589",
+      "category": "Pravidla provozu",
+      "points": 2,
+      "question": "Vozidlo vjíždějící na pozemní komunikaci:\r\n ",
+      "imageUrl": null,
+      "videoUrl": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Musí být předem očištěno tak, aby neznečišťovalo pozemní komunikaci."
+        },
+        {
+          "id": "b",
+          "text": "Musí být v případě, že tak lze učinit bez větších obtíží, předem očištěno."
+        },
+        {
+          "id": "c",
+          "text": "Musí být očištěno na nejbližším vhodném místě po vjetí na pozemní komunikaci. "
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q_1598",
+      "category": "Podmínky provozu",
+      "points": 4,
+      "question": "Můžete při vjíždění na tramvajový pás omezit v jízdě tramvaj?",
+      "imageUrl": null,
+      "videoUrl": "https://etesty.md.gov.cz/binary_content_storage/Q_W_1598.mp4",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ano."
+        },
+        {
+          "id": "b",
+          "text": "Ne."
+        }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "q_1604",
+      "category": "Dopravní značky",
+      "points": 1,
+      "question": "Jak se zachováte v místě, kde je tato výstražná dopravní značka? ",
+      "imageUrl": "https://etesty.md.gov.cz/binary_content_storage/Q_W_1604.jpg",
+      "videoUrl": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Nezměním způsob jízdy ani chování, protože není důvod očekávat změnu dopravní situace."
+        },
+        {
+          "id": "b",
+          "text": "Přizpůsobím jízdu tomu, že se vozovka oproti předcházejícímu úseku výrazně zužuje, a to z obou stran"
+        },
+        {
+          "id": "c",
+          "text": "Zvýším rychlost jízdy, abych byl co nejrychleji z místa zúžení."
+        }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "q_1607",
+      "category": "Pravidla provozu",
+      "points": 2,
+      "question": "Řidič, který při předjíždění motorového vozidla vybočuje ze směru své jízdy:",
+      "imageUrl": null,
+      "videoUrl": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Nemusí dávat znamení o změně směru jízdy."
+        },
+        {
+          "id": "b",
+          "text": "Musí dávat znamení o změně směru jízdy."
+        },
+        {
+          "id": "c",
+          "text": "Dává znamení o změně směru jízdy jen tehdy, vyžaduje-li to bezpečnost provozu."
+        }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "q_1615",
+      "category": "Dopravní situace",
+      "points": 2,
+      "question": "Ve výhledu z motorového vozidla vidíte děti, které si hrají na chodníku. Jak se zachováte?",
+      "imageUrl": null,
+      "videoUrl": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Budete s ohledem na možné vběhnutí dětí do vozovky připraven(-a) brzdit a podle okolností snížíte rychlost jízdy."
+        },
+        {
+          "id": "b",
+          "text": "Protože jsou děti na chodníku, nemáte důvod ke zvýšení opatrnosti ani ke změně způsobu jízdy."
+        },
+        {
+          "id": "c",
+          "text": "Z dostatečné vzdálenosti upozorníte hrající si děti na možné nebezpečí zvukovým výstražným znamením."
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q_1629",
+      "category": "Pravidla provozu",
+      "points": 2,
+      "question": "Podmínky pro udělení příslušného řidičského oprávnění musí osoba splňovat:",
+      "imageUrl": null,
+      "videoUrl": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Po celou dobu držení tohoto řidičského oprávnění."
+        },
+        {
+          "id": "b",
+          "text": "Pouze v okamžiku udělení tohoto řidičského oprávnění."
+        },
+        {
+          "id": "c",
+          "text": "Pouze v okamžiku udělení tohoto řidičského oprávnění nebo při přezkoušení z odborné způsobilosti."
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q_1650",
+      "category": "Pravidla provozu",
+      "points": 2,
+      "question": "Během jízdy motorovým vozidlem není ze zákona zakázáno kouřit:",
+      "imageUrl": null,
+      "videoUrl": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Řidiči osobního motorového vozidla."
+        },
+        {
+          "id": "b",
+          "text": "Řidiči motocyklu, mopedu nebo jízdním kole."
+        },
+        {
+          "id": "c",
+          "text": "Řidiči vozidla hromadné dopravy osob."
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q_1706",
+      "category": "Dopravní situace",
+      "points": 2,
+      "question": "Prodleva brzd:",
+      "imageUrl": null,
+      "videoUrl": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Brzdnou dráhu neovlivňuje."
+        },
+        {
+          "id": "b",
+          "text": "Brzdnou dráhu zkracuje."
+        },
+        {
+          "id": "c",
+          "text": "Brzdnou dráhu prodlužuje. "
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "q_1714",
+      "category": "Podmínky provozu",
+      "points": 4,
+      "question": "Jste řidičem vozidla z výhledu. Na vyobrazené křižovatce:",
+      "imageUrl": null,
+      "videoUrl": "https://etesty.md.gov.cz/binary_content_storage/Q_W_1714.mp4",
+      "options": [
+        {
+          "id": "a",
+          "text": "Máte přednost v jízdě před zeleným i žlutým vozidlem. Jako druhé projede křižovatkou žluté vozidlo a jako poslední zelené vozidlo."
+        },
+        {
+          "id": "b",
+          "text": "Musíte dát přednost v jízdě žlutému vozidlu, protože je na hlavní pozemní komunikaci, i zelenému vozidlu, protože odbočujete vlevo."
+        },
+        {
+          "id": "c",
+          "text": "Musíte dát přednost v jízdě žlutému vozidlu, které přijíždí po hlavní pozemní komunikaci. Řidič zeleného vozidla musí dát přednost v jízdě vám."
+        }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "q_1742",
+      "category": "Podmínky provozu",
+      "points": 4,
+      "question": "Jedete v obci jako řidič vozidla z výhledu. Je vaší povinností umožnit autobusu vyjetí ze zastávky?\r\n",
+      "imageUrl": null,
+      "videoUrl": "https://etesty.md.gov.cz/binary_content_storage/Q_W_1742.mp4",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ano, a to snížením rychlosti jízdy nebo i zastavením vozidla."
+        },
+        {
+          "id": "b",
+          "text": "Ne, protože autobus vyjíždí od okraje pozemní komunikace."
+        },
+        {
+          "id": "c",
+          "text": "Ano, avšak pouze snížením rychlosti nebo změnou směru jízdy, nikoli zastavením vozidla. "
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q_1768",
+      "category": "Pravidla provozu",
+      "points": 2,
+      "question": "Které z následujících motorových vozidel nesmíte řídit s řidičským oprávněním skupiny C:",
+      "imageUrl": null,
+      "videoUrl": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Motorové vozidlo určené pro přepravu nákladu, se dvěma místy k sezení, jehož maximální přípustná hmotnost je 12.000 kg. "
+        },
+        {
+          "id": "b",
+          "text": "Motorové vozidlo určené pro přepravu nákladu, se třemi místy k sezení, jehož maximální přípustná hmotnost je 7.900 kg."
+        },
+        {
+          "id": "c",
+          "text": "Motorové vozidlo určené pro přepravu osob, s deseti místy k sezení, jehož maximální přípustná hmotnost je 7.500 kg."
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "q_1770",
+      "category": "Pravidla provozu",
+      "points": 2,
+      "question": "Které z následujících motorových vozidel smíte řídit na základě řidičského oprávněním skupiny C:",
+      "imageUrl": null,
+      "videoUrl": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Motorové vozidlo určené pro přepravu nákladu, se dvěma místy k sezení, jehož maximální přípustná hmotnost je 8.000 kg."
+        },
+        {
+          "id": "b",
+          "text": "Motorové vozidlo určené pro přepravu osob, s patnácti místy k sezení, jehož maximální přípustná hmotnost je 7.850 kg, v němž je v danou chvíli přepravováno pět osob."
+        },
+        {
+          "id": "c",
+          "text": "Motorové vozidlo určené pro přepravu osob, s dvanácti místy k sezení, jehož maximální přípustná hmotnost je 7.550 kg."
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q_1776",
+      "category": "Podmínky provozu",
+      "points": 4,
+      "question": "Ve vyobrazené dopravní situaci jste řidičem vozidla z výhledu. Na křižovatce:",
+      "imageUrl": null,
+      "videoUrl": "https://etesty.md.gov.cz/binary_content_storage/Q_W_1776.mp4",
+      "options": [
+        {
+          "id": "a",
+          "text": "Dáte přednost v jízdě červenému i zelenému vozidlu. Jako první projede křižovatkou červené vozidlo."
+        },
+        {
+          "id": "b",
+          "text": "Máte přednost v jízdě před červeným vozidlem. Zelené vozidlo projede křižovatkou jako první."
+        },
+        {
+          "id": "c",
+          "text": "Dáte přednost v jízdě zelenému i červenému vozidlu. Jako první projede křižovatkou zelené vozidlo."
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q_1785",
+      "category": "Pravidla provozu",
+      "points": 2,
+      "question": "Které z následujících motorových vozidel smíte řídit s řidičským oprávněním skupiny D:",
+      "imageUrl": null,
+      "videoUrl": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Motorové vozidlo určené pro přepravu osob, s deseti místy k sezení, jehož maximální přípustná hmotnost je 7.500 kg."
+        },
+        {
+          "id": "b",
+          "text": "Motorové vozidlo určené pro přepravu nákladu, se třemi místy k sezení, jehož maximální přípustná hmotnost je 7.900 kg."
+        },
+        {
+          "id": "c",
+          "text": "Motorové vozidlo určené pro přepravu nákladu, se dvěma místy k sezení, jehož maximální přípustná hmotnost je 12.000 kg."
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q_1792",
+      "category": "Pravidla provozu",
+      "points": 2,
+      "question": "Které z následujících motorových vozidel smíte řídit s řidičským oprávněním skupiny D:",
+      "imageUrl": null,
+      "videoUrl": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Motorové vozidlo s padesáti místy k sezení, jehož maximální přípustná hmotnost je 14.800 kg."
+        },
+        {
+          "id": "b",
+          "text": "Motorové vozidlo se třemi místy k sezení, jehož maximální přípustná hmotnost je 15.500 kg."
+        },
+        {
+          "id": "c",
+          "text": "Motocykl s postranním vozíkem o objemu válců 498 cm3 a výkonu 37 kW."
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q_1793",
+      "category": "Pravidla provozu",
+      "points": 2,
+      "question": "S řidičským oprávněním skupiny D smíte řídit jízdní soupravu za předpokladu, že k motorovému vozidlu, k jehož řízení řidičské oprávnění skupiny D opravňuje, připojíte:",
+      "imageUrl": null,
+      "videoUrl": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Přípojné vozidlo o maximální přípustné hmotnosti nepřevyšující 750 kg."
+        },
+        {
+          "id": "b",
+          "text": "Přípojné vozidlo o maximální přípustné hmotnosti nepřevyšující 1.000 kg."
+        },
+        {
+          "id": "c",
+          "text": "Přípojné vozidlo o maximální přípustné hmotnosti nepřevyšující 1.250 kg."
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q_1798",
+      "category": "Podmínky provozu",
+      "points": 4,
+      "question": "Jste řidičem vozidla z výhledu. Na vyobrazené křižovatce:",
+      "imageUrl": null,
+      "videoUrl": "https://etesty.md.gov.cz/binary_content_storage/Q_W_1798.mp4",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pojedete jako první. Po vás pojede zelené vozidlo a jako poslední červené nákladní vozidlo."
+        },
+        {
+          "id": "b",
+          "text": "Pojedete jako druhý, hned po zeleném vozidle, kterému musíte dát přednost v jízdě. "
+        },
+        {
+          "id": "c",
+          "text": "Pojedete jako poslední. Jako první pojede zelené vozidlo a po něm červené nákladní vozidlo."
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q_1800",
+      "category": "Pravidla provozu",
+      "points": 2,
+      "question": "Řídit motorové vozidlo určené pro přepravu osob, s dvaceti místy k sezení, jehož maximální přípustná hmotnost je 8.000 kg, pouze na základě řidičského oprávnění skupiny C:",
+      "imageUrl": null,
+      "videoUrl": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Nesmíte."
+        },
+        {
+          "id": "b",
+          "text": "Smíte, a to bez omezení."
+        },
+        {
+          "id": "c",
+          "text": "Smíte, pokud počet přepravovaných osob nepřekročí 8 osob."
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q_1803",
+      "category": "Dopravní značky",
+      "points": 1,
+      "question": "Vyobrazená dopravní značka:",
+      "imageUrl": "https://etesty.md.gov.cz/binary_content_storage/Q_W_1803.gif",
+      "videoUrl": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Přikazuje řidiči motorového vozidla o třech a více kolech pokračovat v jízdě až po nasazení sněhových řetězů na nejméně dvě hnací kola."
+        },
+        {
+          "id": "b",
+          "text": "Doporučuje řidiči motorového vozidla o třech a více kolech pokračovat v jízdě až po nasazení sněhových řetězů."
+        },
+        {
+          "id": "c",
+          "text": "Zakazuje vjezd vozidlům s nasazenými sněhovými řetězy."
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q_1863",
+      "category": "Dopravní značky",
+      "points": 1,
+      "question": "Tato dopravní značka:",
+      "imageUrl": "https://etesty.md.gov.cz/binary_content_storage/Q_W_1863.jpg",
+      "videoUrl": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Upozorňuje zejména na místo, kde tramvaj křižuje směr jízdy ostatních vozidel."
+        },
+        {
+          "id": "b",
+          "text": "Upozorňuje na železniční přejezd bez závor."
+        },
+        {
+          "id": "c",
+          "text": "Upozorňuje na místo, kde má řidič povinnost dát přednost v jízdě tramvaji, a to zejména mimo křižovatku"
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q_1866",
+      "category": "Dopravní značky",
+      "points": 1,
+      "question": "Tato výstražná dopravní značka upozorňuje řidiče:",
+      "imageUrl": "https://etesty.md.gov.cz/binary_content_storage/Q_W_1866.jpg",
+      "videoUrl": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Na úsek pozemní komunikace, kde je nebezpečné vjet na krajnici."
+        },
+        {
+          "id": "b",
+          "text": "Na místo nebo úsek pozemní komunikace, kde je dovolené parkování na krajnici."
+        },
+        {
+          "id": "c",
+          "text": "Na místo dopravní nehody."
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q_1867",
+      "category": "Dopravní značky",
+      "points": 1,
+      "question": "Tato výstražná dopravní značka:",
+      "imageUrl": "https://etesty.md.gov.cz/binary_content_storage/Q_W_1867.jpg",
+      "videoUrl": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Upozorňuje řidiče na železniční přejezd nevybavený závorami."
+        },
+        {
+          "id": "b",
+          "text": "Upozorňuje řidiče na železniční přejezd vybavený závorami."
+        },
+        {
+          "id": "c",
+          "text": "Upozorňuje řidiče na jednokolejný železniční přejezd."
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q_1868",
+      "category": "Dopravní značky",
+      "points": 1,
+      "question": "Tato dopravní značka:",
+      "imageUrl": "https://etesty.md.gov.cz/binary_content_storage/Q_W_1868.jpg",
+      "videoUrl": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Se umisťuje ve vzdálenosti 160 m před železničním přejezdem, na nějž upozorňuje."
+        },
+        {
+          "id": "b",
+          "text": "Se umisťuje ve vzdálenosti 140 m před železničním přejezdem, na nějž upozorňuje."
+        },
+        {
+          "id": "c",
+          "text": "Se umisťuje ve vzdálenosti 240 m před železničním přejezdem, na nějž upozorňuje."
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q_1870",
+      "category": "Dopravní značky",
+      "points": 1,
+      "question": "Tato dopravní značka:",
+      "imageUrl": "https://etesty.md.gov.cz/binary_content_storage/Q_W_1870.jpg",
+      "videoUrl": null,
+      "options": [
+        {
+          "id": "a",
+          "text": "Upozorňuje na jednokolejný železniční přejezd.\r\nJe-li řidič povinen před železničním přejezdem zastavit vozidlo, zastaví před touto značkou.\r\n"
+        },
+        {
+          "id": "b",
+          "text": "Upozorňuje na jednokolejný železniční přejezd.\r\nJe-li řidič povinen před železničním přejezdem zastavit vozidlo, zastaví na místě, odkud má na železniční trať náležitý rozhled.\r\n"
+        },
+        {
+          "id": "c",
+          "text": "Upozorňuje na vícekolejný železniční přejezd, kde je potřeba dbát zvýšené opatrnosti pro případ současného průjezdu vlaků z obou směrů."
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q_1915",
+      "category": "Dopravní značky",
+      "points": 1,
+      "question": "Za nejbližší svislou dopravní značkou jako řidič vozidla z výhledu:",
+      "imageUrl": null,
+      "videoUrl": "https://etesty.md.gov.cz/binary_content_storage/Q_W_1915.mp4",
+      "options": [
+        {
+          "id": "a",
+          "text": "Máte přednost v jízdě před protijedoucími vozidly."
+        },
+        {
+          "id": "b",
+          "text": "Musíte dát přednost v jízdě protijedoucím vozidlům."
+        },
+        {
+          "id": "c",
+          "text": "Musíte jet po krajnici, pokud je to nezbytné pro vyhnutí se protijedoucím vozidlům, která nesmíte omezit."
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q_1920",
+      "category": "Dopravní značky",
+      "points": 1,
+      "question": "V úseku za touto dopravní značkou:",
+      "imageUrl": null,
+      "videoUrl": "https://etesty.md.gov.cz/binary_content_storage/Q_W_1920.mp4",
+      "options": [
+        {
+          "id": "a",
+          "text": "Smí jet řidič rychlostí nejvýše 20 km/h."
+        },
+        {
+          "id": "b",
+          "text": "Smí jet řidič rychlostí nejvýše 30 km/h."
+        },
+        {
+          "id": "c",
+          "text": "Smí jet řidič rychlostí nejvýše 50 km/h."
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q_1921",
+      "category": "Dopravní značky",
+      "points": 1,
+      "question": "V úseku za touto dopravní značkou:",
+      "imageUrl": null,
+      "videoUrl": "https://etesty.md.gov.cz/binary_content_storage/Q_W_1921.mp4",
+      "options": [
+        {
+          "id": "a",
+          "text": "Smí řidič stát jen na místech označených jako parkoviště; zastavit však smí i mimo parkoviště."
+        },
+        {
+          "id": "b",
+          "text": "Není zastavení, stání ani parkování právní úpravou omezeno."
+        },
+        {
+          "id": "c",
+          "text": "Smí řidič zastavit a stát jen na místech označených jako parkoviště."
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q_1922",
+      "category": "Dopravní značky",
+      "points": 1,
+      "question": "V úseku za touto dopravní značkou:",
+      "imageUrl": null,
+      "videoUrl": "https://etesty.md.gov.cz/binary_content_storage/Q_W_1922.mp4",
+      "options": [
+        {
+          "id": "a",
+          "text": "Musí řidič dbát zvýšené ohleduplnosti vůči chodcům, které nesmí ohrozit."
+        },
+        {
+          "id": "b",
+          "text": "Má vždy řidič motorového i nemotorového vozidla přednost před chodci, kteří ho nesmějí omezit."
+        },
+        {
+          "id": "c",
+          "text": "Musí řidič dbát zvýšené ohleduplnosti vůči chodcům jen na přechodech pro chodce."
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q_1923",
+      "category": "Dopravní značky",
+      "points": 1,
+      "question": "Za vyobrazenou dvojicí dopravních značek:",
+      "imageUrl": null,
+      "videoUrl": "https://etesty.md.gov.cz/binary_content_storage/Q_W_1923.mp4",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bude řidič vjíždět na kruhový objezd; vozidlům jedoucím po kruhovém objezdu musí dát přednost v jízdě."
+        },
+        {
+          "id": "b",
+          "text": "Bude řidič vjíždět na dálnici; je povinen použít připojovací pruh a musí dát přednost v jízdě vozidlům jedoucím v průběžném pruhu."
+        },
+        {
+          "id": "c",
+          "text": "Musí řidič odbočit vlevo, přičemž je povinen dát přednost v jízdě vozidlům jedoucím v obou směrech."
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q_1925",
+      "category": "Dopravní značky",
+      "points": 1,
+      "question": "Tato značka upozorňuje na:",
+      "imageUrl": null,
+      "videoUrl": "https://etesty.md.gov.cz/binary_content_storage/Q_W_1925.mp4",
+      "options": [
+        {
+          "id": "a",
+          "text": "Místo,kde se vozovka oproti předcházejícímu úseku výrazně zužuje, a to z obou stran."
+        },
+        {
+          "id": "b",
+          "text": "Místo, kde se vozovka oproti předcházejícímu úseku výrazně zužuje z jedné strany. "
+        },
+        {
+          "id": "c",
+          "text": "Místo, kde při souběžné jízdě platí střídavé řazení do jízdního proudu průběžného pruhu. "
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q_1928",
+      "category": "Dopravní značky",
+      "points": 1,
+      "question": "Za touto dopravní značkou:",
+      "imageUrl": null,
+      "videoUrl": "https://etesty.md.gov.cz/binary_content_storage/Q_W_1928.mp4",
+      "options": [
+        {
+          "id": "a",
+          "text": "Je řidiči zakázáno jet rychlostí více než 30 km/h."
+        },
+        {
+          "id": "b",
+          "text": "Je řidiči přikázáno jet rychlostí nejméně 30 km/h, pokud s ohledem na provozní podmínky lze této rychlosti dosáhnout."
+        },
+        {
+          "id": "c",
+          "text": "Je řidiči doporučeno řidiči jet rychlostí nejvýše 30 km/h."
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q_1929",
+      "category": "Dopravní značky",
+      "points": 1,
+      "question": "Ve vyobrazené situaci:",
+      "imageUrl": null,
+      "videoUrl": "https://etesty.md.gov.cz/binary_content_storage/Q_W_1929.mp4",
+      "options": [
+        {
+          "id": "a",
+          "text": "Musí řidič přizpůsobit jízdu s předpokladem, že za horizontem bude snižovat rychlost jízdy nebo zastavovat před přechodem pro chodce."
+        },
+        {
+          "id": "b",
+          "text": "Musí řidič snížit rychlost jízdy, neboť je upozorněn dopravní značkou na úsek pozemní komunikace, kde místní podmínky činí klesání nebezpečným."
+        },
+        {
+          "id": "c",
+          "text": "Musí řidič snížit rychlost jízdy z důvodu umělé nerovnosti na vozovce, jejímž účelem je zejména snížení rychlosti jedoucích vozidel."
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q_1931",
+      "category": "Dopravní značky",
+      "points": 1,
+      "question": "Lze za nejbližší dopravní značkou zastavit za účelem neprodleného vystoupení přepravovaných osob?",
+      "imageUrl": null,
+      "videoUrl": "https://etesty.md.gov.cz/binary_content_storage/Q_W_1931.mp4",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ano."
+        },
+        {
+          "id": "b",
+          "text": "Ne."
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q_1933",
+      "category": "Dopravní značky",
+      "points": 1,
+      "question": "Za touto dopravní značkou:",
+      "imageUrl": null,
+      "videoUrl": "https://etesty.md.gov.cz/binary_content_storage/Q_W_1933.mp4",
+      "options": [
+        {
+          "id": "a",
+          "text": "Může řidič zastavit na dobu nezbytně nutnou k neprodlenému nastoupení nebo vystoupení přepravovaných osob anebo k neprodlenému naložení nebo složení nákladu; stát tam však nesmí."
+        },
+        {
+          "id": "b",
+          "text": "Nesmí řidič ani zastavit na dobu nezbytně nutnou k neprodlenému nastoupení nebo vystoupení přepravovaných osob anebo k neprodlenému naložení nebo složení nákladu."
+        },
+        {
+          "id": "c",
+          "text": "Nesmí řidič zastavit, stát ani zastavit vozidlo."
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q_1936",
+      "category": "Dopravní značky",
+      "points": 1,
+      "question": "Pokud jako řidič vidíte na vozovce tento symbol, musíte:",
+      "imageUrl": null,
+      "videoUrl": "https://etesty.md.gov.cz/binary_content_storage/Q_W_1936.mp4",
+      "options": [
+        {
+          "id": "a",
+          "text": "Přizpůsobit jízdu tomu, že se blížíte k přechodu pro chodce."
+        },
+        {
+          "id": "b",
+          "text": "Snížit rychlost jízdy na 20 km/h, protože vjíždíte do pěší zóny."
+        },
+        {
+          "id": "c",
+          "text": "Zastavit vozidlo, protože za ním začíná stezka pro chodce, na kterou nesmíte vjíždět."
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q_1937",
+      "category": "Dopravní značky",
+      "points": 1,
+      "question": "Na vyobrazené křižovatce musíte jako řidič vozidla z výhledu:",
+      "imageUrl": null,
+      "videoUrl": "https://etesty.md.gov.cz/binary_content_storage/Q_W_1937.mp4",
+      "options": [
+        {
+          "id": "a",
+          "text": "Dát přednost v jízdě vozidlům přijíždějícím zleva."
+        },
+        {
+          "id": "b",
+          "text": "Odbočit vpravo."
+        },
+        {
+          "id": "c",
+          "text": "Dát přednost v jízdě vozidlům v obou směrech."
+        }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "q_1942",
+      "category": "Dopravní značky",
+      "points": 1,
+      "question": "Za touto dopravní značkou smíte jet rychlostí:",
+      "imageUrl": null,
+      "videoUrl": "https://etesty.md.gov.cz/binary_content_storage/Q_W_1942.mp4",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nejvýše 50 km/h, protože vjíždíte do obce."
+        },
+        {
+          "id": "b",
+          "text": "Nejvýše 20 km/h, protože vjíždíte do obytné zóny."
+        },
+        {
+          "id": "c",
+          "text": "Nejvýše 60 km/h, protože vjíždíte do obce."
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q_1943",
+      "category": "Dopravní značky",
+      "points": 1,
+      "question": "Za touto dopravní značkou řidič:",
+      "imageUrl": null,
+      "videoUrl": "https://etesty.md.gov.cz/binary_content_storage/Q_W_1943.mp4",
+      "options": [
+        {
+          "id": "a",
+          "text": "Musí dbát zvýšené opatrnosti a dát přednost v jízdě protijedoucímu vozidlu, pokud se s ním nemůže bezpečně vyhnout."
+        },
+        {
+          "id": "b",
+          "text": "Nemusí měnit způsob jízdy, protože má přednost v jízdě před protijedoucími vozidly."
+        },
+        {
+          "id": "c",
+          "text": "Protijedoucího vozidla smí do následujícího úseku pozemní komunikace vjet pouze v případě, kdy se jeho a protijedoucí vozidlo mohou bezpečně vyhnout. "
         }
       ],
       "correctAnswer": "a"
