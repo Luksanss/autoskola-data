@@ -1,0 +1,45 @@
+{
+  "version": 1776447202713,
+  "data": [
+    {
+      "id": 1,
+      "name": "Z&#xE1;kon &#x10D;. 361/2000Sb. (Pravidla provozu na pozemn&#xED;ch komunikac&#xED;ch)"
+    },
+    {
+      "id": 2,
+      "name": "Z&#xE1;sady bezpe&#x10D;n&#xE9; j&#xED;zdy [A]"
+    },
+    {
+      "id": 3,
+      "name": "Z&#xE1;sady bezpe&#x10D;n&#xE9; j&#xED;zdy [B]"
+    },
+    {
+      "id": 4,
+      "name": "Z&#xE1;sady bezpe&#x10D;n&#xE9; j&#xED;zdy [C,D]"
+    },
+    {
+      "id": 5,
+      "name": "Dopravn&#xED; zna&#x10D;ky"
+    },
+    {
+      "id": 6,
+      "name": "&#x158;e&#x161;en&#xED; dopravn&#xED;ch situac&#xED;"
+    },
+    {
+      "id": 7,
+      "name": "Podm&#xED;nky provozu vozidel"
+    },
+    {
+      "id": 8,
+      "name": "Souvisej&#xED;c&#xED; p&#x159;edpisy"
+    },
+    {
+      "id": 9,
+      "name": "Zdravotnick&#xE1; p&#x159;&#xED;prava"
+    },
+    {
+      "id": 99,
+      "name": "Soubor v&#x161;ech ot&#xE1;zek"
+    }
+  ]
+}
