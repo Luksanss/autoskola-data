@@ -1,5 +1,5 @@
 {
-  "version": 1776447505737,
+  "version": 1780760049915,
   "data": [
     {
       "id": "q_180",
@@ -303,7 +303,7 @@
     },
     {
       "id": "q_498",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Jako řidič auta z výhledu v dané situaci:",
       "imageUrl": null,
@@ -333,7 +333,7 @@
     },
     {
       "id": "q_509",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Jste řidičem vozidla z výhledu. Ve vyobrazené dopravní situaci:",
       "imageUrl": null,
@@ -538,7 +538,7 @@
     },
     {
       "id": "q_1311",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Jako řidič automobilu z výhledu projedete touto křižovatkou:",
       "imageUrl": null,
@@ -568,7 +568,7 @@
     },
     {
       "id": "q_1329",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Jste řidičem vozidla z výhledu. V jakém pořadí projedou vozidla touto křižovatkou?",
       "imageUrl": null,
@@ -598,7 +598,7 @@
     },
     {
       "id": "q_1332",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Blížíte se k místu, kde si děti hrají na chodníku. Jak se musíte zachovat?",
       "imageUrl": null,
@@ -628,7 +628,7 @@
     },
     {
       "id": "q_1336",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Jste řidičem vozidla z výhledu. Určete, v jakém pořadí projedou vozidla touto křižovatkou:",
       "imageUrl": null,
@@ -658,7 +658,7 @@
     },
     {
       "id": "q_1338",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Jste řidičem vozidla z výhledu. Určete, v jakém pořadí projedou vozidla vyobrazenou křižovatkou:",
       "imageUrl": null,
@@ -688,7 +688,7 @@
     },
     {
       "id": "q_1339",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Jste řidičem vozidla z výhledu. Určete, v jakém pořadí projedou vozidla touto křižovatkou:",
       "imageUrl": null,
@@ -718,7 +718,7 @@
     },
     {
       "id": "q_1340",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Jste řidičem vozidla z výhledu. Určete, kolikáté projede Vaše vozidlo touto křižovatkou:",
       "imageUrl": null,
@@ -748,7 +748,7 @@
     },
     {
       "id": "q_1341",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Jste řidičem vozidla z výhledu. Jaké chování očekáváte od řidiče zeleného vozidla?",
       "imageUrl": null,
@@ -778,7 +778,7 @@
     },
     {
       "id": "q_1345",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Jste řidičem vozidla z výhledu. V jakém pořadí projedou vozidla vyobrazenou křižovatkou?",
       "imageUrl": null,
@@ -808,7 +808,7 @@
     },
     {
       "id": "q_1347",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Jste řidičem vozidla z výhledu. Určete, v jakém pořadí projedou vozidla touto křižovatkou:",
       "imageUrl": null,
@@ -838,7 +838,7 @@
     },
     {
       "id": "q_1348",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Jste řidičem vozidla z výhledu. V jakém pořadí projedou vozidla touto křižovatkou?",
       "imageUrl": null,
@@ -868,7 +868,7 @@
     },
     {
       "id": "q_1349",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Jste řidičem vozidla z výhledu. Na vyobrazené křižovatce:",
       "imageUrl": null,
@@ -898,7 +898,7 @@
     },
     {
       "id": "q_1373",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Jako řidič vozidla z výhledu:\r\n",
       "imageUrl": null,
@@ -928,7 +928,7 @@
     },
     {
       "id": "q_1389",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Na vozovce je velká kaluž vody, kterou s motocyklem musíte projet. Jak se zachováte?",
       "imageUrl": null,
@@ -960,7 +960,7 @@
     },
     {
       "id": "q_1400",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Pokud nepřetržitě řídíte vozidlo o celkové hmotnosti 16 t, musíte zařadit bezpečnostní přestávku nejpozději:",
       "imageUrl": null,
@@ -992,7 +992,7 @@
     },
     {
       "id": "q_1402",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Může řidič číst za jízdy z mapy?",
       "imageUrl": null,
@@ -1144,7 +1144,7 @@
     },
     {
       "id": "q_1455",
-      "category": "Pravidla provozu",
+      "category": "Zdravotnická příprava",
       "points": 1,
       "question": "Zraněný si po dopravní nehodě stěžuje na bolesti břicha a pocit žízně:",
       "imageUrl": null,
@@ -1614,7 +1614,7 @@
     },
     {
       "id": "q_1539",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Jak se zachováte jako řidič vozidla z výhledu?",
       "imageUrl": null,
@@ -1734,7 +1734,7 @@
     },
     {
       "id": "q_1575",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Může řidič vozidla z výhledu vjet na železniční přejezd?",
       "imageUrl": null,
@@ -1759,7 +1759,7 @@
     },
     {
       "id": "q_1579",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Řidič vozidla z výhledu projede vyobrazenou křižovatkou jako:",
       "imageUrl": null,
@@ -1789,7 +1789,7 @@
     },
     {
       "id": "q_1584",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Provozovatel motorového vozidla odpovídá:  ",
       "imageUrl": null,
@@ -1819,7 +1819,7 @@
     },
     {
       "id": "q_1585",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Pojištění odpovědnosti z provozu vozidla se vztahuje na:",
       "imageUrl": null,
@@ -1879,7 +1879,7 @@
     },
     {
       "id": "q_1598",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Můžete při vjíždění na tramvajový pás omezit v jízdě tramvaj?",
       "imageUrl": null,
@@ -1964,7 +1964,7 @@
     },
     {
       "id": "q_1615",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Ve výhledu z motorového vozidla vidíte děti, které si hrají na chodníku. Jak se zachováte?",
       "imageUrl": null,
@@ -1996,7 +1996,7 @@
     },
     {
       "id": "q_1629",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Podmínky pro udělení příslušného řidičského oprávnění musí osoba splňovat:",
       "imageUrl": null,
@@ -2056,7 +2056,7 @@
     },
     {
       "id": "q_1706",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Prodleva brzd:",
       "imageUrl": null,
@@ -2088,7 +2088,7 @@
     },
     {
       "id": "q_1714",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Jste řidičem vozidla z výhledu. Na vyobrazené křižovatce:",
       "imageUrl": null,
@@ -2118,7 +2118,7 @@
     },
     {
       "id": "q_1742",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Jedete v obci jako řidič vozidla z výhledu. Je vaší povinností umožnit autobusu vyjetí ze zastávky?\r\n",
       "imageUrl": null,
@@ -2148,7 +2148,7 @@
     },
     {
       "id": "q_1768",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Které z následujících motorových vozidel nesmíte řídit s řidičským oprávněním skupiny C:",
       "imageUrl": null,
@@ -2178,7 +2178,7 @@
     },
     {
       "id": "q_1770",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Které z následujících motorových vozidel smíte řídit na základě řidičského oprávněním skupiny C:",
       "imageUrl": null,
@@ -2208,7 +2208,7 @@
     },
     {
       "id": "q_1776",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Ve vyobrazené dopravní situaci jste řidičem vozidla z výhledu. Na křižovatce:",
       "imageUrl": null,
@@ -2238,7 +2238,7 @@
     },
     {
       "id": "q_1785",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Které z následujících motorových vozidel smíte řídit s řidičským oprávněním skupiny D:",
       "imageUrl": null,
@@ -2268,7 +2268,7 @@
     },
     {
       "id": "q_1792",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Které z následujících motorových vozidel smíte řídit s řidičským oprávněním skupiny D:",
       "imageUrl": null,
@@ -2298,7 +2298,7 @@
     },
     {
       "id": "q_1793",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "S řidičským oprávněním skupiny D smíte řídit jízdní soupravu za předpokladu, že k motorovému vozidlu, k jehož řízení řidičské oprávnění skupiny D opravňuje, připojíte:",
       "imageUrl": null,
@@ -2328,7 +2328,7 @@
     },
     {
       "id": "q_1798",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Jste řidičem vozidla z výhledu. Na vyobrazené křižovatce:",
       "imageUrl": null,
@@ -2358,7 +2358,7 @@
     },
     {
       "id": "q_1800",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Řídit motorové vozidlo určené pro přepravu osob, s dvaceti místy k sezení, jehož maximální přípustná hmotnost je 8.000 kg, pouze na základě řidičského oprávnění skupiny C:",
       "imageUrl": null,
@@ -4693,7 +4693,7 @@
     },
     {
       "id": "q_2113",
-      "category": "Pravidla provozu",
+      "category": "Zdravotnická příprava",
       "points": 1,
       "question": "První pomoc je povinen poskytnout:",
       "imageUrl": null,
@@ -5208,7 +5208,7 @@
     },
     {
       "id": "q_2189",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Ve vyobrazené situaci jste řidičem vozidla z výhledu. Jak se zachováte? ",
       "imageUrl": null,
@@ -5773,7 +5773,7 @@
     },
     {
       "id": "q_2234",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Vozidla projedou křižovatkou v pořadí:",
       "imageUrl": null,
@@ -5953,7 +5953,7 @@
     },
     {
       "id": "q_2253",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Přilnavost mezi pneumatikou a povrchem vozovky je závislá na:",
       "imageUrl": null,
@@ -5985,7 +5985,7 @@
     },
     {
       "id": "q_2255",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Pojištění odpovědnosti z provozu vozidla se vztahuje: ",
       "imageUrl": null,
@@ -6015,7 +6015,7 @@
     },
     {
       "id": "q_2265",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Přetáčivý smyk u vozidla s pohonem zadních kol a manuální převodovkou budete řešit:",
       "imageUrl": null,
@@ -6137,7 +6137,7 @@
     },
     {
       "id": "q_2271",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Příčinou vzniku aquaplaningu je: ",
       "imageUrl": null,
@@ -6679,7 +6679,7 @@
     },
     {
       "id": "q_2294",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Při zapojování vozidel do soupravy: ",
       "imageUrl": null,
@@ -6711,7 +6711,7 @@
     },
     {
       "id": "q_2297",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Používání ochranné výstroje jako rukavic, bot a vhodného oblečení:",
       "imageUrl": null,
@@ -6743,7 +6743,7 @@
     },
     {
       "id": "q_2305",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Policista smí řidiči na místě zadržet řidičský průkaz:\r\n",
       "imageUrl": null,
@@ -6773,7 +6773,7 @@
     },
     {
       "id": "q_2306",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Od řidiče motorového vozidla podezřelého ze spáchání přestupku proti bezpečnosti a plynulosti provozu na pozemních komunikacích, u kterého je důvodné podezření, že se bude vyhýbat přestupkovému řízení, je oprávněn vybrat kauci:",
       "imageUrl": null,
@@ -6803,7 +6803,7 @@
     },
     {
       "id": "q_2310",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Zdravotně způsobilý k řízení motorových vozidel není ten:",
       "imageUrl": null,
@@ -6833,7 +6833,7 @@
     },
     {
       "id": "q_2311",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Ten, kdo se v rozporu se zákonem nepodrobil pravidelné lékařské prohlídce a není proto držitelem platného posudku o zdravotní způsobilosti:",
       "imageUrl": null,
@@ -6863,7 +6863,7 @@
     },
     {
       "id": "q_2312",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Řidič nesmí přepravovat na druhém sedadle motocyklu:",
       "imageUrl": null,
@@ -6895,7 +6895,7 @@
     },
     {
       "id": "q_2314",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Motocykl bez postranního vozíku:",
       "imageUrl": null,
@@ -6927,7 +6927,7 @@
     },
     {
       "id": "q_2315",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Moped:",
       "imageUrl": null,
@@ -6959,7 +6959,7 @@
     },
     {
       "id": "q_2316",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Motocykl s postranním vozíkem: ",
       "imageUrl": null,
@@ -7171,7 +7171,7 @@
     },
     {
       "id": "q_2337",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Čím je rychlost jízdy motocyklu vyšší:",
       "imageUrl": null,
@@ -7263,7 +7263,7 @@
     },
     {
       "id": "q_2341",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Pokud je při jízdě na motocyklu nezbytné v nájezdu do zatáčky brzdit, potom je nejvhodnější:",
       "imageUrl": null,
@@ -7295,7 +7295,7 @@
     },
     {
       "id": "q_2342",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Kdy je efektivní používat tempomat?",
       "imageUrl": null,
@@ -7327,7 +7327,7 @@
     },
     {
       "id": "q_2344",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Při výměně pravého předního kola nákladního vozidla se nejlépe zabrání nežádoucímu pohybu vozidla:",
       "imageUrl": null,
@@ -7359,7 +7359,7 @@
     },
     {
       "id": "q_2345",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Jak při výměně pravého předního kola nejlépe zajistíte vozidlo před nežádoucím pohybem:",
       "imageUrl": null,
@@ -7391,7 +7391,7 @@
     },
     {
       "id": "q_2348",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Jaké důsledky mohou mít síly působící na náklad při průjezdu zatáčkou?",
       "imageUrl": null,
@@ -7423,7 +7423,7 @@
     },
     {
       "id": "q_2349",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Při jízdě v obytné zóně se před Vaším vozidlem náhle objeví kutálející se míč. Jak byste měli reagovat?",
       "imageUrl": null,
@@ -7455,7 +7455,7 @@
     },
     {
       "id": "q_2350",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Při jízdě v obci se před Vaším vozidlem náhle objeví kutálející se míč. Jak byste měli reagovat?",
       "imageUrl": null,
@@ -7487,7 +7487,7 @@
     },
     {
       "id": "q_2351",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Při jízdě se před Vaším vozidlem zpoza parkujících aut náhle objeví kutálející se míč. Jak byste měli reagovat?",
       "imageUrl": null,
@@ -7519,7 +7519,7 @@
     },
     {
       "id": "q_2352",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Jaké důsledky mohou mít síly působící při průjezdu zatáčkou na větší náklad, který přepravujete na střešním nosiči zavazadel vozidla?",
       "imageUrl": null,
@@ -7551,7 +7551,7 @@
     },
     {
       "id": "q_2355",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Pokud kontrolka směrových světel bliká výrazně rychleji než obvykle, může být příčinou:",
       "imageUrl": null,
@@ -7583,7 +7583,7 @@
     },
     {
       "id": "q_2360",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Za jízdy na motocyklu je řidič povinen:",
       "imageUrl": null,
@@ -7615,7 +7615,7 @@
     },
     {
       "id": "q_2361",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Řidič motocyklu nebo mopedu si za jízdy musí chránit zrak:",
       "imageUrl": null,
@@ -7647,7 +7647,7 @@
     },
     {
       "id": "q_2362",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Může řidič motocyklu přepravovat osobu, která nedosáhne nohama na stupačky?",
       "imageUrl": null,
@@ -7679,7 +7679,7 @@
     },
     {
       "id": "q_2365",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Co se rozumí aktivní bezpečností vozidla?",
       "imageUrl": null,
@@ -7711,7 +7711,7 @@
     },
     {
       "id": "q_2366",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Co se rozumí pasivní bezpečností vozidla?",
       "imageUrl": null,
@@ -7743,7 +7743,7 @@
     },
     {
       "id": "q_2367",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Mezi prvky pasivní bezpečnosti patří:",
       "imageUrl": null,
@@ -7775,7 +7775,7 @@
     },
     {
       "id": "q_2368",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Airbagy:",
       "imageUrl": null,
@@ -7807,7 +7807,7 @@
     },
     {
       "id": "q_2369",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Pohon všech kol zajišťuje automobilu zejména:",
       "imageUrl": null,
@@ -7839,7 +7839,7 @@
     },
     {
       "id": "q_2371",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Přípojné vozidlo je:",
       "imageUrl": null,
@@ -7871,7 +7871,7 @@
     },
     {
       "id": "q_2372",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Mezi prvky aktivní bezpečnosti patří:",
       "imageUrl": null,
@@ -7903,7 +7903,7 @@
     },
     {
       "id": "q_2374",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Mezinárodní silniční doprava je:",
       "imageUrl": null,
@@ -7935,7 +7935,7 @@
     },
     {
       "id": "q_2376",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Může být schopnost k řízení vozidla ovlivněna i po požití malého množství alkoholu, např. půl litru desetistupňového piva?",
       "imageUrl": null,
@@ -7967,7 +7967,7 @@
     },
     {
       "id": "q_2389",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Za protiprávní jednání při přepravě nebezpečného nákladu se považuje:\r\n\r\n",
       "imageUrl": null,
@@ -7999,7 +7999,7 @@
     },
     {
       "id": "q_2390",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Vozidlo, které přepravuje nebezpečný náklad:\r\n\r\n",
       "imageUrl": null,
@@ -8031,7 +8031,7 @@
     },
     {
       "id": "q_2394",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Jaká je možná příčina vzniku nebezpečí pádu motocyklu v zatáčkách?",
       "imageUrl": null,
@@ -8063,7 +8063,7 @@
     },
     {
       "id": "q_2395",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Jaká je častá příčina vzniku nebezpečí pádu motocyklu v zatáčkách?",
       "imageUrl": null,
@@ -8095,7 +8095,7 @@
     },
     {
       "id": "q_2398",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Na dálnici musíte počítat se silným bočním větrem především:",
       "imageUrl": null,
@@ -8127,7 +8127,7 @@
     },
     {
       "id": "q_2399",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Na dálnici musíte počítat se silným bočním větrem především:",
       "imageUrl": null,
@@ -8159,7 +8159,7 @@
     },
     {
       "id": "q_2411",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Za minimální bezpečnou vzdálenost mezi za sebou jedoucími vozidly je zpravidla považován:",
       "imageUrl": null,
@@ -8191,7 +8191,7 @@
     },
     {
       "id": "q_2413",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Brzdná dráha jízdní soupravy složené z motorového vozidla a brzděného přívěsu je v porovnání s brzdnou drahou samotného motorového vozidla:",
       "imageUrl": null,
@@ -8223,7 +8223,7 @@
     },
     {
       "id": "q_2414",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Brzdná dráha jízdní soupravy s brzděným přívěsem je v porovnání s brzdnou drahou soupravy s nebrzděným přívěsem o stejné hmotnosti:",
       "imageUrl": null,
@@ -8255,7 +8255,7 @@
     },
     {
       "id": "q_2415",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Zvýšené riziko ztráty přilnavosti pneumatik a následného smyku za deště hrozí: ",
       "imageUrl": null,
@@ -8287,7 +8287,7 @@
     },
     {
       "id": "q_2420",
-      "category": "Zdravověda",
+      "category": "Podmínky provozu vozidel",
       "points": 1,
       "question": "Stanice technické kontroly může při pravidelné technické prohlídce:",
       "imageUrl": null,
@@ -8317,7 +8317,7 @@
     },
     {
       "id": "q_2421",
-      "category": "Zdravověda",
+      "category": "Podmínky provozu vozidel",
       "points": 1,
       "question": "Silniční vozidlo je technicky způsobilé k provozu na pozemních komunikacích, pokud:",
       "imageUrl": null,
@@ -8347,7 +8347,7 @@
     },
     {
       "id": "q_2424",
-      "category": "Zdravověda",
+      "category": "Podmínky provozu vozidel",
       "points": 1,
       "question": "Pokud je na silničním vozidle shledána vážná závada, je vozidlo:",
       "imageUrl": null,
@@ -8377,7 +8377,7 @@
     },
     {
       "id": "q_2425",
-      "category": "Zdravověda",
+      "category": "Podmínky provozu vozidel",
       "points": 1,
       "question": "Pokud je technickou prohlídkou silničního vozidla shledána nebezpečná závada:",
       "imageUrl": null,
@@ -8407,7 +8407,7 @@
     },
     {
       "id": "q_2428",
-      "category": "Zdravověda",
+      "category": "Podmínky provozu vozidel",
       "points": 1,
       "question": "Přestavbou silničního vozidla je:",
       "imageUrl": null,
@@ -8437,7 +8437,7 @@
     },
     {
       "id": "q_2429",
-      "category": "Zdravověda",
+      "category": "Podmínky provozu vozidel",
       "points": 1,
       "question": "Za přestavbu silničního vozidla se považuje:",
       "imageUrl": null,
@@ -8467,7 +8467,7 @@
     },
     {
       "id": "q_2432",
-      "category": "Zdravověda",
+      "category": "Podmínky provozu vozidel",
       "points": 1,
       "question": "Výrobce motorů, systémů a zařízení k pohonu vozidel:",
       "imageUrl": null,
@@ -8497,7 +8497,7 @@
     },
     {
       "id": "q_2435",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Správný tlak huštění pneumatik se zjišťuje:",
       "imageUrl": null,
@@ -8529,7 +8529,7 @@
     },
     {
       "id": "q_2438",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Co může vést ke smyku vozidla při průjezdu zatáčkami?",
       "imageUrl": null,
@@ -8561,7 +8561,7 @@
     },
     {
       "id": "q_2439",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Co může vést ke smyku vozidla při průjezdu zatáčkami?",
       "imageUrl": null,
@@ -8593,7 +8593,7 @@
     },
     {
       "id": "q_2440",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Smyk vozidla při průjezdu zatáčkou může způsobit?",
       "imageUrl": null,
@@ -8625,7 +8625,7 @@
     },
     {
       "id": "q_2441",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Musíte být opatrní, chcete-li použít k jízdě vozidlo, se kterým jedete poprvé?",
       "imageUrl": null,
@@ -8657,7 +8657,7 @@
     },
     {
       "id": "q_2442",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Je zapotřebí být opatrný, pokud řídíte poprvé vozidlo,které neznáte?",
       "imageUrl": null,
@@ -8689,7 +8689,7 @@
     },
     {
       "id": "q_2444",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Pokud začne pršet, musí se motocyklista připravit na:",
       "imageUrl": null,
@@ -8721,7 +8721,7 @@
     },
     {
       "id": "q_2447",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Jaké nebezpečí hrozí při jízdě na mokré dlažbě?",
       "imageUrl": null,
@@ -8753,7 +8753,7 @@
     },
     {
       "id": "q_2448",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Jaké nebezpečí hrozí při jízdě s motocyklem na mokré dlažbě?",
       "imageUrl": null,
@@ -8785,7 +8785,7 @@
     },
     {
       "id": "q_2452",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Přetížení nákladního vozidla lze předejít:",
       "imageUrl": null,
@@ -8817,7 +8817,7 @@
     },
     {
       "id": "q_2454",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "S čím musíte počítat v případě, že je náklad nerovnoměrně rozložen?",
       "imageUrl": null,
@@ -8849,7 +8849,7 @@
     },
     {
       "id": "q_2457",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Ovlivňují síly působící na náklad při průjezdu zatáčkou bezpečnost jízdy? ",
       "imageUrl": null,
@@ -8971,7 +8971,7 @@
     },
     {
       "id": "q_2498",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Jste řidičem vozidla z výhledu. Na vyobrazené křižovatce:",
       "imageUrl": null,
@@ -9061,7 +9061,7 @@
     },
     {
       "id": "q_2504",
-      "category": "Zdravověda",
+      "category": "Podmínky provozu vozidel",
       "points": 1,
       "question": "Provozovatel motocyklu přistaví tento motocykl k technické prohlídce nejpozději:",
       "imageUrl": null,
@@ -9151,7 +9151,7 @@
     },
     {
       "id": "q_2518",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Jakou rychlostí je možno přejíždět přes tento železniční přejezd?",
       "imageUrl": null,
@@ -9181,7 +9181,7 @@
     },
     {
       "id": "q_2519",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Jakou rychlostí je možno přejíždět přes tento železniční přejezd?",
       "imageUrl": null,
@@ -9211,7 +9211,7 @@
     },
     {
       "id": "q_2522",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Jste řidičem vozidla z výhledu. Určete, kolikáté projede Vaše vozidlo touto křižovatkou:",
       "imageUrl": null,
@@ -9241,7 +9241,7 @@
     },
     {
       "id": "q_2523",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Jste řidičem vozidla z výhledu. Určete, v jakém pořadí projedou vozidla touto křižovatkou:",
       "imageUrl": null,
@@ -9271,7 +9271,7 @@
     },
     {
       "id": "q_2524",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Jste řidičem vozidla z výhledu. V jakém pořadí projedou vozidla touto křižovatkou?",
       "imageUrl": null,
@@ -9541,7 +9541,7 @@
     },
     {
       "id": "q_2537",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Řidičský průkaz:",
       "imageUrl": null,
@@ -9631,7 +9631,7 @@
     },
     {
       "id": "q_2540",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Při dvojnásobném zvýšení rychlosti působí na řidiče i motocykl v zatáčce:",
       "imageUrl": null,
@@ -9693,7 +9693,7 @@
     },
     {
       "id": "q_2544",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Můžete jako řidič vozidla z výhledu vjet do křižovatky před vozidlem, které ve vyobrazené situaci přijíždí zleva?",
       "imageUrl": null,
@@ -9783,7 +9783,7 @@
     },
     {
       "id": "q_2559",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Na co je třeba dbát při nakládání sypkého materiálu?",
       "imageUrl": null,
@@ -9875,7 +9875,7 @@
     },
     {
       "id": "q_2570",
-      "category": "Zdravověda",
+      "category": "Podmínky provozu vozidel",
       "points": 1,
       "question": "Historické vozidlo: ",
       "imageUrl": null,
@@ -9935,7 +9935,7 @@
     },
     {
       "id": "q_2581",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Mezinárodní řidičský průkaz:",
       "imageUrl": null,
@@ -9965,7 +9965,7 @@
     },
     {
       "id": "q_2582",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Mezinárodní řidičský průkaz vydaný Českou republikou:",
       "imageUrl": null,
@@ -9995,7 +9995,7 @@
     },
     {
       "id": "q_2584",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Držitel řidičského oprávnění nesmí mít:",
       "imageUrl": null,
@@ -10025,7 +10025,7 @@
     },
     {
       "id": "q_2585",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Držitel řidičského průkazu:",
       "imageUrl": null,
@@ -10055,7 +10055,7 @@
     },
     {
       "id": "q_2586",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Držitel mezinárodního řidičského průkazu: ",
       "imageUrl": null,
@@ -10085,7 +10085,7 @@
     },
     {
       "id": "q_2587",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Změnu údajů, které jsou zaznamenávány v řidičském průkazu, je držitel řidičského průkazu povinen oznámit:",
       "imageUrl": null,
@@ -10115,7 +10115,7 @@
     },
     {
       "id": "q_2588",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Změnu údajů, které jsou zaznamenávány v řidičském průkazu, je držitel řidičského průkazu povinen oznámit:",
       "imageUrl": null,
@@ -10145,7 +10145,7 @@
     },
     {
       "id": "q_2589",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Změna údajů, které jsou zaznamenávány v řidičském průkazu, se příslušnému obecnímu úřadu obce s rozšířenou působností oznamuje nejpozději:",
       "imageUrl": null,
@@ -10175,7 +10175,7 @@
     },
     {
       "id": "q_2590",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Změnu příjmení musí držitel řidičského průkazu oznámit příslušnému obecnímu úřadu obce s rozšířenou působností nejpozději:",
       "imageUrl": null,
@@ -10205,7 +10205,7 @@
     },
     {
       "id": "q_2591",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Změnu příjmení musí držitel řidičského průkazu nejpozději do pěti pracovních dnů ode dne, kdy ke změně došlo, oznámit:",
       "imageUrl": null,
@@ -10235,7 +10235,7 @@
     },
     {
       "id": "q_2596",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Ztrátu, odcizení, poškození nebo zničení řidičského průkazu je držitel řidičského oprávnění povinen: ",
       "imageUrl": null,
@@ -10265,7 +10265,7 @@
     },
     {
       "id": "q_2597",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Ztrátu řidičského průkazu je držitel řidičského oprávnění povinen: ",
       "imageUrl": null,
@@ -10295,7 +10295,7 @@
     },
     {
       "id": "q_2598",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Odcizení řidičského průkazu je držitel řidičského oprávnění povinen: ",
       "imageUrl": null,
@@ -10325,7 +10325,7 @@
     },
     {
       "id": "q_2599",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Poškození řidičského průkazu je držitel řidičského oprávnění povinen: ",
       "imageUrl": null,
@@ -10355,7 +10355,7 @@
     },
     {
       "id": "q_2600",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Zničení řidičského průkazu je držitel řidičského oprávnění povinen:",
       "imageUrl": null,
@@ -10385,7 +10385,7 @@
     },
     {
       "id": "q_2607",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Řidičský průkaz je neplatný, jestliže: ",
       "imageUrl": null,
@@ -10415,7 +10415,7 @@
     },
     {
       "id": "q_2609",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Řidičský průkaz je neplatný, jestliže: ",
       "imageUrl": null,
@@ -10445,7 +10445,7 @@
     },
     {
       "id": "q_2610",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Řidičský průkaz je neplatný, jestliže: ",
       "imageUrl": null,
@@ -10475,7 +10475,7 @@
     },
     {
       "id": "q_2611",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Evidence údajů o řidičích je vedena v registru řidičů, jehož správcem je: ",
       "imageUrl": null,
@@ -10505,7 +10505,7 @@
     },
     {
       "id": "q_2612",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Údaje z registru řidičů lze poskytnout:",
       "imageUrl": null,
@@ -10535,7 +10535,7 @@
     },
     {
       "id": "q_2613",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Po dobu zadržení řidičského průkazu: ",
       "imageUrl": null,
@@ -11150,7 +11150,7 @@
     },
     {
       "id": "q_2671",
-      "category": "Zdravověda",
+      "category": "Podmínky provozu vozidel",
       "points": 1,
       "question": "Zjistíme-li závady na brzdovém systému, které zjevně znemožňují účinně zastavit vozidlo a tím ohrožují bezpečnost provozu na pozemních komunikacích:",
       "imageUrl": null,
@@ -11180,7 +11180,7 @@
     },
     {
       "id": "q_2672",
-      "category": "Zdravověda",
+      "category": "Podmínky provozu vozidel",
       "points": 1,
       "question": "Lhůta pro přistavení silničního vozidla k pravidelné technické prohlídce se počítá ode dne:",
       "imageUrl": null,
@@ -11210,7 +11210,7 @@
     },
     {
       "id": "q_2673",
-      "category": "Zdravověda",
+      "category": "Podmínky provozu vozidel",
       "points": 1,
       "question": "Vozidlo je technicky nezpůsobilé k provozu na pozemních komunikacích, pokud:",
       "imageUrl": null,
@@ -11240,7 +11240,7 @@
     },
     {
       "id": "q_2676",
-      "category": "Zdravověda",
+      "category": "Podmínky provozu vozidel",
       "points": 1,
       "question": "Nebrzděný přívěs, jehož přípustná hmotnost nepřevyšuje 750 kg a který nebyl dříve registrován v zahraničí, přistaví jeho provozovatel k technické prohlídce nejpozději ve lhůtě:",
       "imageUrl": null,
@@ -11270,7 +11270,7 @@
     },
     {
       "id": "q_2683",
-      "category": "Zdravověda",
+      "category": "Podmínky provozu vozidel",
       "points": 1,
       "question": "K pohonu motorů vozidel se smí používat:",
       "imageUrl": null,
@@ -11870,7 +11870,7 @@
     },
     {
       "id": "q_2826",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Jste řidičem vozidla z výhledu. Při jízdě křižovatkou, která je znázorněna na obrázku: ",
       "imageUrl": null,
@@ -13130,7 +13130,7 @@
     },
     {
       "id": "q_2884",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Co může vést ke smyku motocyklu při průjezdu zatáčkami?",
       "imageUrl": null,
@@ -13162,7 +13162,7 @@
     },
     {
       "id": "q_2885",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Ložný prostor nákladního přívěsu traktoru:",
       "imageUrl": null,
@@ -13224,7 +13224,7 @@
     },
     {
       "id": "q_2892",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Když zvýšíte rychlost jízdy na dvojnásobek (např. z 50 km/h na 100 km/h), prodlouží se tím brzdná dráha Vašeho vozidla na suché vozovce:\r\n",
       "imageUrl": null,
@@ -15266,7 +15266,7 @@
     },
     {
       "id": "q_3009",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Vozidlo s vysokou plachtovou nástavbou je zvlášť citlivé na boční vítr pokud: ",
       "imageUrl": null,
@@ -15298,7 +15298,7 @@
     },
     {
       "id": "q_3010",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Přilnavost pneumatik snižuje:",
       "imageUrl": null,
@@ -15330,7 +15330,7 @@
     },
     {
       "id": "q_3011",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Sníh, náledí nebo rozbředlý sníh na vozovce vyžadují:",
       "imageUrl": null,
@@ -15362,7 +15362,7 @@
     },
     {
       "id": "q_3017",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Vzduchový vír nebo náraz vzniklý při předjíždění:",
       "imageUrl": null,
@@ -15394,7 +15394,7 @@
     },
     {
       "id": "q_3020",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Před vjetím na krajnici:",
       "imageUrl": null,
@@ -15546,7 +15546,7 @@
     },
     {
       "id": "q_3033",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Při přepravě nákladu na střešním nosiči zavazadel:",
       "imageUrl": null,
@@ -15578,7 +15578,7 @@
     },
     {
       "id": "q_3044",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Při jízdě na motocyklu za mokra se povrch vodorovného značení přechodů pro chodce nebo jízdních pruhů:",
       "imageUrl": null,
@@ -15610,7 +15610,7 @@
     },
     {
       "id": "q_3045",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Smyku předního kola v zatáčce a tím způsobenému pádu motocyklu předejdeme:",
       "imageUrl": null,
@@ -15642,7 +15642,7 @@
     },
     {
       "id": "q_3046",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Správně jedoucí motocyklista projíždí zatáčkou tak, aby:",
       "imageUrl": null,
@@ -15674,7 +15674,7 @@
     },
     {
       "id": "q_3047",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Při rychlosti 100 km/h je délka brzdné dráhy Vašeho vozidla oproti brzdné dráze při rychlosti 50 km/h:\r\n",
       "imageUrl": null,
@@ -15706,7 +15706,7 @@
     },
     {
       "id": "q_3048",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Častou příčinou vzniku dopravních nehod při jízdě na dálnici je:",
       "imageUrl": null,
@@ -15738,7 +15738,7 @@
     },
     {
       "id": "q_3049",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Při prudkém sešlápnutí brzdového pedálu vozidla bez protiblokovacího systému brzd (ABS) na náledí dojde:",
       "imageUrl": null,
@@ -15770,7 +15770,7 @@
     },
     {
       "id": "q_3051",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Vyobrazený železniční přejezd se nachází na pozemní komunikaci mimo obec. Jakou nejvyšší rychlostí můžete jet ve vzdálenosti 50 metrů před tímto přejezdem?",
       "imageUrl": null,
@@ -15800,7 +15800,7 @@
     },
     {
       "id": "q_3052",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Řidič porušuje zákon, pokud přes vyobrazený železniční přejezd přejíždí:",
       "imageUrl": null,
@@ -15830,7 +15830,7 @@
     },
     {
       "id": "q_3053",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Vyobrazený železniční přejezd se nachází na pozemní komunikaci mimo obec. Jakou nejvyšší rychlostí smíte jet ve vzdálenosti 50 metrů před tímto přejezdem?",
       "imageUrl": null,
@@ -15860,7 +15860,7 @@
     },
     {
       "id": "q_3054",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Jste řidičem vozidla z výhledu. Při jízdě křižovatkou, která je znázorněna na obrázku: ",
       "imageUrl": null,
@@ -15890,7 +15890,7 @@
     },
     {
       "id": "q_3055",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Jakou rychlostí můžete přejet přes železniční přejezd, pokud nesvítí přerušované bílé světlo přejezdového zabezpečovacího zařízení?",
       "imageUrl": null,
@@ -15920,7 +15920,7 @@
     },
     {
       "id": "q_3056",
-      "category": "Zdravověda",
+      "category": "Podmínky provozu vozidel",
       "points": 1,
       "question": "Historickým vozidlem je: ",
       "imageUrl": null,
@@ -15950,7 +15950,7 @@
     },
     {
       "id": "q_3057",
-      "category": "Zdravověda",
+      "category": "Podmínky provozu vozidel",
       "points": 1,
       "question": "Historickým vozidlem je: ",
       "imageUrl": null,
@@ -16010,7 +16010,7 @@
     },
     {
       "id": "q_3065",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Těhotné ženy:",
       "imageUrl": null,
@@ -16042,7 +16042,7 @@
     },
     {
       "id": "q_3074",
-      "category": "Zdravověda",
+      "category": "Podmínky provozu vozidel",
       "points": 1,
       "question": "Provozovatel osobního automobilu, který nebyl dříve registrován v zahraničí, přistaví tento automobil k technické prohlídce nejpozději ve lhůtě:",
       "imageUrl": null,
@@ -16072,7 +16072,7 @@
     },
     {
       "id": "q_3076",
-      "category": "Pravidla provozu",
+      "category": "Zdravotnická příprava",
       "points": 1,
       "question": "Hrozí trestní postih, pokud neposkytnete první pomoc?",
       "imageUrl": null,
@@ -16102,7 +16102,7 @@
     },
     {
       "id": "q_3079",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Které z následujících motorových vozidel smíte řídit na základě řidičského oprávnění skupiny C?",
       "imageUrl": null,
@@ -16212,7 +16212,7 @@
     },
     {
       "id": "q_3083",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Jako řidič vozidla z výhledu máte v úmyslu po projetí křižovatkou v přímém směru zastavit 20 m od křižovatky. Smíte tak ve vyobrazené situaci učinit?",
       "imageUrl": null,
@@ -16327,7 +16327,7 @@
     },
     {
       "id": "q_3088",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Na křižovatce nevyplývá přednost v jízdě z dopravních značek. V jakém pořadí projedou řidiči křižovatkou?   ",
       "imageUrl": null,
@@ -16587,7 +16587,7 @@
     },
     {
       "id": "q_3097",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Které z následujících motorových vozidel smíte řídit s řidičským oprávněním skupiny B?",
       "imageUrl": null,
@@ -16617,7 +16617,7 @@
     },
     {
       "id": "q_3099",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Chystáte se předjet cyklistu. Bude vám stačit boční odstup od cyklisty přibližně 50 cm?",
       "imageUrl": null,
@@ -16649,7 +16649,7 @@
     },
     {
       "id": "q_3100",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Za jízdy v noci se vám náhle v dálkových světlech objeví lesní zvěř. Jak se zachováte?",
       "imageUrl": null,
@@ -16681,7 +16681,7 @@
     },
     {
       "id": "q_3101",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Častou příčinou těžkých nehod na dálnici při předjíždění je:",
       "imageUrl": null,
@@ -16713,7 +16713,7 @@
     },
     {
       "id": "q_3102",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Ve výhledu z motorového vozidla vidíte skupinu dětí na chodníku. Jak se zachováte?",
       "imageUrl": null,
@@ -16745,7 +16745,7 @@
     },
     {
       "id": "q_3103",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Při zvyšování rychlosti jízdy se zorné pole řidiče:",
       "imageUrl": null,
@@ -16777,7 +16777,7 @@
     },
     {
       "id": "q_3104",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Při začínajícím drobném dešti se snížení přilnavosti pneumatik nejvýrazněji projeví na vozovce:",
       "imageUrl": null,
@@ -16809,7 +16809,7 @@
     },
     {
       "id": "q_3106",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Při jízdě vozidla po krajnici:",
       "imageUrl": null,
@@ -16841,7 +16841,7 @@
     },
     {
       "id": "q_3107",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Řidič jedoucí před Vámi dává výstražné světelné znamení. Jak se zachováte?",
       "imageUrl": null,
@@ -16873,7 +16873,7 @@
     },
     {
       "id": "q_3108",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Zvukové výstražné znamení smí řidič ve vztahu k životnímu prostředí použít:",
       "imageUrl": null,
@@ -16905,7 +16905,7 @@
     },
     {
       "id": "q_3109",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Při přepravě sypkého materiálu musí řidič:",
       "imageUrl": null,
@@ -16937,7 +16937,7 @@
     },
     {
       "id": "q_3111",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Při přepravě vozidlem hromadné dopravy osob cestující:",
       "imageUrl": null,
@@ -16969,7 +16969,7 @@
     },
     {
       "id": "q_3112",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Při řízení vozidla hromadné dopravy osob řidič:",
       "imageUrl": null,
@@ -17001,7 +17001,7 @@
     },
     {
       "id": "q_3113",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Řidič trolejbusu:",
       "imageUrl": null,
@@ -17061,7 +17061,7 @@
     },
     {
       "id": "q_3116",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Držitelé řidičského oprávnění skupiny B mohou řídit:",
       "imageUrl": null,
@@ -17091,7 +17091,7 @@
     },
     {
       "id": "q_3120",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Které z následujících motorových vozidel smíte řídit na základě řidičského oprávněním skupiny C:",
       "imageUrl": null,
@@ -17121,7 +17121,7 @@
     },
     {
       "id": "q_3126",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Řidičské oprávnění skupiny D + E není třeba k řízení jízdní soupravy složené z motorového vozidla, k jehož řízení opravňuje řidičské oprávnění skupiny D, a přípojného vozidla:",
       "imageUrl": null,
@@ -17151,7 +17151,7 @@
     },
     {
       "id": "q_3127",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Řidičské oprávnění skupiny C + E není třeba k řízení jízdní soupravy složené z motorového vozidla, k jehož řízení opravňuje řidičské oprávnění skupiny C, a přípojného vozidla:",
       "imageUrl": null,
@@ -17561,7 +17561,7 @@
     },
     {
       "id": "q_3150",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Častou příčinou těžkých nehod na dálnici je:",
       "imageUrl": null,
@@ -17678,7 +17678,7 @@
     },
     {
       "id": "q_3155",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Řidič vozidla z výhledu na vyobrazené křižovatce:",
       "imageUrl": null,
@@ -17708,7 +17708,7 @@
     },
     {
       "id": "q_3164",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Je velmi horký den. Co můžete jako řidič motocyklu očekávat na silnici?",
       "imageUrl": null,
@@ -17740,7 +17740,7 @@
     },
     {
       "id": "q_3166",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Řidič vozidla jedoucího před vámi zřejmě zapomněl vypnout znamení o změně směru jízdy vlevo. Jak se zachováte?",
       "imageUrl": null,
@@ -17772,7 +17772,7 @@
     },
     {
       "id": "q_3167",
-      "category": "Zdravověda",
+      "category": "Podmínky provozu vozidel",
       "points": 1,
       "question": "Na téže nápravě musí být používány:",
       "imageUrl": null,
@@ -17802,7 +17802,7 @@
     },
     {
       "id": "q_3168",
-      "category": "Zdravověda",
+      "category": "Podmínky provozu vozidel",
       "points": 1,
       "question": "Používání pneumatik s protiskluzovými hroty:",
       "imageUrl": null,
@@ -17832,7 +17832,7 @@
     },
     {
       "id": "q_3169",
-      "category": "Zdravověda",
+      "category": "Podmínky provozu vozidel",
       "points": 1,
       "question": "Činná plocha pláště pneumatiky v provozu musí mít po celém obvodu a v celé šíři vrchního běhounu jasně viditelný dezén s hloubkou hlavních dezénových drážek:",
       "imageUrl": null,
@@ -17862,7 +17862,7 @@
     },
     {
       "id": "q_3171",
-      "category": "Zdravověda",
+      "category": "Podmínky provozu vozidel",
       "points": 1,
       "question": "Nová přípojná vozidla za osobní automobil:",
       "imageUrl": null,
@@ -17892,7 +17892,7 @@
     },
     {
       "id": "q_3172",
-      "category": "Zdravověda",
+      "category": "Podmínky provozu vozidel",
       "points": 1,
       "question": "Nově registrovaná přípojná vozidla:",
       "imageUrl": null,
@@ -17922,7 +17922,7 @@
     },
     {
       "id": "q_3173",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Jedete za autobusem, který zastavuje v zastávce při pravém okraji vozovky. Jak se zachováte?",
       "imageUrl": null,
@@ -17954,7 +17954,7 @@
     },
     {
       "id": "q_3175",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Jedete za pomalu jedoucím vozidlem autoškoly. Jak se zachováte?",
       "imageUrl": null,
@@ -17986,7 +17986,7 @@
     },
     {
       "id": "q_3176",
-      "category": "Zdravověda",
+      "category": "Podmínky provozu vozidel",
       "points": 1,
       "question": "Jiná než předepsaná nebo povolená světelná zařízení:",
       "imageUrl": null,
@@ -18016,7 +18016,7 @@
     },
     {
       "id": "q_3180",
-      "category": "Zdravověda",
+      "category": "Podmínky provozu vozidel",
       "points": 1,
       "question": "Okamžitá hmotnost jízdní soupravy:",
       "imageUrl": null,
@@ -18046,7 +18046,7 @@
     },
     {
       "id": "q_3181",
-      "category": "Zdravověda",
+      "category": "Podmínky provozu vozidel",
       "points": 1,
       "question": "Pokud přípojné vozidlo svými rozměry po připojení k tažnému vozidlu znemožní řidiči řádný výhled vnějšími zpětnými zrcátky:",
       "imageUrl": null,
@@ -18076,7 +18076,7 @@
     },
     {
       "id": "q_3182",
-      "category": "Zdravověda",
+      "category": "Podmínky provozu vozidel",
       "points": 1,
       "question": "Započítává se do největší povolené délky autobusů jakákoliv odnímatelná výbava (např. schrána na lyže atd.)? ",
       "imageUrl": null,
@@ -18106,7 +18106,7 @@
     },
     {
       "id": "q_3183",
-      "category": "Zdravověda",
+      "category": "Podmínky provozu vozidel",
       "points": 1,
       "question": "Povinná výbava motorových a přípojných vozidel musí být umístěna ve vozidle:",
       "imageUrl": null,
@@ -18136,7 +18136,7 @@
     },
     {
       "id": "q_3184",
-      "category": "Zdravověda",
+      "category": "Podmínky provozu vozidel",
       "points": 1,
       "question": "Na vozidle mohou být použita jen taková světelná zařízení:",
       "imageUrl": null,
@@ -18166,7 +18166,7 @@
     },
     {
       "id": "q_3185",
-      "category": "Zdravověda",
+      "category": "Podmínky provozu vozidel",
       "points": 1,
       "question": "Úprava barvy světla vyzařovaného světelným zařízením vozidla je:",
       "imageUrl": null,
@@ -18196,7 +18196,7 @@
     },
     {
       "id": "q_3186",
-      "category": "Zdravověda",
+      "category": "Podmínky provozu vozidel",
       "points": 1,
       "question": "Nádoby na záložní palivo musí být provedeny tak, aby: ",
       "imageUrl": null,
@@ -18226,7 +18226,7 @@
     },
     {
       "id": "q_3188",
-      "category": "Zdravověda",
+      "category": "Podmínky provozu vozidel",
       "points": 1,
       "question": "Dodatečná montáž předních mlhových světel na vozidlo je možná:",
       "imageUrl": null,
@@ -18256,7 +18256,7 @@
     },
     {
       "id": "q_3191",
-      "category": "Zdravověda",
+      "category": "Podmínky provozu vozidel",
       "points": 1,
       "question": "K pravidelné technické prohlídce může přistavit vozidlo:",
       "imageUrl": null,
@@ -18286,7 +18286,7 @@
     },
     {
       "id": "q_3192",
-      "category": "Zdravověda",
+      "category": "Podmínky provozu vozidel",
       "points": 1,
       "question": "Kontrolní nálepka osvědčující technickou způsobilost vozidla se umísťuje:",
       "imageUrl": null,
@@ -18316,7 +18316,7 @@
     },
     {
       "id": "q_3193",
-      "category": "Zdravověda",
+      "category": "Podmínky provozu vozidel",
       "points": 1,
       "question": "Proděravěním kontrolní nálepky, osvědčující technickou způsobilost vozidla, se vyznačuje:",
       "imageUrl": null,
@@ -18346,7 +18346,7 @@
     },
     {
       "id": "q_3196",
-      "category": "Zdravověda",
+      "category": "Podmínky provozu vozidel",
       "points": 1,
       "question": "Pokud je vozidlo vybaveno indikací defektu a soupravou pro bezdemontážní opravu pneumatiky:",
       "imageUrl": null,
@@ -18376,7 +18376,7 @@
     },
     {
       "id": "q_3197",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Jedete za hustého deště za nákladním vozidlem, které intenzivně znečišťuje Vaše přední okno. Jak se zachováte?",
       "imageUrl": null,
@@ -18408,7 +18408,7 @@
     },
     {
       "id": "q_3198",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Projíždíte podél pastviny s pasoucím se dobytkem. Měl(a) byste: ",
       "imageUrl": null,
@@ -18440,7 +18440,7 @@
     },
     {
       "id": "q_3199",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Předjíždíte jezdce na koni. Před zahájením předjíždění:",
       "imageUrl": null,
@@ -18742,7 +18742,7 @@
     },
     {
       "id": "q_3211",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Ve výhledu z motorového vozidla vidíte děti, které si hrají na chodníku. Jak se zachováte?",
       "imageUrl": null,
@@ -18774,7 +18774,7 @@
     },
     {
       "id": "q_3213",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Řidič vozidla, které je vybaveno zvláštním výstražným světlem oranžové barvy, smí tohoto světla užívat:  ",
       "imageUrl": null,
@@ -18836,7 +18836,7 @@
     },
     {
       "id": "q_3216",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Co se rozumí pod pojmem \"defenzivní způsob jízdy\"?",
       "imageUrl": null,
@@ -18868,7 +18868,7 @@
     },
     {
       "id": "q_3218",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Dálnice, silnice a místní komunikace jsou sjízdné, jestliže umožňují bezpečný pohyb silničních a jiných vozidel přizpůsobený:",
       "imageUrl": null,
@@ -18898,7 +18898,7 @@
     },
     {
       "id": "q_3220",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Silnice jsou sjízdné, jestliže umožňují bezpečný pohyb silničních a jiných vozidel přizpůsobený:",
       "imageUrl": null,
@@ -18928,7 +18928,7 @@
     },
     {
       "id": "q_3222",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Místní komunikace jsou sjízdné, jestliže umožňují bezpečný pohyb silničních a jiných vozidel:",
       "imageUrl": null,
@@ -18958,7 +18958,7 @@
     },
     {
       "id": "q_3224",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Závadou ve sjízdnosti dálnice se rozumí taková změna v její sjízdnosti, kterou: ",
       "imageUrl": null,
@@ -18988,7 +18988,7 @@
     },
     {
       "id": "q_3226",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Závadou ve sjízdnosti silnice se rozumí taková změna v její sjízdnosti, kterou:",
       "imageUrl": null,
@@ -19018,7 +19018,7 @@
     },
     {
       "id": "q_3227",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Které z následujících motorových vozidel smíte řídit na základě řidičského oprávnění skupiny D:",
       "imageUrl": null,
@@ -19048,7 +19048,7 @@
     },
     {
       "id": "q_3232",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Které z následujících motorových vozidel nesmíte řídit s řidičským oprávněním skupiny B:",
       "imageUrl": null,
@@ -19078,7 +19078,7 @@
     },
     {
       "id": "q_3236",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Jste řidičem vozidla z výhledu. Na vyobrazené křižovatce:",
       "imageUrl": null,
@@ -19108,7 +19108,7 @@
     },
     {
       "id": "q_3237",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Je silný dešť důvodem ke snížení rychlosti jízdy?",
       "imageUrl": null,
@@ -19140,7 +19140,7 @@
     },
     {
       "id": "q_3240",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Které z následujících motorových vozidel smíte řídit s řidičským oprávněním skupiny B:",
       "imageUrl": null,
@@ -19170,7 +19170,7 @@
     },
     {
       "id": "q_3241",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Které z následujících motorových vozidel smíte řídit na základě řidičského oprávnění skupiny C:",
       "imageUrl": null,
@@ -19200,7 +19200,7 @@
     },
     {
       "id": "q_3244",
-      "category": "Zdravověda",
+      "category": "Podmínky provozu vozidel",
       "points": 1,
       "question": "Tabulku registrační značky umístí vlastník nebo provozovatel vozidla:",
       "imageUrl": null,
@@ -19230,7 +19230,7 @@
     },
     {
       "id": "q_3245",
-      "category": "Zdravověda",
+      "category": "Podmínky provozu vozidel",
       "points": 1,
       "question": "Tabulku registrační značky umístí vlastník nebo provozovatel vozidla:",
       "imageUrl": null,
@@ -19260,7 +19260,7 @@
     },
     {
       "id": "q_3246",
-      "category": "Zdravověda",
+      "category": "Podmínky provozu vozidel",
       "points": 1,
       "question": "Na tabulku registrační značky:",
       "imageUrl": null,
@@ -19290,7 +19290,7 @@
     },
     {
       "id": "q_3247",
-      "category": "Zdravověda",
+      "category": "Podmínky provozu vozidel",
       "points": 1,
       "question": "V těsné blízkosti tabulky registrační značky:",
       "imageUrl": null,
@@ -19320,7 +19320,7 @@
     },
     {
       "id": "q_3255",
-      "category": "Zdravověda",
+      "category": "Podmínky provozu vozidel",
       "points": 1,
       "question": "Jestliže je vozidlo vybaveno tažným zařízením schváleným s odnímatelnou spojovací koulí bez použití nářadí, musí mít tuto kouli odejmutou, pokud:",
       "imageUrl": null,
@@ -19350,7 +19350,7 @@
     },
     {
       "id": "q_3256",
-      "category": "Zdravověda",
+      "category": "Podmínky provozu vozidel",
       "points": 1,
       "question": "Pneumatika náhradního kola, s výjimkou kola pro nouzové dojetí:",
       "imageUrl": null,
@@ -19380,7 +19380,7 @@
     },
     {
       "id": "q_3257",
-      "category": "Zdravověda",
+      "category": "Podmínky provozu vozidel",
       "points": 1,
       "question": "Pro spojování vozidel do jízdních souprav s nebrzděným přívěsem, jehož největší přípustná hmotnost nepřevyšuje 750 kg, platí že:  ",
       "imageUrl": null,
@@ -19470,7 +19470,7 @@
     },
     {
       "id": "q_3449",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Chodec na přechodu pro chodce signalizuje úmysl přejít vozovku mávnutím bílou slepeckou holí ve směru přecházení. Jak se zachováte?\r\n",
       "imageUrl": null,
@@ -19502,7 +19502,7 @@
     },
     {
       "id": "q_3452",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Na této frekventované pozemní komunikaci jste se zařadili do levého odbočovacího pruhu. Na křižovatce jste zjistili, že jste měli jet vpravo. Jak se zachováte?",
       "imageUrl": null,
@@ -19532,7 +19532,7 @@
     },
     {
       "id": "q_3454",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Může řidič vozidla z výhledu odbočit vpravo, aniž by porušil pravidla bezpečného provozu? ",
       "imageUrl": null,
@@ -19562,7 +19562,7 @@
     },
     {
       "id": "q_3455",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Můžete jako řidič vozidla z výhledu vjet do křižovatky?\r\n",
       "imageUrl": null,
@@ -19592,7 +19592,7 @@
     },
     {
       "id": "q_3456",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Jak se zachováte v této situaci?\r\n\r\n",
       "imageUrl": null,
@@ -19652,7 +19652,7 @@
     },
     {
       "id": "q_3461",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Při míjení osvětlených vozidel řidič musí:",
       "imageUrl": null,
@@ -19744,7 +19744,7 @@
     },
     {
       "id": "q_3473",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Při jízdě na dálnici jste se stali s vaším automobilem účastníkem dopravní nehody. \r\nV jakém pořadí budete postupovat?",
       "imageUrl": null,
@@ -19776,7 +19776,7 @@
     },
     {
       "id": "q_3474",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Silniční dopravou pro cizí potřeby se rozumí:",
       "imageUrl": null,
@@ -19808,7 +19808,7 @@
     },
     {
       "id": "q_3479",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Silniční linkovou osobní dopravou se rozumí:",
       "imageUrl": null,
@@ -19900,7 +19900,7 @@
     },
     {
       "id": "q_3942",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Jak se zachováte v této dopravní situaci?",
       "imageUrl": null,
@@ -20080,7 +20080,7 @@
     },
     {
       "id": "q_4068",
-      "category": "Pravidla provozu",
+      "category": "Zdravotnická příprava",
       "points": 1,
       "question": "Správná frekvence stlačení hrudní kosti při srdeční masáži je u dospělého:",
       "imageUrl": null,
@@ -20110,7 +20110,7 @@
     },
     {
       "id": "q_4072",
-      "category": "Pravidla provozu",
+      "category": "Zdravotnická příprava",
       "points": 1,
       "question": "Rychlou zdravotnickou záchranou službu přivoláme na telefonním čísle:",
       "imageUrl": null,
@@ -20140,7 +20140,7 @@
     },
     {
       "id": "q_4076",
-      "category": "Pravidla provozu",
+      "category": "Zdravotnická příprava",
       "points": 1,
       "question": "Při úrazu hlavy nejvíce poraněného ohrožuje:",
       "imageUrl": null,
@@ -20170,7 +20170,7 @@
     },
     {
       "id": "q_4115",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Zelená karta:",
       "imageUrl": null,
@@ -20290,7 +20290,7 @@
     },
     {
       "id": "q_4127",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Snížit spotřebu paliva vozidla lze:\r\n\r\n\r\n",
       "imageUrl": null,
@@ -20352,7 +20352,7 @@
     },
     {
       "id": "q_4131",
-      "category": "Zdravověda",
+      "category": "Podmínky provozu vozidel",
       "points": 1,
       "question": "Technickou prohlídkou silničního vozidla se rozumí:",
       "imageUrl": null,
@@ -22092,7 +22092,7 @@
     },
     {
       "id": "q_4406",
-      "category": "Pravidla provozu",
+      "category": "Zdravotnická příprava",
       "points": 1,
       "question": "Správná frekvence stlačení hrudní kosti při srdeční masáži je u dospělého:",
       "imageUrl": null,
@@ -22122,7 +22122,7 @@
     },
     {
       "id": "q_4407",
-      "category": "Pravidla provozu",
+      "category": "Zdravotnická příprava",
       "points": 1,
       "question": "Jak budete postupovat u zraněného v bezvědomí, který nedýchá a opakovaně se Vám nedaří uvolnit jeho dýchací cesty:",
       "imageUrl": null,
@@ -22152,7 +22152,7 @@
     },
     {
       "id": "q_4421",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Řidič vozidla z výhledu",
       "imageUrl": null,
@@ -22182,7 +22182,7 @@
     },
     {
       "id": "q_4422",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Řidič vozidla z výhledu",
       "imageUrl": null,
@@ -22212,7 +22212,7 @@
     },
     {
       "id": "q_4423",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Tramvaje č.1 a 2 projedou křižovatkou:",
       "imageUrl": null,
@@ -22242,7 +22242,7 @@
     },
     {
       "id": "q_4429",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Řidič vozidla z výhledu",
       "imageUrl": null,
@@ -22272,7 +22272,7 @@
     },
     {
       "id": "q_4430",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Řidič vozidla z výhledu",
       "imageUrl": null,
@@ -22302,7 +22302,7 @@
     },
     {
       "id": "q_4431",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Řidič vozidla z výhledu",
       "imageUrl": null,
@@ -22332,7 +22332,7 @@
     },
     {
       "id": "q_4436",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Jako první projede křižovatkou: ",
       "imageUrl": null,
@@ -22362,7 +22362,7 @@
     },
     {
       "id": "q_4446",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Jako poslední projede křižovatkou",
       "imageUrl": null,
@@ -22392,7 +22392,7 @@
     },
     {
       "id": "q_4447",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Vozidlo z výhledu projede křižovatkou:",
       "imageUrl": null,
@@ -22422,7 +22422,7 @@
     },
     {
       "id": "q_4461",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Řidič vozidla z výhledu",
       "imageUrl": null,
@@ -22452,7 +22452,7 @@
     },
     {
       "id": "q_4462",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Řidič vozidla z výhledu",
       "imageUrl": null,
@@ -22482,7 +22482,7 @@
     },
     {
       "id": "q_4463",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Na této křižovatce",
       "imageUrl": null,
@@ -22512,7 +22512,7 @@
     },
     {
       "id": "q_4498",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Vozidlo z výhledu projede křižovatkou jako:",
       "imageUrl": null,
@@ -22747,7 +22747,7 @@
     },
     {
       "id": "q_4512",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Protiblokovací brzdový systém (ABS):",
       "imageUrl": null,
@@ -22779,7 +22779,7 @@
     },
     {
       "id": "q_4515",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Řidičské oprávnění skupiny C lze udělit jen žadateli, který je držitelem řidičského oprávnění skupiny:",
       "imageUrl": null,
@@ -22809,7 +22809,7 @@
     },
     {
       "id": "q_4516",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Řidičské oprávnění skupiny D lze udělit jen žadateli, který je držitelem řidičského oprávnění skupiny:",
       "imageUrl": null,
@@ -22839,7 +22839,7 @@
     },
     {
       "id": "q_4518",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Zelená karta:",
       "imageUrl": null,
@@ -22929,7 +22929,7 @@
     },
     {
       "id": "q_4529",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Policista může zabránit v jízdě motorovému vozidlu použitím technického prostředku (tzv. botičky) nebo odtažením vozidla, jestliže:",
       "imageUrl": null,
@@ -23314,7 +23314,7 @@
     },
     {
       "id": "q_4552",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Řidič, který dosáhl 12 bodů a pozbyl řidičské oprávnění, je oprávněn požádat o vrácení řidičského oprávnění nejdříve po uplynutí:",
       "imageUrl": null,
@@ -23344,7 +23344,7 @@
     },
     {
       "id": "q_4554",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Řidič, který dosáhl 12 bodů a pozbyl řidičské oprávnění, musí při podání žádosti o vrácení řidičského oprávnění:",
       "imageUrl": null,
@@ -23374,7 +23374,7 @@
     },
     {
       "id": "q_4556",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Zákaz účasti na sportovních a podobných akcích, jestliže by jimi mohla být ohrožena bezpečnost silničního provozu, nejde-li o akce pořádané v souladu s rozhodnutím příslušného správního úřadu o zvláštním užívání pozemní komunikace:",
       "imageUrl": null,
@@ -23404,7 +23404,7 @@
     },
     {
       "id": "q_4557",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Je-li důvodné podezření, že motorové vozidlo bylo užito při nepovolené sportovní akci na pozemní komunikaci:",
       "imageUrl": null,
@@ -23434,7 +23434,7 @@
     },
     {
       "id": "q_4559",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Policista může zabránit v jízdě motorovému vozidlu použitím technického prostředku (tzv. botičky) nebo odtažením vozidla, jestliže:",
       "imageUrl": null,
@@ -23524,7 +23524,7 @@
     },
     {
       "id": "q_4565",
-      "category": "Pravidla provozu",
+      "category": "Zdravotnická příprava",
       "points": 1,
       "question": "Správná frekvence stlačení hrudní kosti při srdeční masáži je u dospělého:",
       "imageUrl": null,
@@ -23554,7 +23554,7 @@
     },
     {
       "id": "q_5288",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Dálnice, silnice a místní komunikace jsou sjízdné, jestliže umožňují bezpečný pohyb silničních a jiných vozidel přizpůsobený:",
       "imageUrl": null,
@@ -23764,7 +23764,7 @@
     },
     {
       "id": "q_5374",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Cyklistovi, který dává znamení o změně směru jízdy proto, aby mohl přejet z vyhrazeného jízdního pruhu pro cyklisty do průběžného pruhu, řidič jedoucí v přilehlém pruhu:",
       "imageUrl": "https://pub-ca1177e4224c4996a990e31c9e928204.r2.dev/Q_W_5374.png",
@@ -23909,7 +23909,7 @@
     },
     {
       "id": "q_5379",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Na uvedené křižovatce řidič vozidla z výhledu:",
       "imageUrl": "https://pub-ca1177e4224c4996a990e31c9e928204.r2.dev/Q_W_5379.png",
@@ -23939,7 +23939,7 @@
     },
     {
       "id": "q_5380",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Řidič vozidla z výhledu hodlá na nejbližší křižovatce odbočit vpravo. Za této situace:",
       "imageUrl": "https://pub-ca1177e4224c4996a990e31c9e928204.r2.dev/Q_W_5380.png",
@@ -23994,7 +23994,7 @@
     },
     {
       "id": "q_5382",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Řidič vozidla z výhledu se chystá odbočit vlevo. Musí dát přednost v jízdě tramvaji?",
       "imageUrl": "https://pub-ca1177e4224c4996a990e31c9e928204.r2.dev/Q_W_5382.png",
@@ -24079,7 +24079,7 @@
     },
     {
       "id": "q_5385",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Řidič vozidla z výhledu odbočující na křižovatce vlevo:",
       "imageUrl": "https://pub-ca1177e4224c4996a990e31c9e928204.r2.dev/Q_W_5385.png",
@@ -24109,7 +24109,7 @@
     },
     {
       "id": "q_5386",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Řidič vozidla z výhledu odbočující na křižovatce vlevo:",
       "imageUrl": "https://pub-ca1177e4224c4996a990e31c9e928204.r2.dev/Q_W_5386.png",
@@ -24289,7 +24289,7 @@
     },
     {
       "id": "q_5392",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Řidič osobního vozidla odbočujícího ve vyobrazené situaci vlevo:",
       "imageUrl": "https://pub-ca1177e4224c4996a990e31c9e928204.r2.dev/Q_W_5392.png",
@@ -24319,7 +24319,7 @@
     },
     {
       "id": "q_5393",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Řidič vozidla z výhledu v této dopravní situaci:",
       "imageUrl": "https://pub-ca1177e4224c4996a990e31c9e928204.r2.dev/Q_W_5393.png",
@@ -24379,7 +24379,7 @@
     },
     {
       "id": "q_5395",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Na vyobrazeném místě musí řidič:",
       "imageUrl": "https://pub-ca1177e4224c4996a990e31c9e928204.r2.dev/Q_W_5395.png",
@@ -24439,7 +24439,7 @@
     },
     {
       "id": "q_5397",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Řidič vozidla z výhledu je povinen v této situaci",
       "imageUrl": "https://pub-ca1177e4224c4996a990e31c9e928204.r2.dev/Q_W_5397.png",
@@ -24494,7 +24494,7 @@
     },
     {
       "id": "q_5399",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Řidič vozidla z výhledu hodlá odbočit vlevo. V jakém pořadí projedou vozidla touto křižovatkou?",
       "imageUrl": "https://pub-ca1177e4224c4996a990e31c9e928204.r2.dev/Q_W_5399.png",
@@ -24764,7 +24764,7 @@
     },
     {
       "id": "q_5408",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Jak se zachováte jako řidič vozidla z výhledu na následující křižovatce?",
       "imageUrl": "https://pub-ca1177e4224c4996a990e31c9e928204.r2.dev/Q_W_5408.png",
@@ -24794,7 +24794,7 @@
     },
     {
       "id": "q_5409",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Jak se zachováte na následující křižovatce jako řidič vozidla z výhledu, který odbočuje vlevo?",
       "imageUrl": "https://pub-ca1177e4224c4996a990e31c9e928204.r2.dev/Q_W_5409.png",
@@ -24879,7 +24879,7 @@
     },
     {
       "id": "q_5412",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Řidič vozidla z výhledu:",
       "imageUrl": "https://pub-ca1177e4224c4996a990e31c9e928204.r2.dev/Q_W_5412.png",
@@ -25116,7 +25116,7 @@
     },
     {
       "id": "q_5420",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Na vyobrazené dopravní situaci řidič osobního automobilu jedoucí v přímém směru:",
       "imageUrl": "https://pub-ca1177e4224c4996a990e31c9e928204.r2.dev/Q_W_5420.png",
@@ -25201,7 +25201,7 @@
     },
     {
       "id": "q_5423",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Řidič vozidla z výhledu hodlá odbočit vlevo. V jakém pořadí projedou vozidla touto křižovatkou?",
       "imageUrl": "https://pub-ca1177e4224c4996a990e31c9e928204.r2.dev/Q_W_5423.png",
@@ -25351,7 +25351,7 @@
     },
     {
       "id": "q_5428",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Řidič vozidla na snímku:",
       "imageUrl": "https://pub-ca1177e4224c4996a990e31c9e928204.r2.dev/Q_W_5428.png",
@@ -25546,7 +25546,7 @@
     },
     {
       "id": "q_5436",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Řidič vozidla z výhledu:",
       "imageUrl": "https://pub-ca1177e4224c4996a990e31c9e928204.r2.dev/Q_W_5436.png",
@@ -25571,7 +25571,7 @@
     },
     {
       "id": "q_5437",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Řidič červeného vozidla jedoucí po kruhovém objezdu:",
       "imageUrl": "https://pub-ca1177e4224c4996a990e31c9e928204.r2.dev/Q_W_5437.png",
@@ -25601,7 +25601,7 @@
     },
     {
       "id": "q_5438",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Řidič vozidla z výhledu:",
       "imageUrl": "https://pub-ca1177e4224c4996a990e31c9e928204.r2.dev/Q_W_5438.png",
@@ -25683,7 +25683,7 @@
     },
     {
       "id": "q_5442",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Ve vyobrazené dopravní situaci řidič:",
       "imageUrl": null,
@@ -25713,7 +25713,7 @@
     },
     {
       "id": "q_5443",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Řidič motorového vozidla z výhledu v dopravní situaci:",
       "imageUrl": null,
@@ -25743,7 +25743,7 @@
     },
     {
       "id": "q_5444",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Jako řidič vozidla z výhledu:",
       "imageUrl": null,
@@ -26073,7 +26073,7 @@
     },
     {
       "id": "q_5456",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Řidič vozidla z výhledu musí ve vyobrazené dopravní situaci:\r\n",
       "imageUrl": "https://pub-ca1177e4224c4996a990e31c9e928204.r2.dev/Q_W_5456.png",
@@ -26503,7 +26503,7 @@
     },
     {
       "id": "q_5473",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Ve vyobrazené dopravní situaci na silnici pro motorová vozidla:",
       "imageUrl": null,
@@ -26533,7 +26533,7 @@
     },
     {
       "id": "q_5474",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Ve vyobrazené dopravní situaci:",
       "imageUrl": null,
@@ -26563,7 +26563,7 @@
     },
     {
       "id": "q_5475",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Pohybují-li se pomalu nebo stojí-li vozidla za sebou:",
       "imageUrl": null,
@@ -26593,7 +26593,7 @@
     },
     {
       "id": "q_5476",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Ve vyobrazené dopravní situaci řidič vozidla z výhledu:",
       "imageUrl": null,
@@ -26623,7 +26623,7 @@
     },
     {
       "id": "q_5477",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Ve vyobrazené dopravní situaci musí řidič vozidla z výhledu:",
       "imageUrl": null,
@@ -26653,7 +26653,7 @@
     },
     {
       "id": "q_5478",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "S ohledem na defenzivní způsob jízdy řidič vozidla z výhledu:",
       "imageUrl": null,
@@ -26683,7 +26683,7 @@
     },
     {
       "id": "q_5482",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Vyhodnoťte nejzávažnější riziko v animaci:",
       "imageUrl": null,
@@ -26713,7 +26713,7 @@
     },
     {
       "id": "q_5483",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Ve vyobrazené dopravní situaci:",
       "imageUrl": null,
@@ -26743,7 +26743,7 @@
     },
     {
       "id": "q_5484",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Jaká pravidla silničního provozu musíme dodržovat v následující dopravní situaci?",
       "imageUrl": null,
@@ -26773,7 +26773,7 @@
     },
     {
       "id": "q_5485",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Řidič vozidla z výhledu: ",
       "imageUrl": null,
@@ -26803,7 +26803,7 @@
     },
     {
       "id": "q_5486",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Ve vyobrazené dopravní situaci:",
       "imageUrl": null,
@@ -26833,7 +26833,7 @@
     },
     {
       "id": "q_5487",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Ve vyobrazené dopravní situaci řidič vozidla z výhledu: ",
       "imageUrl": null,
@@ -26863,7 +26863,7 @@
     },
     {
       "id": "q_5488",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "S ohledem na defenzivní způsob jízdy řidič vozidla z výhledu:",
       "imageUrl": null,
@@ -26893,7 +26893,7 @@
     },
     {
       "id": "q_5489",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Ve vyobrazené dopravní situaci chodkyně na přechodu pro chodce ",
       "imageUrl": null,
@@ -26923,7 +26923,7 @@
     },
     {
       "id": "q_5490",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Dodržel řidič vozidla z výhledu bezpečnou vzdálenost pro případnou náhlou změnu jízdy nebo pád cyklisty? ",
       "imageUrl": null,
@@ -26953,7 +26953,7 @@
     },
     {
       "id": "q_5491",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Ve vyobrazené dopravní situaci řidič kamionu při odbočování vpravo ",
       "imageUrl": null,
@@ -26983,7 +26983,7 @@
     },
     {
       "id": "q_5492",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Dodržel řidič vozidla z výhledu bezpečnou vzdálenost a nejvyšší dovolenou rychlost? ",
       "imageUrl": null,
@@ -27013,7 +27013,7 @@
     },
     {
       "id": "q_5494",
-      "category": "Zdravověda",
+      "category": "Podmínky provozu vozidel",
       "points": 1,
       "question": "Má vozidlo dle kontrolní nálepky na fotografii k dnešnímu dni platnou technickou prohlídku?",
       "imageUrl": "https://pub-ca1177e4224c4996a990e31c9e928204.r2.dev/Q_W_5494.png",
@@ -27043,7 +27043,7 @@
     },
     {
       "id": "q_5495",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Dodržel řidič červeného nákladního automobilu při rychlosti 72 km/h (20m/s) bezpečnou vzdálenost za vozidlem jedoucím před ním?",
       "imageUrl": "https://pub-ca1177e4224c4996a990e31c9e928204.r2.dev/Q_W_5495.png",
@@ -27100,7 +27100,7 @@
     },
     {
       "id": "q_5499",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Může telefonování za jízdy při použití Handsfree ovlivnit reakční dobu řidiče?",
       "imageUrl": "https://pub-ca1177e4224c4996a990e31c9e928204.r2.dev/Q_W_5499.png",
@@ -27132,7 +27132,7 @@
     },
     {
       "id": "q_5500",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Je minimální bezpečná vzdálenost mezi jedoucími vozidly zákonem přesně definována v metrech?",
       "imageUrl": "https://pub-ca1177e4224c4996a990e31c9e928204.r2.dev/Q_W_5500.png",
@@ -27164,7 +27164,7 @@
     },
     {
       "id": "q_5501",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Ovlivní ovládání navigačního systému vozidla za jízdy reakční dobu řidiče nutnou k vyřešení mimořádné události v provozu na pozemních komunikacích?",
       "imageUrl": "https://pub-ca1177e4224c4996a990e31c9e928204.r2.dev/Q_W_5501.png",
@@ -27191,7 +27191,7 @@
     },
     {
       "id": "q_5502",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Ovlivní připojování nabíječky k mobilnímu telefonu za jízdy reakční dobu řidiče nutnou k vyřešení mimořádné události v provozu na pozemních komunikacích?",
       "imageUrl": "https://pub-ca1177e4224c4996a990e31c9e928204.r2.dev/Q_W_5502.png",
@@ -27223,7 +27223,7 @@
     },
     {
       "id": "q_5504",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Může ovlivnit nevhodné obutí řidiče reakční dobu nutnou k vyřešení mimořádné události v provozu na pozemních komunikacích?",
       "imageUrl": "https://pub-ca1177e4224c4996a990e31c9e928204.r2.dev/Q_W_5504.png",
@@ -27255,7 +27255,7 @@
     },
     {
       "id": "q_5505",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Může ovlivnit používání nevhodného obutí za jízdy reakční dobu řidiče nutnou k řešení situací v provozu na pozemních komunikacích?",
       "imageUrl": "https://pub-ca1177e4224c4996a990e31c9e928204.r2.dev/Q_W_5505.png",
@@ -27287,7 +27287,7 @@
     },
     {
       "id": "q_5506",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Může ovlivnit nevhodně zabezpečené zvíře za jízdy reakční dobu řidiče a čas nutný k vyřešení mimořádné události v provozu na pozemních komunikacích?",
       "imageUrl": "https://pub-ca1177e4224c4996a990e31c9e928204.r2.dev/Q_W_5506.png",
@@ -27319,7 +27319,7 @@
     },
     {
       "id": "q_5507",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Za snížené viditelnosti, deště a zhoršených klimatických podmínek je bezpečný odstup za vpředu jedoucím vozidlem?",
       "imageUrl": "https://pub-ca1177e4224c4996a990e31c9e928204.r2.dev/Q_W_5507.png",
@@ -27351,7 +27351,7 @@
     },
     {
       "id": "q_5508",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Nedodržení bezpečné vzdálenosti za vpředu jedoucím vozidlem je v ČR:",
       "imageUrl": "https://pub-ca1177e4224c4996a990e31c9e928204.r2.dev/Q_W_5508.png",
@@ -27383,7 +27383,7 @@
     },
     {
       "id": "q_5509",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Jakou metodou lze v případě krizové situace minimalizovat brzdnou dráhu na většině povrchů vozovky s vozidlem, které je vybaveno ABS?",
       "imageUrl": "https://pub-ca1177e4224c4996a990e31c9e928204.r2.dev/Q_W_5509.png",
@@ -27415,7 +27415,7 @@
     },
     {
       "id": "q_5510",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Jakým způsobem lze určit optimální bezpečnou vzdálenost za vpředu jedoucím vozidlem?",
       "imageUrl": "https://pub-ca1177e4224c4996a990e31c9e928204.r2.dev/Q_W_5510.png",
@@ -27447,7 +27447,7 @@
     },
     {
       "id": "q_5511",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Jakým způsobem systém Front assist (systém zabraňující, nebo snižující následky čelního střetu) pomáhá v krizové situaci?",
       "imageUrl": "https://pub-ca1177e4224c4996a990e31c9e928204.r2.dev/Q_W_5511.png",
@@ -27479,7 +27479,7 @@
     },
     {
       "id": "q_5512",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "V případě porušení povinnosti uzavřít pojištění odpovědnosti za újmu způsobenou provozem vozidla (tzv. povinné ručení):",
       "imageUrl": "https://pub-ca1177e4224c4996a990e31c9e928204.r2.dev/Q_W_5512.png",
@@ -27509,7 +27509,7 @@
     },
     {
       "id": "q_5513",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "V případě vzniku újmy způsobené provozem vozidla bez platného pojištění odpovědnosti za újmu způsobenou provozem vozidla (tzn. vozidlem bez tzv. povinného ručení) poškozený:",
       "imageUrl": "https://pub-ca1177e4224c4996a990e31c9e928204.r2.dev/Q_W_5513.png",
@@ -27599,7 +27599,7 @@
     },
     {
       "id": "q_5517",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "V rámci dodržování bezpečné a defenzivní jízdy (například na dovolenou či služební cestu) by měl řidič vozidla z výhledu ve vyobrazené dopravní situaci:",
       "imageUrl": "https://pub-ca1177e4224c4996a990e31c9e928204.r2.dev/Q_W_5517.png",
@@ -27631,7 +27631,7 @@
     },
     {
       "id": "q_5518",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Systém ESC (ESP):",
       "imageUrl": "https://pub-ca1177e4224c4996a990e31c9e928204.r2.dev/Q_W_5518.png",
@@ -27663,7 +27663,7 @@
     },
     {
       "id": "q_5519",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Airbag:",
       "imageUrl": "https://pub-ca1177e4224c4996a990e31c9e928204.r2.dev/Q_W_5519.png",
@@ -27695,7 +27695,7 @@
     },
     {
       "id": "q_5521",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Ovlivní používání zkrášlovacích prostředků za jízdy reakční dobu řidiče nutnou ke sledování a řešení situací v provozu na pozemních komunikacích?",
       "imageUrl": "https://pub-ca1177e4224c4996a990e31c9e928204.r2.dev/Q_W_5521.png",
@@ -27727,7 +27727,7 @@
     },
     {
       "id": "q_5522",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Ovlivní konzumace potravin za jízdy reakční dobu řidiče nutnou k vyřešení mimořádné události v provozu na pozemních komunikacích?",
       "imageUrl": "https://pub-ca1177e4224c4996a990e31c9e928204.r2.dev/Q_W_5522.png",
@@ -27759,7 +27759,7 @@
     },
     {
       "id": "q_5523",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Řidič nákladního vozidla ve vyobrazené dopravní situaci při odbočování vpravo s ohledem na rozměry vozidla musel nejdříve vybočit ze směru své jízdy vlevo a přitom ",
       "imageUrl": null,
@@ -27789,7 +27789,7 @@
     },
     {
       "id": "q_5524",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Ve vyobrazené dopravní situaci řidič osobního motorového vozidla ",
       "imageUrl": null,
@@ -27819,7 +27819,7 @@
     },
     {
       "id": "q_5525",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Provedl řidič nákladního vozidla ve vyobrazené dopravní situaci odbočení vlevo bezpečně a v souladu s pravidly silničního provozu? ",
       "imageUrl": null,
@@ -27849,7 +27849,7 @@
     },
     {
       "id": "q_5526",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Řidič vozidla z výhledu ve vyobrazené křižovatce s kruhovým objezdem:",
       "imageUrl": "https://pub-ca1177e4224c4996a990e31c9e928204.r2.dev/Q_W_5526.png",
@@ -28059,7 +28059,7 @@
     },
     {
       "id": "q_5536",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Může být přetížení nákladního vozidla při přepravě nákladu nebezpečné?",
       "imageUrl": "https://pub-ca1177e4224c4996a990e31c9e928204.r2.dev/Q_W_5536.png",
@@ -28151,7 +28151,7 @@
     },
     {
       "id": "q_5540",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Může řidič s řidičským oprávněním skupiny B s harmonizovaným kódem 96 řídit soupravu vozidel,kdy osobní automobil má největší povolenou hmotnost 3 050 kg a okamžitou hmotnost 2 500 kg a přípojné vozidlo má největší povolenou hmotnost 1 650 kg a okamžitou hmotnost 900 kg?",
       "imageUrl": "https://pub-ca1177e4224c4996a990e31c9e928204.r2.dev/Q_W_5540.png",
@@ -28181,7 +28181,7 @@
     },
     {
       "id": "q_5542",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Jakého řidičského oprávnění musí být řidič držitelem při řízení soupravy osobního automobilu s přípojným vozidlem, když největší povolená hmotnost osobního automobilu je 2 500 kg a největší povolená hmotnost přívěsu je 1 800 kg?",
       "imageUrl": "https://pub-ca1177e4224c4996a990e31c9e928204.r2.dev/Q_W_5542.png",
@@ -28211,7 +28211,7 @@
     },
     {
       "id": "q_5543",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Může řidič s řidičským oprávněním skupiny D řídit autobus s přívěsem na přepravu jízdních kol,který má největší povolenou hmotnost 900 kg?",
       "imageUrl": "https://pub-ca1177e4224c4996a990e31c9e928204.r2.dev/Q_W_5543.png",
@@ -28481,7 +28481,7 @@
     },
     {
       "id": "q_5556",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Při přepravě dětí a jejich umístění do dětské autosedačky je důležité zejména dbát na:",
       "imageUrl": "https://pub-ca1177e4224c4996a990e31c9e928204.r2.dev/Q_W_5556.png",
@@ -28543,7 +28543,7 @@
     },
     {
       "id": "q_5560",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Kdy je nutné vypnout čelní airbag před sedadlem spolujezdce s ohledem na přepravu dětí v zádržném systému?",
       "imageUrl": "https://pub-ca1177e4224c4996a990e31c9e928204.r2.dev/Q_W_5560.png",
@@ -28605,7 +28605,7 @@
     },
     {
       "id": "q_5562",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Ve vyobrazené dopravní situaci řidič vozidla z výhledu",
       "imageUrl": null,
@@ -28635,7 +28635,7 @@
     },
     {
       "id": "q_5564",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Řidič vozidla z výhledu ve vyobrazené dopravní situaci",
       "imageUrl": null,
@@ -28665,7 +28665,7 @@
     },
     {
       "id": "q_5565",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Při průjezdu levotočivé zatáčky s ohledem na zásady bezpečné jízdy řidič motocyklu",
       "imageUrl": null,
@@ -28697,7 +28697,7 @@
     },
     {
       "id": "q_5566",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Pro optimální průjezd pravotočivou zatáčkou s ohledem na zásady bezpečné jízdy najíždí řidič motocyklu do zatáčky",
       "imageUrl": null,
@@ -28729,7 +28729,7 @@
     },
     {
       "id": "q_5567",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Došlo ve vyobrazené dopravní situaci k porušení pravidel silničního provozu?",
       "imageUrl": null,
@@ -28759,7 +28759,7 @@
     },
     {
       "id": "q_5568",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Jak se musí ve vyobrazené dopravní situaci zachovat řidič vozidla z výhledu v místě označeném bílou klikatou čárou na vozovce za dopravní značkou ,,Chodci”?",
       "imageUrl": null,
@@ -28789,7 +28789,7 @@
     },
     {
       "id": "q_5569",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Ve vyobrazené dopravní situaci osoba na osobním přepravníku",
       "imageUrl": null,
@@ -28819,7 +28819,7 @@
     },
     {
       "id": "q_5570",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Porušili řidič vozidla z výhledu a řidič bílého osobního vozidla ve vyobrazené dopravní situaci při předjíždění cyklisty pravidla silničního provozu?",
       "imageUrl": null,
@@ -28849,7 +28849,7 @@
     },
     {
       "id": "q_5571",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Musí řidič vozidla z výhledu ve vyobrazené dopravní situaci dodržet zákonem stanovený bezpečný boční odstup nejméně 1,5 m od cyklisty?",
       "imageUrl": null,
@@ -28879,7 +28879,7 @@
     },
     {
       "id": "q_5572",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Vyhodnoťte nejzávažnější riziko v ukázce",
       "imageUrl": null,
@@ -28909,7 +28909,7 @@
     },
     {
       "id": "q_5573",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Nevidomý chodec signalizuje úmysl přejít vozovku",
       "imageUrl": null,
@@ -28939,7 +28939,7 @@
     },
     {
       "id": "q_5574",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "S jakým rizikem může řidič počítat při jízdě za označeným výcvikovým vozidlem autoškoly?",
       "imageUrl": "https://pub-ca1177e4224c4996a990e31c9e928204.r2.dev/Q_W_5574.png",
@@ -28971,7 +28971,7 @@
     },
     {
       "id": "q_5575",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Ve vyobrazené dopravní situaci by měl řidič nákladního automobilu nebo autobusu v obci:",
       "imageUrl": "https://pub-ca1177e4224c4996a990e31c9e928204.r2.dev/Q_W_5575.png",
@@ -29153,7 +29153,7 @@
     },
     {
       "id": "q_5581",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Mezi prvky pasivní bezpečnosti při jízdě na motocyklu patří:",
       "imageUrl": null,
@@ -29185,7 +29185,7 @@
     },
     {
       "id": "q_5582",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Držitel řidičského oprávnění skupiny A1 smí řídit také:",
       "imageUrl": "https://pub-ca1177e4224c4996a990e31c9e928204.r2.dev/Q_W_5582.png",
@@ -29215,7 +29215,7 @@
     },
     {
       "id": "q_5583",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Držitel řidičského oprávnění skupiny A2 smí řídit také:",
       "imageUrl": "https://pub-ca1177e4224c4996a990e31c9e928204.r2.dev/Q_W_5583.png",
@@ -29245,7 +29245,7 @@
     },
     {
       "id": "q_5584",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Držitel řidičského oprávnění skupiny A2 smí mimo jiné řídit:",
       "imageUrl": "https://pub-ca1177e4224c4996a990e31c9e928204.r2.dev/Q_W_5584.png",
@@ -29455,7 +29455,7 @@
     },
     {
       "id": "q_5591",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Jedete za dvěma motocykly, jejichž řidiči používají označení “L” (autoškola). Je vzhledem k bezpečnosti silničního provozu vhodné se zařazovat při předjíždění mezi tato vozidla?",
       "imageUrl": "https://pub-ca1177e4224c4996a990e31c9e928204.r2.dev/Q_W_5591.png",
@@ -29487,7 +29487,7 @@
     },
     {
       "id": "q_5592",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Smí řidič vozidla z výhledu přejíždět podélnou čáru souvislou při předjíždění cyklisty?",
       "imageUrl": "https://pub-ca1177e4224c4996a990e31c9e928204.r2.dev/Q_W_5592.png",
@@ -29639,7 +29639,7 @@
     },
     {
       "id": "q_5597",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Řidič vozidla hromadné dopravy osob by měl s ohledem na nevidomé osoby ve vyobrazené dopravní situaci zastavit.",
       "imageUrl": "https://pub-ca1177e4224c4996a990e31c9e928204.r2.dev/Q_W_5597.png",
@@ -29761,7 +29761,7 @@
     },
     {
       "id": "q_5601",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Při vyhýbání se překážce na motocyklu, směřuje pohled řidiče:",
       "imageUrl": null,
@@ -29793,7 +29793,7 @@
     },
     {
       "id": "q_5602",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Při otáčení se s motocyklem se řidič dívá:",
       "imageUrl": null,
@@ -29825,7 +29825,7 @@
     },
     {
       "id": "q_5603",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Při průjezdu zatáčkou na motocyklu:",
       "imageUrl": "https://pub-ca1177e4224c4996a990e31c9e928204.r2.dev/Q_W_5603.png",
@@ -29857,7 +29857,7 @@
     },
     {
       "id": "q_5604",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Při průjezdu mírné zatáčky na motocyklu:",
       "imageUrl": "https://pub-ca1177e4224c4996a990e31c9e928204.r2.dev/Q_W_5604.png",
@@ -29889,7 +29889,7 @@
     },
     {
       "id": "q_5605",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Při průjezdu mírné zatáčky na motocyklu:",
       "imageUrl": "https://pub-ca1177e4224c4996a990e31c9e928204.r2.dev/Q_W_5605.png",
@@ -29921,7 +29921,7 @@
     },
     {
       "id": "q_5606",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Řidič motocyklu před zastavením:",
       "imageUrl": null,
@@ -29953,7 +29953,7 @@
     },
     {
       "id": "q_5607",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Jak může řidič snížit riziko střetu s projíždějícím cyklistou při vystupovaní z vozidla?",
       "imageUrl": "https://pub-ca1177e4224c4996a990e31c9e928204.r2.dev/Q_W_5607.png",
@@ -29985,7 +29985,7 @@
     },
     {
       "id": "q_5608",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Řidič nákladního automobilu nebo autobusu ve vyobrazené dopravní situaci musí předvídat:",
       "imageUrl": "https://pub-ca1177e4224c4996a990e31c9e928204.r2.dev/Q_W_5608.png",
@@ -30017,7 +30017,7 @@
     },
     {
       "id": "q_5609",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Smí řidič s řidičským oprávněním skupiny B řídit soupravu vozidel, kdy osobní automobil má největší povolenou hmotnost 2 050 kg a provozní hmotnost 1 500 kg a přípojné vozidlo má největší povolenou hmotnost 1 650 kg a provozní hmotnost 900 kg?",
       "imageUrl": "https://pub-ca1177e4224c4996a990e31c9e928204.r2.dev/Q_W_5609.png",
@@ -30077,7 +30077,7 @@
     },
     {
       "id": "q_5611",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Co se rozumí pod pojmem \"defenzivní jízda\"?",
       "imageUrl": null,
@@ -30109,7 +30109,7 @@
     },
     {
       "id": "q_5612",
-      "category": "Zdravověda",
+      "category": "Podmínky provozu vozidel",
       "points": 1,
       "question": "Jaká je maximální povolená konstrukční rychlost elektrokoloběžky, kterou je možno řídit bez řidičského oprávnění?",
       "imageUrl": "https://pub-ca1177e4224c4996a990e31c9e928204.r2.dev/Q_W_5612.png",
@@ -30169,7 +30169,7 @@
     },
     {
       "id": "q_5614",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Jakým způsobem může ovlivnit výhled z vozidla sloupek mezi čelnim sklem a bočním oknem?",
       "imageUrl": "https://pub-ca1177e4224c4996a990e31c9e928204.r2.dev/Q_W_5614.png",
@@ -30231,7 +30231,7 @@
     },
     {
       "id": "q_5616",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Kde si řidič může požádat o vydání karty řidiče sloužící pro zaznamenávání doby řízení, bezpečnostních přestávek a doby odpočinku?",
       "imageUrl": "https://pub-ca1177e4224c4996a990e31c9e928204.r2.dev/Q_W_5616.png",
@@ -30261,7 +30261,7 @@
     },
     {
       "id": "q_5617",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Největší povolené rozměry vozidel a jízdních souprav:",
       "imageUrl": "https://pub-ca1177e4224c4996a990e31c9e928204.r2.dev/Q_W_5617.png",
@@ -30321,7 +30321,7 @@
     },
     {
       "id": "q_5619",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Který z uvedených sdělovačů informuje řidiče motorového vozidla o rozsvícených obrysových světlech?",
       "imageUrl": null,
@@ -30353,7 +30353,7 @@
     },
     {
       "id": "q_5620",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Který z uvedených sdělovačů informuje řidiče motorového vozidla o rozsvícených potkávacích světlech?",
       "imageUrl": null,
@@ -30385,7 +30385,7 @@
     },
     {
       "id": "q_5621",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Který z uvedených sdělovačů informuje řidiče motorového vozidla o rozsvícených dálkových světlech?",
       "imageUrl": null,
@@ -30417,7 +30417,7 @@
     },
     {
       "id": "q_5622",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Který z uvedených sdělovačů informuje řidiče motorového vozidla o rozsvícených předních mlhových světlech?",
       "imageUrl": null,
@@ -30449,7 +30449,7 @@
     },
     {
       "id": "q_5623",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Který z uvedených sdělovačů informuje řidiče motorového vozidla o rozsvícených zadních mlhových světlech?",
       "imageUrl": null,
@@ -30481,7 +30481,7 @@
     },
     {
       "id": "q_5624",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Který z uvedených sdělovačů informuje řidiče motorového vozidla o závadě brzdového systému?",
       "imageUrl": null,
@@ -30513,7 +30513,7 @@
     },
     {
       "id": "q_5625",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Řidič vozidla vybaveného zvláštním výstražným světlem oranžové barvy smí tohoto světla užívat:",
       "imageUrl": "https://pub-ca1177e4224c4996a990e31c9e928204.r2.dev/Q_W_5625.png",
@@ -30543,7 +30543,7 @@
     },
     {
       "id": "q_5626",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Kde a kdy nejpozději musí řidič požádat o obnovu karty řidiče?",
       "imageUrl": "https://pub-ca1177e4224c4996a990e31c9e928204.r2.dev/Q_W_5626.png",
@@ -30573,7 +30573,7 @@
     },
     {
       "id": "q_5627",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Užitím karty řidiče, která byla vydána jiné osobě, nebo užitím karty řidiče, která byla nahlášena jako ztracená nebo odcizená, spáchal řidič přinejmenším přestupek, za který mu může být:",
       "imageUrl": "https://pub-ca1177e4224c4996a990e31c9e928204.r2.dev/Q_W_5627.png",
@@ -31108,7 +31108,7 @@
     },
     {
       "id": "q_5646",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Zachoval se řidič vozidla z výhledu při zařazování do průběžného jízdního pruhu správně?",
       "imageUrl": null,
@@ -31138,7 +31138,7 @@
     },
     {
       "id": "q_5647",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Ve vyobrazené dopravní situaci řidič vozidla jedoucí v průběžném jízdním pruhu:",
       "imageUrl": null,
@@ -31168,7 +31168,7 @@
     },
     {
       "id": "q_5649",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Dodržel řidič vozidla z výhledu v ukázce dostatečnou bezpečnou vzdálenost od před ním jedoucího vozidla?",
       "imageUrl": null,
@@ -31198,7 +31198,7 @@
     },
     {
       "id": "q_5650",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Jak se zachováte jako řidič vozidla z výhledu v ukázce v úseku s vyznačenými šipkami na vozovce?",
       "imageUrl": null,
@@ -31228,7 +31228,7 @@
     },
     {
       "id": "q_5651",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Jak se jako řidič vozidla z výhledu zachovám ve vyobrazené dopravní situaci s ohledem na zásady bezpečné a defenzivní jízdy?",
       "imageUrl": null,
@@ -31258,7 +31258,7 @@
     },
     {
       "id": "q_5652",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "K jakému porušení silničních pravidel ve vyobrazené dopravní situaci došlo?",
       "imageUrl": null,
@@ -31288,7 +31288,7 @@
     },
     {
       "id": "q_5653",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "K jakému porušení silničních pravidel došlo ve vyobrazené dopravní situaci?",
       "imageUrl": null,
@@ -31318,7 +31318,7 @@
     },
     {
       "id": "q_5654",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Musí ve vyobrazené dopravní situaci řidič vozidla z výhledu zastavit vozidlo před jednokolejným železničním přejezdem? ",
       "imageUrl": null,
@@ -31348,7 +31348,7 @@
     },
     {
       "id": "q_5655",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Jako řidič vozidla z výhledu:",
       "imageUrl": null,
@@ -31378,7 +31378,7 @@
     },
     {
       "id": "q_5656",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Musí řidič vozidla z výhledu sledovat i situaci vpravo, v místě podélně zaparkovaných vozidel?",
       "imageUrl": null,
@@ -31408,7 +31408,7 @@
     },
     {
       "id": "q_5657",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Cyklista starší 10 let ve vyobrazené dopravní situaci:",
       "imageUrl": null,
@@ -31438,7 +31438,7 @@
     },
     {
       "id": "q_5658",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Jak se zachoval řidič oranžového vozidla ve vyobrazené dopravní situaci, přijíždějící k železničnímu přejezdu, před kterým je umístěna dopravní značka “Stůj, dej přednost v jízdě!”?",
       "imageUrl": null,
@@ -31468,7 +31468,7 @@
     },
     {
       "id": "q_5659",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Ve vyobrazené dopravní situaci:",
       "imageUrl": null,
@@ -31498,7 +31498,7 @@
     },
     {
       "id": "q_5660",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Dodrželi řidiči vozidel odbočující na křižovatce vlevo pravidla provozu?",
       "imageUrl": null,
@@ -31528,7 +31528,7 @@
     },
     {
       "id": "q_5661",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Řidič černého vozidla:",
       "imageUrl": null,
@@ -31558,7 +31558,7 @@
     },
     {
       "id": "q_5662",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Dodržel řidič bílého vozidla pravidla silničního provozu? ",
       "imageUrl": null,
@@ -31588,7 +31588,7 @@
     },
     {
       "id": "q_5663",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Řidič vozidla z výhledu na křižovatce: ",
       "imageUrl": null,
@@ -31618,7 +31618,7 @@
     },
     {
       "id": "q_5664",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Řidič zeleného vozidla v dané dopravní situaci: ",
       "imageUrl": null,
@@ -31648,7 +31648,7 @@
     },
     {
       "id": "q_5665",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Došlo ve vyobrazené dopravní situaci k porušení pravidel silničního provozu? ",
       "imageUrl": null,
@@ -32033,7 +32033,7 @@
     },
     {
       "id": "q_5679",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "Mezi prvky aktivní bezpečnosti při jízdě na motocyklu patří:",
       "imageUrl": null,
@@ -32390,7 +32390,7 @@
     },
     {
       "id": "q_103475",
-      "category": "Dopravní situace",
+      "category": "Zásady bezpečné jízdy",
       "points": 2,
       "question": "U parkovací brzdy vzduchotlakých brzd s pružinovým brzdovým válcem zajišťuje odbrzdění:",
       "imageUrl": null,
@@ -32422,7 +32422,7 @@
     },
     {
       "id": "q_104467",
-      "category": "Pravidla provozu",
+      "category": "Zdravotnická příprava",
       "points": 1,
       "question": "Jak se zachováte při kolapsovém stavu, kdy postižený upadne a ztrácí vědomí?",
       "imageUrl": null,
@@ -32452,7 +32452,7 @@
     },
     {
       "id": "q_104468",
-      "category": "Pravidla provozu",
+      "category": "Zdravotnická příprava",
       "points": 1,
       "question": "Kdy zahájíte zevní srdeční masáž:",
       "imageUrl": null,
@@ -32482,7 +32482,7 @@
     },
     {
       "id": "q_104472",
-      "category": "Pravidla provozu",
+      "category": "Zdravotnická příprava",
       "points": 1,
       "question": "U dopravní nehody s poraněním voláme jako první:",
       "imageUrl": null,
@@ -32512,7 +32512,7 @@
     },
     {
       "id": "q_104474",
-      "category": "Pravidla provozu",
+      "category": "Zdravotnická příprava",
       "points": 1,
       "question": "Poraněný se po dopravní nehodě domáhá tekutin, jak se zachováte:",
       "imageUrl": null,
@@ -32542,7 +32542,7 @@
     },
     {
       "id": "q_104475",
-      "category": "Pravidla provozu",
+      "category": "Zdravotnická příprava",
       "points": 1,
       "question": "Při umělém dýchání z plic do plic u dospělého:",
       "imageUrl": null,
@@ -32572,7 +32572,7 @@
     },
     {
       "id": "q_104476",
-      "category": "Pravidla provozu",
+      "category": "Zdravotnická příprava",
       "points": 1,
       "question": "Jak budete postupovat, jste-li sami a opakovaně se Vám nedaří zajistit dýchací cesty:",
       "imageUrl": null,
@@ -32602,7 +32602,7 @@
     },
     {
       "id": "q_104477",
-      "category": "Pravidla provozu",
+      "category": "Zdravotnická příprava",
       "points": 1,
       "question": "U poraněného v hlubokém bezvědomí a bezdeší nastávají nezvratné změny mozkové tkáně do:",
       "imageUrl": null,
@@ -32632,7 +32632,7 @@
     },
     {
       "id": "q_104478",
-      "category": "Pravidla provozu",
+      "category": "Zdravotnická příprava",
       "points": 1,
       "question": "Při poranění motorkáře, který je v bezvědomí a nedýchá:",
       "imageUrl": null,
@@ -32662,7 +32662,7 @@
     },
     {
       "id": "q_104479",
-      "category": "Pravidla provozu",
+      "category": "Zdravotnická příprava",
       "points": 1,
       "question": "Při úrazu hlavy s drobnějším viditelným krvácením nejvíce poraněného ohrožuje:",
       "imageUrl": null,
@@ -32692,7 +32692,7 @@
     },
     {
       "id": "q_104480",
-      "category": "Pravidla provozu",
+      "category": "Zdravotnická příprava",
       "points": 1,
       "question": "Při provádění zevní srdeční masáže je správné stlačení hrudní kosti asi o:",
       "imageUrl": null,
@@ -32722,7 +32722,7 @@
     },
     {
       "id": "q_104481",
-      "category": "Pravidla provozu",
+      "category": "Zdravotnická příprava",
       "points": 1,
       "question": "Jak budete postupovat u poraněného, který má po pádu z motocyklu zlomenou dolní končetinu a reaguje na oslovení:",
       "imageUrl": null,
@@ -32752,7 +32752,7 @@
     },
     {
       "id": "q_104482",
-      "category": "Pravidla provozu",
+      "category": "Zdravotnická příprava",
       "points": 1,
       "question": "Poraněný je v bezvědomí, leží na zádech a zatím dýchá. Náhle začne zvracet. Jak budete postupovat:",
       "imageUrl": null,
@@ -32782,7 +32782,7 @@
     },
     {
       "id": "q_104484",
-      "category": "Pravidla provozu",
+      "category": "Zdravotnická příprava",
       "points": 1,
       "question": "Hrozí trestní postih, pokud neposkytnete první pomoc:",
       "imageUrl": null,
@@ -32807,7 +32807,7 @@
     },
     {
       "id": "q_104485",
-      "category": "Pravidla provozu",
+      "category": "Zdravotnická příprava",
       "points": 1,
       "question": "Pokud vidíte, že účastník nehody masivně krvácí:",
       "imageUrl": null,
@@ -32837,7 +32837,7 @@
     },
     {
       "id": "q_104486",
-      "category": "Pravidla provozu",
+      "category": "Zdravotnická příprava",
       "points": 1,
       "question": "Jak zjistíte stav vědomí pacienta:",
       "imageUrl": null,
@@ -32867,7 +32867,7 @@
     },
     {
       "id": "q_104487",
-      "category": "Pravidla provozu",
+      "category": "Zdravotnická příprava",
       "points": 1,
       "question": "Jak jednoznačně zjistíte, že poraněný dýchá:",
       "imageUrl": null,
@@ -32897,7 +32897,7 @@
     },
     {
       "id": "q_104488",
-      "category": "Pravidla provozu",
+      "category": "Zdravotnická příprava",
       "points": 1,
       "question": "Jak zajistíte průchodnost dýchacích cest:",
       "imageUrl": null,
@@ -32927,7 +32927,7 @@
     },
     {
       "id": "q_104489",
-      "category": "Pravidla provozu",
+      "category": "Zdravotnická příprava",
       "points": 1,
       "question": "Po zahájení resuscitace je nejdůležitější:",
       "imageUrl": null,
@@ -32957,7 +32957,7 @@
     },
     {
       "id": "q_104490",
-      "category": "Pravidla provozu",
+      "category": "Zdravotnická příprava",
       "points": 1,
       "question": "Jste svědek dopravní nehody, na místě jsou dva zranění, z nichž jeden je v bezvědomí, druhý při vědomí, ale výrazně krvácí. Jaký bude Váš postup?",
       "imageUrl": null,
@@ -32987,7 +32987,7 @@
     },
     {
       "id": "q_104491",
-      "category": "Pravidla provozu",
+      "category": "Zdravotnická příprava",
       "points": 1,
       "question": "Zjistíte, že poraněný má v ráně zabodnuté cizí těleso. Co uděláte?",
       "imageUrl": null,
@@ -33017,7 +33017,7 @@
     },
     {
       "id": "q_104492",
-      "category": "Pravidla provozu",
+      "category": "Zdravotnická příprava",
       "points": 1,
       "question": "Poraněný je při vědomí a velmi silně krvácí z rány na krku. Co uděláte?",
       "imageUrl": null,
@@ -33047,7 +33047,7 @@
     },
     {
       "id": "q_104493",
-      "category": "Pravidla provozu",
+      "category": "Zdravotnická příprava",
       "points": 1,
       "question": "Poraněný je při vědomí a stěžuje si na silnou bolest v oblasti zad, eventuálně na brnění nebo necitlivost dolních končetin. Jaké by mohl mít poranění?",
       "imageUrl": null,
@@ -33077,7 +33077,7 @@
     },
     {
       "id": "q_104494",
-      "category": "Pravidla provozu",
+      "category": "Zdravotnická příprava",
       "points": 1,
       "question": "Poraněný je v bezvědomí a dýchá. Jakou pomoc mu poskytnete?",
       "imageUrl": null,
@@ -33107,7 +33107,7 @@
     },
     {
       "id": "q_104495",
-      "category": "Pravidla provozu",
+      "category": "Zdravotnická příprava",
       "points": 1,
       "question": "Pro kvalitně prováděnou srdeční masáž je nejdůležitější",
       "imageUrl": null,
@@ -33137,7 +33137,7 @@
     },
     {
       "id": "q_104530",
-      "category": "Pravidla provozu",
+      "category": "Zdravotnická příprava",
       "points": 1,
       "question": "U poraněného s podezřením na úraz páteře:",
       "imageUrl": null,
@@ -33227,7 +33227,7 @@
     },
     {
       "id": "q_104553",
-      "category": "Pravidla provozu",
+      "category": "Související předpisy",
       "points": 2,
       "question": "Na výzvu policisty je řidič povinen podrobit vozidlo kontrole technického stavu vozidla. Zjistí-li se při této kontrole vážná nebo nebezpečná závada",
       "imageUrl": null,
@@ -33257,7 +33257,7 @@
     },
     {
       "id": "q_104567",
-      "category": "Pravidla provozu",
+      "category": "Zdravotnická příprava",
       "points": 1,
       "question": "Pří zevní srdeční masáži",
       "imageUrl": null,
@@ -33437,7 +33437,7 @@
     },
     {
       "id": "q_105487",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Ve vyobrazené situaci řidič oranžového vozidla při předjíždění cyklistů:",
       "imageUrl": null,
@@ -33467,7 +33467,7 @@
     },
     {
       "id": "q_105488",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Ve vyobrazené dopravní situaci řidič oranžového vozidla při předjíždění cyklistů:",
       "imageUrl": null,
@@ -33497,7 +33497,7 @@
     },
     {
       "id": "q_105489",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Řidič vozidla jedoucí jednosměrnou pozemní komunikací podél zaparkovaných vozidel:",
       "imageUrl": null,
@@ -33527,7 +33527,7 @@
     },
     {
       "id": "q_105490",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Ve vyobrazené dopravní situaci v souladu s pravidly silničního provozu:",
       "imageUrl": null,
@@ -33557,7 +33557,7 @@
     },
     {
       "id": "q_105491",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Musí řidič vozidla jedoucího v levém jízdním pruhu ve vyobrazené dopravní situaci zastavit vozidlo před přechodem pro chodce?",
       "imageUrl": null,
@@ -33587,7 +33587,7 @@
     },
     {
       "id": "q_105492",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Co může očekávat řidič vozidla z výhledu v místě, kde je na vozovce ve vyobrazené dopravní situaci vyznačena bílá klikatá čára?",
       "imageUrl": null,
@@ -33617,7 +33617,7 @@
     },
     {
       "id": "q_105493",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Ve vyobrazené dopravní situaci:",
       "imageUrl": null,
@@ -33647,7 +33647,7 @@
     },
     {
       "id": "q_105494",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Musí řidič vozidla z výhledu v ukázce při výjezdu z kruhového objezdu zastavit vozidlo před přechodem pro chodce a umožnit chodkyni přejít vozovku?",
       "imageUrl": null,
@@ -33677,7 +33677,7 @@
     },
     {
       "id": "q_105495",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Ve vyobrazené dopravní situaci řidič vozidla z výhledu:",
       "imageUrl": null,
@@ -33707,7 +33707,7 @@
     },
     {
       "id": "q_105496",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Ve vyobrazené dopravní situaci:",
       "imageUrl": null,
@@ -33737,7 +33737,7 @@
     },
     {
       "id": "q_105497",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Mohl řidič vozidla z výhledu ve vyobrazené dopravní situaci očekávat pohyb chodců na krajnici nebo na okraji vozovky?",
       "imageUrl": null,
@@ -33767,7 +33767,7 @@
     },
     {
       "id": "q_105498",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Mohl by řidič vozidla z výhledu ve vyobrazené dopravní situaci zastavit u chodníku ve vyhrazeném jízdním pruhu pro cyklisty, z důvodu vystoupení spolujezdce?",
       "imageUrl": null,
@@ -33797,7 +33797,7 @@
     },
     {
       "id": "q_105499",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Řidič motorového vozidla z výhledu při odbočování vpravo:",
       "imageUrl": null,
@@ -33827,7 +33827,7 @@
     },
     {
       "id": "q_105500",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Ve vyobrazené dopravní situaci řidič vozidla z výhledu:",
       "imageUrl": null,
@@ -33857,7 +33857,7 @@
     },
     {
       "id": "q_105501",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Mohl řidič vozidla z výhledu ve vyobrazené dopravní situaci předjet jezdce na koloběžce?",
       "imageUrl": null,
@@ -33887,7 +33887,7 @@
     },
     {
       "id": "q_105502",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Jezdec na koloběžce ve vyobrazené dopravní situaci:",
       "imageUrl": null,
@@ -33917,7 +33917,7 @@
     },
     {
       "id": "q_105503",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Ve vyobrazené dopravní situaci:",
       "imageUrl": null,
@@ -33947,7 +33947,7 @@
     },
     {
       "id": "q_105504",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Ve vyobrazené dopravní situaci cyklista na jízdním kole:",
       "imageUrl": null,
@@ -33977,7 +33977,7 @@
     },
     {
       "id": "q_105505",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Při předjíždění cyklisty ve vyobrazené dopravní situaci řidič oranžového vozidla:",
       "imageUrl": null,
@@ -34007,7 +34007,7 @@
     },
     {
       "id": "q_105506",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Ve vyobrazené dopravní situaci:",
       "imageUrl": null,
@@ -34037,7 +34037,7 @@
     },
     {
       "id": "q_105507",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Ve vyobrazené dopravní situaci:",
       "imageUrl": null,
@@ -34067,7 +34067,7 @@
     },
     {
       "id": "q_105508",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Ve vyobrazené dopravní situaci řidič při jízdě podél zaparkovaných vozidel:",
       "imageUrl": null,
@@ -34097,7 +34097,7 @@
     },
     {
       "id": "q_105509",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Které z vyobrazených rizik je nejzávažnější:",
       "imageUrl": null,
@@ -34127,7 +34127,7 @@
     },
     {
       "id": "q_105510",
-      "category": "Podmínky provozu",
+      "category": "Řešení dopravních situací",
       "points": 4,
       "question": "Řidič přijíždějící k zastávce autobusu:",
       "imageUrl": null,
